@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "openriamap.data-release-mirror-manifest.v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "releaseId", "cosSource", "controlCommit", "mirroredAt", "files"],
+  "properties": {
+    "schemaVersion": { "const": "openriamap.data-release-mirror-manifest.v1" },
+    "releaseId": { "type": "string", "minLength": 1 },
+    "cosSource": { "type": "string", "pattern": "^cos://" },
+    "controlCommit": { "type": "string", "pattern": "^[0-9a-f]{40}$" },
+    "mirroredAt": { "type": "string", "format": "date-time" },
+    "files": { "type": "array", "items": { "type": "object", "required": ["path", "sha256"], "properties": { "path": { "type": "string" }, "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" } } } }
+  }
+}
