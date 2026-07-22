@@ -2,5 +2,8 @@
   "name": "openriamap-cairn-data",
   "private": true,
   "type": "module",
-  "scripts": { "validate": "node ./scripts/validate-release-mirror.mjs" }
+  "scripts": {
+    "test": "node ./scripts/test-release-mirror.mjs",
+    "validate": "node ./scripts/validate-release-mirror.mjs"
+  }
 }
