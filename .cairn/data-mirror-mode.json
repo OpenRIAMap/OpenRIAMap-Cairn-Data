@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "openriamap.data-mirror-mode.v1",
+  "mode": "cos-authoritative-github-mirror",
+  "cosDataAuthority": "cos://openriamap-cairn-data-1433163128/",
+  "mirrorRepository": "OpenRIAMap/OpenRIAMap-Cairn-Data",
+  "mirrorBranch": "main",
+  "firstFormalRelease": {
+    "releaseId": "baseline-a13ffc97e517-r1",
+    "controlCommit": "6ca05d3d8ab2a12cc8c6251ba1fe8ca017d9bf6d",
+    "mirrorCommit": "923b9c23671b95f8323de15917cd095d2b8d006d",
+    "mirroredAt": "2026-07-22T04:16:19.829Z",
+    "outboxSha256": "b8f8fe92a86b646075fae0c4ca6349c82d2fca74b868167480d036438bfcd198"
+  },
+  "allowedMirrorPaths": [
+    "releases/<releaseId>/data-merge/**",
+    "releases/<releaseId>/media-index-merge/**",
+    "releases/<releaseId>/manifests/**",
+    "current/worlds/_release-set.json",
+    "current/worlds/<worldId>.json"
+  ],
+  "prohibitedContent": [
+    "review packages",
+    "Control records",
+    "credentials",
+    "pipeline configuration",
+    "staging output",
+    "split-only artifacts",
+    "raw media"
+  ]
+}
