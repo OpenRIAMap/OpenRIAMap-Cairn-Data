@@ -1,0 +1,37 @@
+{
+  "ID": "ZBUD_TS_GJ1",
+  "Name": "古建",
+  "Kind": "NOM",
+  "SKind": "NOM",
+  "tags": {
+    "nomenclator": "639",
+    "Land": "ZNGFLADISD_GLLD"
+  },
+  "Conpoints": [
+    [
+      4604,
+      -64,
+      5764
+    ],
+    [
+      4603.5,
+      -64,
+      5791
+    ],
+    [
+      4637.5,
+      -64,
+      5791
+    ],
+    [
+      4637.5,
+      -64,
+      5764.5
+    ]
+  ],
+  "Type": "Polygon",
+  "Class": "BUD",
+  "World": 0,
+  "CreateTime": "20260913",
+  "CreateBy": "639"
+}

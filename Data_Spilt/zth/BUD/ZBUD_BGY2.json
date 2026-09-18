@@ -1,0 +1,33 @@
+{
+  "ID": "ZBUD_BGY2",
+  "Name": "必贵园·闻涛居",
+  "Kind": "NOM",
+  "SKind": "NOM",
+  "Conpoints": [
+    [
+      8868,
+      -64,
+      8702
+    ],
+    [
+      8868,
+      -64,
+      8914
+    ],
+    [
+      8766,
+      -64,
+      8914
+    ],
+    [
+      8766,
+      -64,
+      8702
+    ]
+  ],
+  "Type": "Polygon",
+  "Class": "BUD",
+  "World": 0,
+  "CreateTime": "20260914",
+  "CreateBy": "Aut_moon_white"
+}

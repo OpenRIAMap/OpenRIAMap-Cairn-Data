@@ -1,0 +1,40 @@
+{
+  "ID": "ZBUD_TS_XZ",
+  "Name": "幸宅",
+  "Kind": "NOM",
+  "SKind": "NOM",
+  "Situation": "",
+  "elevation": "",
+  "height": "",
+  "tags": {
+    "nomenclator": "639"
+  },
+  "Conpoints": [
+    [
+      5185.5,
+      -64,
+      4742
+    ],
+    [
+      5185.5,
+      -64,
+      4757
+    ],
+    [
+      5205.5,
+      -64,
+      4757
+    ],
+    [
+      5206,
+      -64,
+      4742
+    ]
+  ],
+  "Type": "Polygon",
+  "Class": "BUD",
+  "World": 0,
+  "CreateTime": "20260913",
+  "CreateBy": "639",
+  "ModifityTime": "20260914"
+}

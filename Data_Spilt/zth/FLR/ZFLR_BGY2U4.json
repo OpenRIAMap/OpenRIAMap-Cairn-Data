@@ -1,0 +1,40 @@
+{
+  "ID": "ZFLR_BGY2U4",
+  "Name": "4幢",
+  "NofFloor": "1",
+  "Kind": "NOM",
+  "SKind": "NOM",
+  "BuildingID": "ZBUD_BGY2",
+  "Situation": "",
+  "elevation": "",
+  "height": "",
+  "Flrpoints": [
+    [
+      8827,
+      -64,
+      8857
+    ],
+    [
+      8827,
+      -64,
+      8896
+    ],
+    [
+      8848,
+      -64,
+      8896
+    ],
+    [
+      8848,
+      -64,
+      8857
+    ]
+  ],
+  "Type": "Polygon",
+  "Class": "FLR",
+  "World": 0,
+  "CreateTime": "20260914",
+  "CreateBy": "Aut_moon_white",
+  "ModifityTime": "20260914",
+  "ModifityBy": "Aut_moon_white"
+}

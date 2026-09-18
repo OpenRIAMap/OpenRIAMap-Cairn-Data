@@ -1,0 +1,21 @@
+{
+  "ID": "ZBUD_SYW_01",
+  "Name": "四叶湾1号房",
+  "Kind": "NOM",
+  "SKind": "NOM",
+  "tags": {
+    "nomenclator": "639",
+    "Land": "ZNGFLADISD_GLLD"
+  },
+  "Type": "Polygon",
+  "Class": "BUD",
+  "World": 0,
+  "CreateTime": "20260721",
+  "CreateBy": "639",
+  "Conpoints": [
+    [4379.5,-64,5146.5],
+    [4379.5,-64,5169.5],
+    [4399.5,-64,5169.5],
+    [4399.5,-64,5146.5]
+  ]
+}

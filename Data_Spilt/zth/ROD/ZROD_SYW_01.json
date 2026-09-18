@@ -1,0 +1,19 @@
+{
+  "ID": "ZROD_SYW_01",
+  "Name": "四叶湾路",
+  "Kind": "RES",
+  "Level": 0,
+  "Oneway": false,
+  "Enter": true,
+  "Exit": true,
+  "SelfJunction": false,
+  "Type": "Polyline",
+  "Class": "ROD",
+  "World": 0,
+  "CreateTime": "20260721",
+  "CreateBy": "639",
+  "Linepoints": [
+    [4368.5,-64,5161.5],
+    [4368.5,-64,5249.5]
+  ]
+}

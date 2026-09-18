@@ -1,0 +1,32 @@
+{
+  "ID": "ZRH1PFB_1",
+  "Name": "海华港",
+  "LineID": "ZRH1_A",
+  "Flrpoints": [
+    [
+      9163,
+      -64,
+      8884
+    ],
+    [
+      9163,
+      -64,
+      8907
+    ],
+    [
+      9148,
+      -64,
+      8907
+    ],
+    [
+      9148,
+      -64,
+      8884
+    ]
+  ],
+  "Type": "Polygon",
+  "Class": "PFB",
+  "World": 0,
+  "CreateTime": "20260916",
+  "CreateBy": "Aut_moon_white"
+}

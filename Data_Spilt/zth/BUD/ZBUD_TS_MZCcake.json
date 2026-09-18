@@ -1,0 +1,33 @@
+{
+  "ID": "ZBUD_TS_MZCcake",
+  "Name": "MZC的生日蛋糕",
+  "Kind": "NOM",
+  "SKind": "NOM",
+  "Conpoints": [
+    [
+      5095.5,
+      -64,
+      4411.5
+    ],
+    [
+      5095.5,
+      -64,
+      4442.5
+    ],
+    [
+      5126.5,
+      -64,
+      4442.5
+    ],
+    [
+      5126.5,
+      -64,
+      4411.5
+    ]
+  ],
+  "Type": "Polygon",
+  "Class": "BUD",
+  "World": 0,
+  "CreateTime": "20260917",
+  "CreateBy": "639"
+}

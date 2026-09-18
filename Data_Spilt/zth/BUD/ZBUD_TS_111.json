@@ -1,0 +1,36 @@
+{
+  "ID": "ZBUD_TS_111",
+  "Name": "111",
+  "Kind": "NOM",
+  "SKind": "NOM",
+  "tags": {
+    "Land": "ZNGFLADISD_HBD"
+  },
+  "Conpoints": [
+    [
+      5568,
+      -64,
+      4718
+    ],
+    [
+      5567.5,
+      -64,
+      4741.5
+    ],
+    [
+      5605.5,
+      -64,
+      4741.5
+    ],
+    [
+      5605.5,
+      -64,
+      4718.5
+    ]
+  ],
+  "Type": "Polygon",
+  "Class": "BUD",
+  "World": 0,
+  "CreateTime": "20260914",
+  "CreateBy": "639"
+}

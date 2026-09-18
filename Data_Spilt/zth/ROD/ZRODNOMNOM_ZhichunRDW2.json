@@ -1,0 +1,31 @@
+{
+  "ID": "ZRODNOMNOM_ZhichunRDW2",
+  "Name": "知春路隧道",
+  "Kind": "NOM",
+  "SKind": "NOM",
+  "Level": -1,
+  "Oneway": true,
+  "Enter": false,
+  "Exit": false,
+  "SelfJunction": false,
+  "Speed": "",
+  "Situation": "",
+  "Linepoints": [
+    [
+      8850.5,
+      -64,
+      8337.5
+    ],
+    [
+      8650.5,
+      -64,
+      8337.5
+    ]
+  ],
+  "Type": "Polyline",
+  "Class": "ROD",
+  "World": 0,
+  "CreateTime": "20260228",
+  "CreateBy": "HyperBird_",
+  "ModifityTime": "20260914"
+}
