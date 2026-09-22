@@ -1,10 +1,6 @@
 {
   "ID": "ZRT4STA_20",
   "Name": "星台站",
-  "coordinate": {
-    "x": 1931.5,
-    "z": 6773.5
-  },
   "platforms": [
     {
       "ID": "ZRT4PLF_20_D"
@@ -17,5 +13,8 @@
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251225",
-  "CreateBy": "639"
+  "CreateBy": "639",
+  "CoordP": [
+    [1931.5, -64, 6773.5]
+  ]
 }

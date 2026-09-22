@@ -1,10 +1,6 @@
 {
   "ID": "ZRT1STA_17",
   "Name": "南山口站",
-  "coordinate": {
-    "x": 5118.5,
-    "z": 4981.5
-  },
   "platforms": [
     {
       "ID": "ZRT1PLF_17_D"
@@ -16,5 +12,8 @@
   "Type": "Points",
   "Class": "STA",
   "World": 0,
-  "CreateTime": "20251225"
+  "CreateTime": "20251225",
+  "CoordP": [
+    [5118.5, -64, 4981.5]
+  ]
 }

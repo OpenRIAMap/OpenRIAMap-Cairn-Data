@@ -1,10 +1,6 @@
 {
   "ID": "ZRT4STA_12",
   "Name": "四叶海岸站",
-  "coordinate": {
-    "x": 4558.5,
-    "z": 5458.5
-  },
   "platforms": [
     {
       "ID": "ZRT4PLF_12_D"
@@ -17,5 +13,8 @@
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251225",
-  "CreateBy": "639"
+  "CreateBy": "639",
+  "CoordP": [
+    [4558.5, -64, 5458.5]
+  ]
 }

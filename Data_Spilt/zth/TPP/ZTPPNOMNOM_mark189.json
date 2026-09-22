@@ -5,15 +5,14 @@
   "SKind": "NOM",
   "TGTWarp": "zygy朝阳工业",
   "elevation": 65,
-  "coordinate": {
-    "x": -714.5,
-    "z": -1500.5
-  },
   "tags": {},
   "extensions": {},
   "Type": "Points",
   "Class": "TPP",
   "World": 0,
   "CreateTime": "20260203",
-  "CreateBy": "Aut_moon_white"
+  "CreateBy": "Aut_moon_white",
+  "CoordP": [
+    [-714.5, -64, -1500.5]
+  ]
 }

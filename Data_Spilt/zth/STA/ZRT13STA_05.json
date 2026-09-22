@@ -1,10 +1,6 @@
 {
   "ID": "ZRT13STA_05",
   "Name": "白风站",
-  "coordinate": {
-    "x": 1150.5,
-    "z": 9412.5
-  },
   "platforms": [
     {
       "ID": "ZRT13PLF_05_D"
@@ -17,5 +13,8 @@
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251225",
-  "CreateBy": "639"
+  "CreateBy": "639",
+  "CoordP": [
+    [1150.5, -64, 9412.5]
+  ]
 }

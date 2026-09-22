@@ -1,10 +1,6 @@
 {
   "ID": "ZRT4STA_18",
   "Name": "幕沼站",
-  "coordinate": {
-    "x": 2885.5,
-    "z": 6642.5
-  },
   "platforms": [
     {
       "ID": "ZRT4PLF_18_D"
@@ -17,5 +13,8 @@
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251225",
-  "CreateBy": "639"
+  "CreateBy": "639",
+  "CoordP": [
+    [2885.5, -64, 6642.5]
+  ]
 }

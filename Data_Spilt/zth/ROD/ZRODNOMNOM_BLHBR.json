@@ -5,18 +5,6 @@
   "SKind": "NOM",
   "Level": 0,
   "Oneway": false,
-  "Linepoints": [
-    [
-      5073,
-      -64,
-      4483
-    ],
-    [
-      5073,
-      -64,
-      4560
-    ]
-  ],
   "tags": {
     "nomenclator": "639"
   },
@@ -24,5 +12,11 @@
   "Class": "ROD",
   "World": 0,
   "CreateTime": "20260226",
-  "CreateBy": "639"
+  "CreateBy": "639",
+  "CoordL": [
+    [
+      [5073, -64, 4483],
+      [5073, -64, 4560]
+    ]
+  ]
 }

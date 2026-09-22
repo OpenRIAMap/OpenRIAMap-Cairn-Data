@@ -3,10 +3,6 @@
   "Name": "守望者站-2站台",
   "Situation": true,
   "Connect": true,
-  "coordinate": {
-    "x": 5105.5,
-    "z": 8152.5
-  },
   "lines": [
     {
       "ID": "ZRT7_01C_U",
@@ -20,5 +16,8 @@
   "Type": "Points",
   "Class": "PLF",
   "World": 0,
-  "CreateTime": "20251225"
+  "CreateTime": "20251225",
+  "CoordP": [
+    [5105.5, -64, 8152.5]
+  ]
 }

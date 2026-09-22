@@ -3,10 +3,6 @@
   "Name": "终点站-1站台",
   "Situation": true,
   "Connect": true,
-  "coordinate": {
-    "x": 5278.5,
-    "z": 8099.5
-  },
   "lines": [
     {
       "ID": "ZRT7_01C_D",
@@ -20,5 +16,8 @@
   "Type": "Points",
   "Class": "PLF",
   "World": 0,
-  "CreateTime": "20251225"
+  "CreateTime": "20251225",
+  "CoordP": [
+    [5278.5, -64, 8099.5]
+  ]
 }

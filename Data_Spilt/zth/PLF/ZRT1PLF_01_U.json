@@ -3,10 +3,6 @@
   "Name": "黄与红站-2站台",
   "Situation": true,
   "Connect": true,
-  "coordinate": {
-    "x": 1031.5,
-    "z": 2746.5
-  },
   "lines": [
     {
       "ID": "ZRT1_01C_U",
@@ -20,5 +16,8 @@
   "Type": "Points",
   "Class": "PLF",
   "World": 0,
-  "CreateTime": "20251224"
+  "CreateTime": "20251224",
+  "CoordP": [
+    [1031.5, -64, 2746.5]
+  ]
 }

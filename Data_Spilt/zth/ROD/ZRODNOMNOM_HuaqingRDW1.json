@@ -6,18 +6,6 @@
   "Level": 0,
   "Oneway": true,
   "Enter": true,
-  "Linepoints": [
-    [
-      9104.5,
-      -64,
-      8183.5
-    ],
-    [
-      8925.5,
-      -64,
-      8183.5
-    ]
-  ],
   "tags": {
     "UAdm": "海华",
     "UAdmG": "北辰区"
@@ -26,5 +14,11 @@
   "Class": "ROD",
   "World": 0,
   "CreateTime": "20260228",
-  "CreateBy": "HyperBird_"
+  "CreateBy": "HyperBird_",
+  "CoordL": [
+    [
+      [9104.5, -64, 8183.5],
+      [8925.5, -64, 8183.5]
+    ]
+  ]
 }

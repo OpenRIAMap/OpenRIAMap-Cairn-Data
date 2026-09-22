@@ -1,10 +1,6 @@
 {
   "ID": "ZRT4STA_02",
   "Name": "山滨站",
-  "coordinate": {
-    "x": 7077.5,
-    "z": 4193.5
-  },
   "platforms": [
     {
       "ID": "ZRT4PLF_02_D"
@@ -17,5 +13,8 @@
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251225",
-  "CreateBy": "639"
+  "CreateBy": "639",
+  "CoordP": [
+    [7077.5, -64, 4193.5]
+  ]
 }

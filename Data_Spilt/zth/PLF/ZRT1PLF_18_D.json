@@ -3,10 +3,6 @@
   "Name": "东坪站-1站台",
   "Situation": true,
   "Connect": true,
-  "coordinate": {
-    "x": 5213.5,
-    "z": 4896.5
-  },
   "lines": [
     {
       "ID": "ZRT1_01A_D",
@@ -20,5 +16,8 @@
   "Type": "Points",
   "Class": "PLF",
   "World": 0,
-  "CreateTime": "20251225"
+  "CreateTime": "20251225",
+  "CoordP": [
+    [5213.5, -64, 4896.5]
+  ]
 }

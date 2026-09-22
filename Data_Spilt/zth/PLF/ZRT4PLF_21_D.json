@@ -3,10 +3,6 @@
   "Name": "连东站-1站台",
   "Situation": true,
   "Connect": true,
-  "coordinate": {
-    "x": 1828.5,
-    "z": 7057.5
-  },
   "lines": [
     {
       "ID": "ZRT4_01C_D",
@@ -23,5 +19,8 @@
   "CreateTime": "20251225",
   "CreateBy": "639",
   "ModifityTime": "20251225",
-  "ModifityBy": "639"
+  "ModifityBy": "639",
+  "CoordP": [
+    [1828.5, -64, 7057.5]
+  ]
 }

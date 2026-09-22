@@ -3,10 +3,6 @@
   "Name": "星台南接入口",
   "Situation": true,
   "Connect": false,
-  "coordinate": {
-    "x": 1933.5,
-    "z": 6911.5
-  },
   "lines": [
     {
       "ID": "ZRTL1_01A",
@@ -29,5 +25,8 @@
   "Class": "PLF",
   "World": 0,
   "CreateTime": "20251225",
-  "CreateBy": "639"
+  "CreateBy": "639",
+  "CoordP": [
+    [1933.5, -64, 6911.5]
+  ]
 }

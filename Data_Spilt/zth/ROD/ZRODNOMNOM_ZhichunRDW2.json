@@ -10,22 +10,16 @@
   "SelfJunction": false,
   "Speed": "",
   "Situation": "",
-  "Linepoints": [
-    [
-      8850.5,
-      -64,
-      8337.5
-    ],
-    [
-      8650.5,
-      -64,
-      8337.5
-    ]
-  ],
   "Type": "Polyline",
   "Class": "ROD",
   "World": 0,
   "CreateTime": "20260228",
   "CreateBy": "HyperBird_",
-  "ModifityTime": "20260914"
+  "ModifityTime": "20260914",
+  "CoordL": [
+    [
+      [8850.5, -64, 8337.5],
+      [8650.5, -64, 8337.5]
+    ]
+  ]
 }

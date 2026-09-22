@@ -3,10 +3,6 @@
   "Name": "山岸站-2站台",
   "Situation": true,
   "Connect": true,
-  "coordinate": {
-    "x": 3515.5,
-    "z": 3121.5
-  },
   "lines": [
     {
       "ID": "ZRT1_01C_U",
@@ -20,5 +16,8 @@
   "Type": "Points",
   "Class": "PLF",
   "World": 0,
-  "CreateTime": "20251225"
+  "CreateTime": "20251225",
+  "CoordP": [
+    [3515.5, -64, 3121.5]
+  ]
 }

@@ -3,10 +3,6 @@
   "Name": "庐台站-2站台",
   "Situation": true,
   "Connect": true,
-  "coordinate": {
-    "x": 5278.5,
-    "z": 7235.5
-  },
   "lines": [
     {
       "ID": "ZRT7_01C_U",
@@ -20,5 +16,8 @@
   "Type": "Points",
   "Class": "PLF",
   "World": 0,
-  "CreateTime": "20251225"
+  "CreateTime": "20251225",
+  "CoordP": [
+    [5278.5, -64, 7235.5]
+  ]
 }

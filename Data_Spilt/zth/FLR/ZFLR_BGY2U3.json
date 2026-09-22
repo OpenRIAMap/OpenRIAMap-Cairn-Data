@@ -8,33 +8,21 @@
   "Situation": "",
   "elevation": "",
   "height": "",
-  "Flrpoints": [
-    [
-      8784,
-      -64,
-      8825
-    ],
-    [
-      8784,
-      -64,
-      8864
-    ],
-    [
-      8805,
-      -64,
-      8864
-    ],
-    [
-      8805,
-      -64,
-      8825
-    ]
-  ],
   "Type": "Polygon",
   "Class": "FLR",
   "World": 0,
   "CreateTime": "20260914",
   "CreateBy": "Aut_moon_white",
   "ModifityTime": "20260914",
-  "ModifityBy": "Aut_moon_white"
+  "ModifityBy": "Aut_moon_white",
+  "CoordG": [
+    [
+      [
+        [8784, -64, 8825],
+        [8784, -64, 8864],
+        [8805, -64, 8864],
+        [8805, -64, 8825]
+      ]
+    ]
+  ]
 }

@@ -1,10 +1,6 @@
 {
   "ID": "ZRT1STA_07",
   "Name": "乡谷站",
-  "coordinate": {
-    "x": 3965.5,
-    "z": 3121.5
-  },
   "platforms": [
     {
       "ID": "ZRT1PLF_07_D"
@@ -16,5 +12,8 @@
   "Type": "Points",
   "Class": "STA",
   "World": 0,
-  "CreateTime": "20251225"
+  "CreateTime": "20251225",
+  "CoordP": [
+    [3965.5, -64, 3121.5]
+  ]
 }

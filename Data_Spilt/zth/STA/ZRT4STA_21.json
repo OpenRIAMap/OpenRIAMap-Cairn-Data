@@ -1,10 +1,6 @@
 {
   "ID": "ZRT4STA_21",
   "Name": "连东站",
-  "coordinate": {
-    "x": 1828.5,
-    "z": 7057.5
-  },
   "platforms": [
     {
       "ID": "ZRT4PLF_21_D"
@@ -19,5 +15,8 @@
   "CreateTime": "20251225",
   "CreateBy": "639",
   "ModifityTime": "20251225",
-  "ModifityBy": "639"
+  "ModifityBy": "639",
+  "CoordP": [
+    [1828.5, -64, 7057.5]
+  ]
 }

@@ -81,9 +81,7 @@
   "CreateBy": "639",
   "ModifityTime": "20260411",
   "ModifityBy": "639",
-  "coordinate": {
-    "x": -766,
-    "z": -1570,
-    "y": 71
-  }
+  "CoordP": [
+    [-766, 71, -1570]
+  ]
 }

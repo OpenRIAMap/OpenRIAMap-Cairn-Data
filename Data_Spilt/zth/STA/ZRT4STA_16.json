@@ -1,10 +1,6 @@
 {
   "ID": "ZRT4STA_16",
   "Name": "岭上神社站",
-  "coordinate": {
-    "x": 3425.5,
-    "z": 6175.5
-  },
   "platforms": [
     {
       "ID": "ZRT4PLF_16_D"
@@ -17,5 +13,8 @@
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251225",
-  "CreateBy": "639"
+  "CreateBy": "639",
+  "CoordP": [
+    [3425.5, -64, 6175.5]
+  ]
 }

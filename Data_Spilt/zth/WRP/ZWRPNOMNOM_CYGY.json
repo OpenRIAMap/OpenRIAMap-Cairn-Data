@@ -6,10 +6,6 @@
   "SKind": "NOM",
   "hub": "zthspawn",
   "elevation": 72,
-  "coordinate": {
-    "x": 9199.5,
-    "z": 8408.5
-  },
   "tags": {
     "UAdmG": "海华"
   },
@@ -22,5 +18,8 @@
   "Class": "WRP",
   "World": 0,
   "CreateTime": "20260203",
-  "CreateBy": "Aut_moon_white"
+  "CreateBy": "Aut_moon_white",
+  "CoordP": [
+    [9199.5, -64, 8408.5]
+  ]
 }

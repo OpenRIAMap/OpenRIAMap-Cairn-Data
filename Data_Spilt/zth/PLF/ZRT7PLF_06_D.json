@@ -3,10 +3,6 @@
   "Name": "溯东站-3站台",
   "Situation": true,
   "Connect": true,
-  "coordinate": {
-    "x": 5465.5,
-    "z": 4851.5
-  },
   "lines": [
     {
       "ID": "ZRT7_01A_D",
@@ -28,5 +24,8 @@
   "Type": "Points",
   "Class": "PLF",
   "World": 0,
-  "CreateTime": "20251225"
+  "CreateTime": "20251225",
+  "CoordP": [
+    [5465.5, -64, 4851.5]
+  ]
 }

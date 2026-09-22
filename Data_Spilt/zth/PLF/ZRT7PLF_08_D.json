@@ -3,10 +3,6 @@
   "Name": "外港站-1站台",
   "Situation": true,
   "Connect": true,
-  "coordinate": {
-    "x": 5465.5,
-    "z": 5341.5
-  },
   "lines": [
     {
       "ID": "ZRT7_01B_D",
@@ -20,5 +16,8 @@
   "Type": "Points",
   "Class": "PLF",
   "World": 0,
-  "CreateTime": "20251225"
+  "CreateTime": "20251225",
+  "CoordP": [
+    [5465.5, -64, 5341.5]
+  ]
 }

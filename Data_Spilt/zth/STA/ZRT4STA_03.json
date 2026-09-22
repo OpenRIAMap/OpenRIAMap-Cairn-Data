@@ -1,10 +1,6 @@
 {
   "ID": "ZRT4STA_03",
   "Name": "旧城站",
-  "coordinate": {
-    "x": 6793.5,
-    "z": 4377.5
-  },
   "platforms": [
     {
       "ID": "ZRT4PLF_03_D"
@@ -17,5 +13,8 @@
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251225",
-  "CreateBy": "639"
+  "CreateBy": "639",
+  "CoordP": [
+    [6793.5, -64, 4377.5]
+  ]
 }

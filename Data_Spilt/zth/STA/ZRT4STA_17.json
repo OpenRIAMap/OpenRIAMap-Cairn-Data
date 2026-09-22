@@ -1,10 +1,6 @@
 {
   "ID": "ZRT4STA_17",
   "Name": "岭上西站",
-  "coordinate": {
-    "x": 3017.5,
-    "z": 6405.5
-  },
   "platforms": [
     {
       "ID": "ZRT4PLF_17_D"
@@ -17,5 +13,8 @@
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251225",
-  "CreateBy": "639"
+  "CreateBy": "639",
+  "CoordP": [
+    [3017.5, -64, 6405.5]
+  ]
 }

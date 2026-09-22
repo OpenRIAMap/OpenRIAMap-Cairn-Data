@@ -3,10 +3,6 @@
   "Name": "会展中心-2站台",
   "Situation": true,
   "Connect": true,
-  "coordinate": {
-    "x": 9019.5,
-    "z": 7983.5
-  },
   "lines": [
     {
       "ID": "ZRH7_A_01_D",
@@ -22,5 +18,8 @@
   "Class": "PLF",
   "World": 0,
   "CreateTime": "20251231",
-  "CreateBy": "HyperBird_"
+  "CreateBy": "HyperBird_",
+  "CoordP": [
+    [9019.5, -64, 7983.5]
+  ]
 }

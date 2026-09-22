@@ -1,10 +1,6 @@
 {
   "ID": "ZRT4STA_08",
   "Name": "北溯工站",
-  "coordinate": {
-    "x": 5296.5,
-    "z": 4615.5
-  },
   "platforms": [
     {
       "ID": "ZRT4PLF_08_D"
@@ -17,5 +13,8 @@
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251225",
-  "CreateBy": "639"
+  "CreateBy": "639",
+  "CoordP": [
+    [5296.5, -64, 4615.5]
+  ]
 }

@@ -1,10 +1,6 @@
 {
   "ID": "ZRT7STA_07",
   "Name": "空言海岸站",
-  "coordinate": {
-    "x": 5465.5,
-    "z": 5202.5
-  },
   "platforms": [
     {
       "ID": "ZRT7PLF_07_D"
@@ -16,5 +12,8 @@
   "Type": "Points",
   "Class": "STA",
   "World": 0,
-  "CreateTime": "20251225"
+  "CreateTime": "20251225",
+  "CoordP": [
+    [5465.5, -64, 5202.5]
+  ]
 }

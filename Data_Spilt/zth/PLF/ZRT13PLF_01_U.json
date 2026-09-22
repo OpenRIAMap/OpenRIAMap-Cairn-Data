@@ -3,10 +3,6 @@
   "Name": "连东站-2站台",
   "Situation": true,
   "Connect": true,
-  "coordinate": {
-    "x": 1828.5,
-    "z": 7045.5
-  },
   "lines": [
     {
       "ID": "ZRT13_01B_U",
@@ -29,5 +25,8 @@
   "Class": "PLF",
   "World": 0,
   "CreateTime": "20251225",
-  "CreateBy": "639"
+  "CreateBy": "639",
+  "CoordP": [
+    [1828.5, -64, 7045.5]
+  ]
 }

@@ -3,10 +3,6 @@
   "Name": "白令运河站-2站台",
   "Situation": true,
   "Connect": true,
-  "coordinate": {
-    "x": 4558.5,
-    "z": 6042.5
-  },
   "lines": [
     {
       "ID": "ZRT4_01A_U",
@@ -21,5 +17,8 @@
   "Class": "PLF",
   "World": 0,
   "CreateTime": "20251225",
-  "CreateBy": "639"
+  "CreateBy": "639",
+  "CoordP": [
+    [4558.5, -64, 6042.5]
+  ]
 }

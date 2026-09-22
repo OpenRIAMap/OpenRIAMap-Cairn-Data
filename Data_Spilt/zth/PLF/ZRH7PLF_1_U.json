@@ -3,10 +3,6 @@
   "Name": "海华北站-1站台",
   "Situation": true,
   "Connect": true,
-  "coordinate": {
-    "x": 8792.5,
-    "z": 8247.5
-  },
   "lines": [
     {
       "ID": "ZRH7_A_01_U",
@@ -22,5 +18,8 @@
   "Class": "PLF",
   "World": 0,
   "CreateTime": "20251231",
-  "CreateBy": "HyperBird_"
+  "CreateBy": "HyperBird_",
+  "CoordP": [
+    [8792.5, -64, 8247.5]
+  ]
 }

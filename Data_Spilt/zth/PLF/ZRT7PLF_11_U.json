@@ -3,10 +3,6 @@
   "Name": "南滨站-2站台",
   "Situation": true,
   "Connect": true,
-  "coordinate": {
-    "x": 5191.5,
-    "z": 6305.5
-  },
   "lines": [
     {
       "ID": "ZRT7_01B_U",
@@ -20,5 +16,8 @@
   "Type": "Points",
   "Class": "PLF",
   "World": 0,
-  "CreateTime": "20251225"
+  "CreateTime": "20251225",
+  "CoordP": [
+    [5191.5, -64, 6305.5]
+  ]
 }

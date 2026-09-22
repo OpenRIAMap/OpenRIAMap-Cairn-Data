@@ -3,10 +3,6 @@
   "Name": "东屿站-1站台",
   "Situation": true,
   "Connect": true,
-  "coordinate": {
-    "x": 2900.5,
-    "z": 3121.5
-  },
   "lines": [
     {
       "ID": "ZRT1_01C_D",
@@ -20,5 +16,8 @@
   "Type": "Points",
   "Class": "PLF",
   "World": 0,
-  "CreateTime": "20251225"
+  "CreateTime": "20251225",
+  "CoordP": [
+    [2900.5, -64, 3121.5]
+  ]
 }

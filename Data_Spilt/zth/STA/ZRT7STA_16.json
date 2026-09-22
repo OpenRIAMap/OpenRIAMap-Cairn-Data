@@ -1,10 +1,6 @@
 {
   "ID": "ZRT7STA_16",
   "Name": "守望者站",
-  "coordinate": {
-    "x": 5105.5,
-    "z": 8152.5
-  },
   "platforms": [
     {
       "ID": "ZRT7PLF_16_D"
@@ -16,5 +12,8 @@
   "Type": "Points",
   "Class": "STA",
   "World": 0,
-  "CreateTime": "20251225"
+  "CreateTime": "20251225",
+  "CoordP": [
+    [5105.5, -64, 8152.5]
+  ]
 }

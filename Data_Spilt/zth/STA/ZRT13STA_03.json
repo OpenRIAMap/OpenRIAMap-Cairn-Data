@@ -1,10 +1,6 @@
 {
   "ID": "ZRT13STA_03",
   "Name": "狭原站",
-  "coordinate": {
-    "x": 1441.5,
-    "z": 7691.5
-  },
   "platforms": [
     {
       "ID": "ZRT13PLF_03_D"
@@ -17,5 +13,8 @@
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251225",
-  "CreateBy": "639"
+  "CreateBy": "639",
+  "CoordP": [
+    [1441.5, -64, 7691.5]
+  ]
 }

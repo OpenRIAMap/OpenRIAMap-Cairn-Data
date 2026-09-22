@@ -3,10 +3,6 @@
   "Name": "北岿站-2站台",
   "Situation": true,
   "Connect": true,
-  "coordinate": {
-    "x": 5663.5,
-    "z": 4384.5
-  },
   "lines": [
     {
       "ID": "ZRT7_01A_U",
@@ -20,5 +16,8 @@
   "Type": "Points",
   "Class": "PLF",
   "World": 0,
-  "CreateTime": "20251225"
+  "CreateTime": "20251225",
+  "CoordP": [
+    [5663.5, -64, 4384.5]
+  ]
 }

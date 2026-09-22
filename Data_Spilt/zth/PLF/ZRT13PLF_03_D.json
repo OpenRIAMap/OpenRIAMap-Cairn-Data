@@ -3,10 +3,6 @@
   "Name": "狭原站-1站台",
   "Situation": true,
   "Connect": true,
-  "coordinate": {
-    "x": 1439.5,
-    "z": 7691.5
-  },
   "lines": [
     {
       "ID": "ZRT13_01B_D",
@@ -21,5 +17,8 @@
   "Class": "PLF",
   "World": 0,
   "CreateTime": "20251225",
-  "CreateBy": "639"
+  "CreateBy": "639",
+  "CoordP": [
+    [1439.5, -64, 7691.5]
+  ]
 }

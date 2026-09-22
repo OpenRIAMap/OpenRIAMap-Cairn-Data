@@ -1,10 +1,6 @@
 {
   "ID": "ZRT13STA_06",
   "Name": "桐山站",
-  "coordinate": {
-    "x": 817.5,
-    "z": 9730.5
-  },
   "platforms": [
     {
       "ID": "ZRT13PLF_06_D"
@@ -17,5 +13,8 @@
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251225",
-  "CreateBy": "639"
+  "CreateBy": "639",
+  "CoordP": [
+    [817.5, -64, 9730.5]
+  ]
 }
