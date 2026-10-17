@@ -1,6 +1,8 @@
 {
   "ID": "ZRT4STA_15",
   "Name": "快乐小镇站",
+  "STBuilding": "ZRTSTB_KLXJ",
+  "elevation": "",
   "platforms": [
     {
       "ID": "ZRT4PLF_15_D"
@@ -9,12 +11,17 @@
       "ID": "ZRT4PLF_15_U"
     }
   ],
+  "CoordP": [
+    [
+      3718.5,
+      -64,
+      6175.5
+    ]
+  ],
   "Type": "Points",
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251225",
   "CreateBy": "639",
-  "CoordP": [
-    [3718.5, -64, 6175.5]
-  ]
+  "ModifityTime": "20261017"
 }

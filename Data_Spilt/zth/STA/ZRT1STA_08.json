@@ -1,6 +1,8 @@
 {
   "ID": "ZRT1STA_08",
   "Name": "守望之乡站",
+  "STBuilding": "ZRTSTB_SWZX",
+  "elevation": "",
   "platforms": [
     {
       "ID": "ZRT1PLF_08_D"
@@ -9,12 +11,16 @@
       "ID": "ZRT1PLF_08_U"
     }
   ],
+  "CoordP": [
+    [
+      4303.5,
+      -64,
+      3121.5
+    ]
+  ],
   "Type": "Points",
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251225",
-  "ModifityTime": "20251225",
-  "CoordP": [
-    [4303.5, -64, 3121.5]
-  ]
+  "ModifityTime": "20261017"
 }

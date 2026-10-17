@@ -1,6 +1,8 @@
 {
   "ID": "ZRT7STA_03",
   "Name": "花森站",
+  "STBuilding": "ZRTSTB_HS",
+  "elevation": "",
   "platforms": [
     {
       "ID": "ZRT7PLF_03_D"
@@ -9,11 +11,16 @@
       "ID": "ZRT7PLF_03_U"
     }
   ],
+  "CoordP": [
+    [
+      6066.5,
+      -64,
+      4189.5
+    ]
+  ],
   "Type": "Points",
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251225",
-  "CoordP": [
-    [6066.5, -64, 4189.5]
-  ]
+  "ModifityTime": "20261017"
 }

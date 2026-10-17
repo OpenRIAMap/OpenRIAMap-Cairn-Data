@@ -1,6 +1,8 @@
 {
   "ID": "ZRT13STA_05",
   "Name": "白风站",
+  "STBuilding": "ZRTSTB_BF",
+  "elevation": "",
   "platforms": [
     {
       "ID": "ZRT13PLF_05_D"
@@ -9,12 +11,17 @@
       "ID": "ZRT13PLF_05_D"
     }
   ],
+  "CoordP": [
+    [
+      1150.5,
+      -64,
+      9412.5
+    ]
+  ],
   "Type": "Points",
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251225",
   "CreateBy": "639",
-  "CoordP": [
-    [1150.5, -64, 9412.5]
-  ]
+  "ModifityTime": "20261017"
 }

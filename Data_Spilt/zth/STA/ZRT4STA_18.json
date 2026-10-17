@@ -1,6 +1,8 @@
 {
   "ID": "ZRT4STA_18",
   "Name": "幕沼站",
+  "STBuilding": "ZRTSTB_MZ",
+  "elevation": "",
   "platforms": [
     {
       "ID": "ZRT4PLF_18_D"
@@ -9,12 +11,17 @@
       "ID": "ZRT4PLF_18_U"
     }
   ],
+  "CoordP": [
+    [
+      2885.5,
+      -64,
+      6642.5
+    ]
+  ],
   "Type": "Points",
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251225",
   "CreateBy": "639",
-  "CoordP": [
-    [2885.5, -64, 6642.5]
-  ]
+  "ModifityTime": "20261017"
 }

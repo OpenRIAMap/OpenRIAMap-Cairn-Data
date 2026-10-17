@@ -1,6 +1,8 @@
 {
   "ID": "ZRT1STA_02",
   "Name": "林前站",
+  "STBuilding": "ZRTSTB_LQ",
+  "elevation": "",
   "platforms": [
     {
       "ID": "ZRT1PLF_02_D"
@@ -9,11 +11,16 @@
       "ID": "ZRT1PLF_02_U"
     }
   ],
+  "CoordP": [
+    [
+      1505.5,
+      -64,
+      3121.5
+    ]
+  ],
   "Type": "Points",
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251224",
-  "CoordP": [
-    [1505.5, -64, 3121.5]
-  ]
+  "ModifityTime": "20261017"
 }

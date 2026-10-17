@@ -1,6 +1,8 @@
 {
   "ID": "ZRT4STA_17",
   "Name": "岭上西站",
+  "STBuilding": "ZRTSTB_LSW",
+  "elevation": "",
   "platforms": [
     {
       "ID": "ZRT4PLF_17_D"
@@ -9,12 +11,17 @@
       "ID": "ZRT4PLF_17_U"
     }
   ],
+  "CoordP": [
+    [
+      3017.5,
+      -64,
+      6405.5
+    ]
+  ],
   "Type": "Points",
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251225",
   "CreateBy": "639",
-  "CoordP": [
-    [3017.5, -64, 6405.5]
-  ]
+  "ModifityTime": "20261017"
 }

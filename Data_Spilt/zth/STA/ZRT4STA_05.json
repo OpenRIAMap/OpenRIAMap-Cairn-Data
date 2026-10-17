@@ -1,6 +1,8 @@
 {
   "ID": "ZRT4STA_05",
   "Name": "天门站",
+  "STBuilding": "ZRTSTB_TM",
+  "elevation": "",
   "platforms": [
     {
       "ID": "ZRT4PLF_05_D"
@@ -9,12 +11,17 @@
       "ID": "ZRT4PLF_05_U"
     }
   ],
+  "CoordP": [
+    [
+      5879.5,
+      -64,
+      4615.5
+    ]
+  ],
   "Type": "Points",
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251225",
   "CreateBy": "639",
-  "CoordP": [
-    [5879.5, -64, 4615.5]
-  ]
+  "ModifityTime": "20261017"
 }

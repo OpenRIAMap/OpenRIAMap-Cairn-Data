@@ -1,6 +1,8 @@
 {
   "ID": "ZRT1STA_05",
   "Name": "东屿站",
+  "STBuilding": "ZRTSTB_DY",
+  "elevation": "",
   "platforms": [
     {
       "ID": "ZRT1PLF_05_D"
@@ -9,11 +11,16 @@
       "ID": "ZRT1PLF_05_U"
     }
   ],
+  "CoordP": [
+    [
+      2900.5,
+      -64,
+      3121.5
+    ]
+  ],
   "Type": "Points",
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251225",
-  "CoordP": [
-    [2900.5, -64, 3121.5]
-  ]
+  "ModifityTime": "20261017"
 }

@@ -1,6 +1,8 @@
 {
   "ID": "ZRT4STA_01",
   "Name": "北庭站",
+  "STBuilding": "ZRTSTB_BT",
+  "elevation": "",
   "platforms": [
     {
       "ID": "ZRT4PLF_01_D"
@@ -9,12 +11,17 @@
       "ID": "ZRT4PLF_01_U"
     }
   ],
+  "CoordP": [
+    [
+      7459.5,
+      -64,
+      3967.5
+    ]
+  ],
   "Type": "Points",
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251225",
   "CreateBy": "639",
-  "CoordP": [
-    [7459.5, -64, 3967.5]
-  ]
+  "ModifityTime": "20261017"
 }

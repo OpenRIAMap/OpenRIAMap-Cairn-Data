@@ -1,6 +1,8 @@
 {
   "ID": "ZRT4STA_19",
   "Name": "白给二号站",
+  "STBuilding": "ZRTSTB_BGEH",
+  "elevation": "",
   "platforms": [
     {
       "ID": "ZRT4PLF_19_D"
@@ -9,12 +11,17 @@
       "ID": "ZRT4PLF_19_U"
     }
   ],
+  "CoordP": [
+    [
+      2165.5,
+      -64,
+      6642.5
+    ]
+  ],
   "Type": "Points",
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251225",
   "CreateBy": "639",
-  "CoordP": [
-    [2165.5, -64, 6642.5]
-  ]
+  "ModifityTime": "20261017"
 }

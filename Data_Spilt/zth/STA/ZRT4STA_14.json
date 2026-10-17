@@ -1,6 +1,8 @@
 {
   "ID": "ZRT4STA_14",
   "Name": "白令运河站",
+  "STBuilding": "ZRTSTB_BLYH",
+  "elevation": "",
   "platforms": [
     {
       "ID": "ZRT4PLF_14_D"
@@ -9,12 +11,17 @@
       "ID": "ZRT4PLF_14_U"
     }
   ],
+  "CoordP": [
+    [
+      4558.5,
+      -64,
+      6042.5
+    ]
+  ],
   "Type": "Points",
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251225",
   "CreateBy": "639",
-  "CoordP": [
-    [4558.5, -64, 6042.5]
-  ]
+  "ModifityTime": "20261017"
 }

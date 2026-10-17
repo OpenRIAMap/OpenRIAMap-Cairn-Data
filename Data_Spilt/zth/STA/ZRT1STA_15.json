@@ -1,6 +1,8 @@
 {
   "ID": "ZRT1STA_15",
   "Name": "西城港站",
+  "STBuilding": "ZRTSTB_XCG",
+  "elevation": "",
   "platforms": [
     {
       "ID": "ZRT1PLF_15_D"
@@ -9,11 +11,16 @@
       "ID": "ZRT1PLF_15_U"
     }
   ],
+  "CoordP": [
+    [
+      5014.5,
+      -64,
+      4875.5
+    ]
+  ],
   "Type": "Points",
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251225",
-  "CoordP": [
-    [5014.5, -64, 4875.5]
-  ]
+  "ModifityTime": "20261017"
 }

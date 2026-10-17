@@ -1,6 +1,8 @@
 {
   "ID": "ZRT1STA_11",
   "Name": "岚岸站",
+  "STBuilding": "ZRTSTB_LA",
+  "elevation": "",
   "platforms": [
     {
       "ID": "ZRT1PLF_11_D"
@@ -9,11 +11,16 @@
       "ID": "ZRT1PLF_11_U"
     }
   ],
+  "CoordP": [
+    [
+      4791.5,
+      -64,
+      4385.5
+    ]
+  ],
   "Type": "Points",
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251225",
-  "CoordP": [
-    [4791.5, -64, 4385.5]
-  ]
+  "ModifityTime": "20261017"
 }

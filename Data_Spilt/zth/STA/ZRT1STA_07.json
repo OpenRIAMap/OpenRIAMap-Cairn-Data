@@ -1,6 +1,8 @@
 {
   "ID": "ZRT1STA_07",
   "Name": "乡谷站",
+  "STBuilding": "ZRTSTB_XG",
+  "elevation": "",
   "platforms": [
     {
       "ID": "ZRT1PLF_07_D"
@@ -9,11 +11,16 @@
       "ID": "ZRT1PLF_07_U"
     }
   ],
+  "CoordP": [
+    [
+      3965.5,
+      -64,
+      3121.5
+    ]
+  ],
   "Type": "Points",
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251225",
-  "CoordP": [
-    [3965.5, -64, 3121.5]
-  ]
+  "ModifityTime": "20261017"
 }

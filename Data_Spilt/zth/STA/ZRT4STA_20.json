@@ -1,6 +1,8 @@
 {
   "ID": "ZRT4STA_20",
   "Name": "星台站",
+  "STBuilding": "ZRTSTB_XT",
+  "elevation": "",
   "platforms": [
     {
       "ID": "ZRT4PLF_20_D"
@@ -9,12 +11,17 @@
       "ID": "ZRT4PLF_20_U"
     }
   ],
+  "CoordP": [
+    [
+      1931.5,
+      -64,
+      6773.5
+    ]
+  ],
   "Type": "Points",
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251225",
   "CreateBy": "639",
-  "CoordP": [
-    [1931.5, -64, 6773.5]
-  ]
+  "ModifityTime": "20261017"
 }

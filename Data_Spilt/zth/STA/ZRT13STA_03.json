@@ -1,6 +1,8 @@
 {
   "ID": "ZRT13STA_03",
   "Name": "狭原站",
+  "STBuilding": "ZRTSTB_XY2",
+  "elevation": "",
   "platforms": [
     {
       "ID": "ZRT13PLF_03_D"
@@ -9,12 +11,17 @@
       "ID": "ZRT13PLF_03_U"
     }
   ],
+  "CoordP": [
+    [
+      1441.5,
+      -64,
+      7691.5
+    ]
+  ],
   "Type": "Points",
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251225",
   "CreateBy": "639",
-  "CoordP": [
-    [1441.5, -64, 7691.5]
-  ]
+  "ModifityTime": "20261017"
 }

@@ -1,6 +1,8 @@
 {
   "ID": "ZRT4STA_08",
   "Name": "北溯工站",
+  "STBuilding": "ZRTSTB_BSG",
+  "elevation": "",
   "platforms": [
     {
       "ID": "ZRT4PLF_08_D"
@@ -9,12 +11,17 @@
       "ID": "ZRT4PLF_08_U"
     }
   ],
+  "CoordP": [
+    [
+      5296.5,
+      -64,
+      4615.5
+    ]
+  ],
   "Type": "Points",
   "Class": "STA",
   "World": 0,
   "CreateTime": "20251225",
   "CreateBy": "639",
-  "CoordP": [
-    [5296.5, -64, 4615.5]
-  ]
+  "ModifityTime": "20261017"
 }
