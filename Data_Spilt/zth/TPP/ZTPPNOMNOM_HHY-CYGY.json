@@ -3,16 +3,25 @@
   "Name": "海华屿->朝阳工业",
   "Kind": "NOM",
   "SKind": "NOM",
-  "TGTWarp": "cygy",
+  "hub": "",
+  "TGTWarp": "zygy朝阳工业",
   "elevation": 0,
-  "tags": {},
-  "extensions": {},
+  "CoordP": [
+    [
+      9389,
+      -64,
+      8942
+    ]
+  ],
   "Type": "Points",
   "Class": "TPP",
   "World": 0,
   "CreateTime": "20260203",
   "CreateBy": "639",
-  "CoordP": [
-    [9389, -64, 8942]
-  ]
+  "ModifityTime": "20261021",
+  "TGTcoordinate": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  }
 }
