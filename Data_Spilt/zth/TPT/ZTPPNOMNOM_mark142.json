@@ -1,0 +1,24 @@
+{
+  "ID": "ZTPPNOMNOM_mark142",
+  "Name": "地标传送-海华屿",
+  "hub": "zthspawn",
+  "TGTWarp": "h海南n",
+  "elevation": 65,
+  "tags": {},
+  "extensions": {},
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20260203",
+  "CreateBy": "Aut_moon_white",
+  "CoordP": [
+    [
+      -701.5,
+      -64,
+      -1657.5
+    ]
+  ],
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "NOM",
+  "SKind2": "NOM"
+}

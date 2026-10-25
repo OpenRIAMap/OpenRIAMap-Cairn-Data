@@ -1,0 +1,28 @@
+{
+  "ID": "ZRT4STA_02",
+  "Name": "山滨站",
+  "STBuilding": "ZRTSTB_SB",
+  "elevation": "",
+  "platforms": [
+    {
+      "ID": "ZRT4PLF_02_D"
+    },
+    {
+      "ID": "ZRT4PLF_02_U"
+    }
+  ],
+  "CoordP": [
+    [
+      7077.5,
+      -64,
+      4193.5
+    ]
+  ],
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20251225",
+  "CreateBy": "639",
+  "ModifityTime": "20261017",
+  "Class": "RIL",
+  "Kind": "STA"
+}

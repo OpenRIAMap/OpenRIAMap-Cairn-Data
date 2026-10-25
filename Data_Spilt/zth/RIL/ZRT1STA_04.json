@@ -1,0 +1,27 @@
+{
+  "ID": "ZRT1STA_04",
+  "Name": "西屿站",
+  "STBuilding": "ZRTSTB_XY",
+  "elevation": "",
+  "platforms": [
+    {
+      "ID": "ZRT1PLF_04_D"
+    },
+    {
+      "ID": "ZRT1PLF_04_U"
+    }
+  ],
+  "CoordP": [
+    [
+      2675.5,
+      -64,
+      3121.5
+    ]
+  ],
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20251225",
+  "ModifityTime": "20261017",
+  "Class": "RIL",
+  "Kind": "STA"
+}

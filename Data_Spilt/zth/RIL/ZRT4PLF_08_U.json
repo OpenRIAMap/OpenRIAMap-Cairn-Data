@@ -1,0 +1,29 @@
+{
+  "ID": "ZRT4PLF_08_U",
+  "Name": "北溯工站-4站台",
+  "Situation": true,
+  "Connect": true,
+  "lines": [
+    {
+      "ID": "ZRT4_01A_U",
+      "Avaliable": true,
+      "Overtaking": false,
+      "getin": true,
+      "getout": true,
+      "NextOT": false
+    }
+  ],
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20251225",
+  "CreateBy": "639",
+  "CoordP": [
+    [
+      5296.5,
+      -64,
+      4615.5
+    ]
+  ],
+  "Class": "RIL",
+  "Kind": "PLF"
+}

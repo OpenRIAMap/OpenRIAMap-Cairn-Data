@@ -1,0 +1,26 @@
+{
+  "ID": "ZRH7STA_2",
+  "Name": "会展中心",
+  "STBuilding": "ZRHSTB_HZZX",
+  "platforms": [
+    {
+      "ID": "ZRH7PLF_2_D"
+    },
+    {
+      "ID": "ZRH7PLF_2_U"
+    }
+  ],
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20251231",
+  "CreateBy": "HyperBird_",
+  "CoordP": [
+    [
+      9019.5,
+      -64,
+      8000.5
+    ]
+  ],
+  "Class": "RIL",
+  "Kind": "STA"
+}

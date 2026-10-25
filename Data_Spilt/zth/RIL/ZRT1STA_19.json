@@ -1,0 +1,26 @@
+{
+  "ID": "ZRT1STA_19",
+  "Name": "溯东站",
+  "STBuilding": "ZRTSTB_SUD",
+  "platforms": [
+    {
+      "ID": "ZRT1PLF_19_D"
+    },
+    {
+      "ID": "ZRT1PLF_19_U"
+    }
+  ],
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20251225",
+  "CreateBy": "639",
+  "CoordP": [
+    [
+      5468.5,
+      0,
+      4896.5
+    ]
+  ],
+  "Class": "RIL",
+  "Kind": "STA"
+}

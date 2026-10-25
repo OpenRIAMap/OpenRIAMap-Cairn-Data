@@ -1,0 +1,27 @@
+{
+  "ID": "ZRT1STA_22",
+  "Name": "幽南高架东站",
+  "STBuilding": "ZRTSTB_YNGJD",
+  "elevation": "",
+  "platforms": [
+    {
+      "ID": "ZRT1PLF_22_D"
+    },
+    {
+      "ID": "ZRT1PLF_22_U"
+    }
+  ],
+  "CoordP": [
+    [
+      5982.5,
+      -64,
+      4896.5
+    ]
+  ],
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20251225",
+  "ModifityTime": "20261017",
+  "Class": "RIL",
+  "Kind": "STA"
+}

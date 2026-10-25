@@ -1,0 +1,28 @@
+{
+  "ID": "ZRT13STA_04",
+  "Name": "沙船站",
+  "STBuilding": "ZRTSTB_SC",
+  "elevation": "",
+  "platforms": [
+    {
+      "ID": "ZRT13PLF_04_D"
+    },
+    {
+      "ID": "ZRT13PLF_04_U"
+    }
+  ],
+  "CoordP": [
+    [
+      1150.5,
+      -64,
+      8436.5
+    ]
+  ],
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20251225",
+  "CreateBy": "639",
+  "ModifityTime": "20261017",
+  "Class": "RIL",
+  "Kind": "STA"
+}

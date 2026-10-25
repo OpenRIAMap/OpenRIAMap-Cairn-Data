@@ -1,0 +1,28 @@
+{
+  "ID": "ZRT4STA_03",
+  "Name": "旧城站",
+  "STBuilding": "ZRTSTB_JC",
+  "elevation": "",
+  "platforms": [
+    {
+      "ID": "ZRT4PLF_03_D"
+    },
+    {
+      "ID": "ZRT4PLF_03_U"
+    }
+  ],
+  "CoordP": [
+    [
+      6793.5,
+      -64,
+      4377.5
+    ]
+  ],
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20251225",
+  "CreateBy": "639",
+  "ModifityTime": "20261017",
+  "Class": "RIL",
+  "Kind": "STA"
+}

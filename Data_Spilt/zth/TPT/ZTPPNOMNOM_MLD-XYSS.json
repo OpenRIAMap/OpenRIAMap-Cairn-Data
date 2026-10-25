@@ -1,0 +1,24 @@
+{
+  "ID": "ZTPPNOMNOM_MLD-XYSS",
+  "Name": "主岛->鳕鱼神社",
+  "hub": "zthspawn",
+  "TGTWarp": "xyss",
+  "elevation": 0,
+  "tags": {},
+  "extensions": {},
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20260202",
+  "CreateBy": "639",
+  "CoordP": [
+    [
+      -770,
+      -64,
+      -1586
+    ]
+  ],
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "NOM",
+  "SKind2": "NOM"
+}

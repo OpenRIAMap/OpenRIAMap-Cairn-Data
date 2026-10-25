@@ -1,0 +1,36 @@
+{
+  "ID": "ZRT1PLF_10_D",
+  "Name": "海原站-1站台",
+  "Situation": true,
+  "Connect": true,
+  "lines": [
+    {
+      "ID": "ZRT1_01C_D",
+      "Avaliable": true,
+      "Overtaking": false,
+      "getin": true,
+      "getout": true,
+      "NextOT": false
+    },
+    {
+      "ID": "ZRT1_01B_D",
+      "Avaliable": true,
+      "Overtaking": false,
+      "getin": true,
+      "getout": true,
+      "NextOT": false
+    }
+  ],
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20251225",
+  "CoordP": [
+    [
+      4760.5,
+      -64,
+      4090.5
+    ]
+  ],
+  "Class": "RIL",
+  "Kind": "PLF"
+}

@@ -1,0 +1,27 @@
+{
+  "ID": "ZRT7STA_05",
+  "Name": "沁洄川站",
+  "STBuilding": "ZRTSTB_QHC",
+  "elevation": "",
+  "platforms": [
+    {
+      "ID": "ZRT7PLF_05_D"
+    },
+    {
+      "ID": "ZRT7PLF_05_U"
+    }
+  ],
+  "CoordP": [
+    [
+      5465.5,
+      -64,
+      4615.5
+    ]
+  ],
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20251225",
+  "ModifityTime": "20261017",
+  "Class": "RIL",
+  "Kind": "STA"
+}

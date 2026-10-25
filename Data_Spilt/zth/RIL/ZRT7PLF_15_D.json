@@ -1,0 +1,28 @@
+{
+  "ID": "ZRT7PLF_15_D",
+  "Name": "终点站-1站台",
+  "Situation": true,
+  "Connect": true,
+  "lines": [
+    {
+      "ID": "ZRT7_01C_D",
+      "Avaliable": true,
+      "Overtaking": false,
+      "getin": true,
+      "getout": true,
+      "NextOT": false
+    }
+  ],
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20251225",
+  "CoordP": [
+    [
+      5278.5,
+      -64,
+      8099.5
+    ]
+  ],
+  "Class": "RIL",
+  "Kind": "PLF"
+}

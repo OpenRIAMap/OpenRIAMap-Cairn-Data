@@ -1,0 +1,42 @@
+{
+  "ID": "ZRTSTF_SD_03",
+  "Name": "B2站台层",
+  "NofFloor": "B2",
+  "staBuildingID": "ZRTSTB_SUD",
+  "Situation": "",
+  "elevation": "",
+  "height": "",
+  "CoordG": [
+    [
+      [
+        [
+          5484.5,
+          -64,
+          4884.5
+        ],
+        [
+          5484.5,
+          -64,
+          4821.5
+        ],
+        [
+          5446.5,
+          -64,
+          4821.5
+        ],
+        [
+          5446.5,
+          -64,
+          4884.5
+        ]
+      ]
+    ]
+  ],
+  "Type": "Polygon",
+  "World": 0,
+  "CreateTime": "20251225",
+  "CreateBy": "639",
+  "ModifityTime": "20261017",
+  "Class": "RIL",
+  "Kind": "STF"
+}

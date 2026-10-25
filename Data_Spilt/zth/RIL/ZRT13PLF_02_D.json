@@ -1,0 +1,29 @@
+{
+  "ID": "ZRT13PLF_02_D",
+  "Name": "连西站-1站台",
+  "Situation": true,
+  "Connect": true,
+  "lines": [
+    {
+      "ID": "ZRT13_01B_D",
+      "Avaliable": true,
+      "Overtaking": false,
+      "getin": true,
+      "getout": true,
+      "NextOT": false
+    }
+  ],
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20251225",
+  "CreateBy": "639",
+  "CoordP": [
+    [
+      1558.5,
+      -64,
+      7045.5
+    ]
+  ],
+  "Class": "RIL",
+  "Kind": "PLF"
+}

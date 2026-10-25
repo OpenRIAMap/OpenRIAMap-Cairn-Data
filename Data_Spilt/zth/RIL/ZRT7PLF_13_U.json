@@ -1,0 +1,28 @@
+{
+  "ID": "ZRT7PLF_13_U",
+  "Name": "庐台站-2站台",
+  "Situation": true,
+  "Connect": true,
+  "lines": [
+    {
+      "ID": "ZRT7_01C_U",
+      "Avaliable": true,
+      "Overtaking": false,
+      "getin": true,
+      "getout": true,
+      "NextOT": false
+    }
+  ],
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20251225",
+  "CoordP": [
+    [
+      5278.5,
+      -64,
+      7235.5
+    ]
+  ],
+  "Class": "RIL",
+  "Kind": "PLF"
+}

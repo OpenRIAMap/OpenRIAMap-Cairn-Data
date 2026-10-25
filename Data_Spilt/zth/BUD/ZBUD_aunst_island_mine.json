@@ -1,14 +1,11 @@
 {
   "ID": "ZBUD_aunst_island_mine",
   "Name": "矿井",
-  "Kind": "NOM",
-  "SKind": "NOM",
   "tags": {
     "nomenclator": "Aunst",
     "Pop": "Aunst"
   },
   "Type": "Polygon",
-  "Class": "BUD",
   "World": 0,
   "CreateTime": "20260412",
   "CreateBy": "Aunst",
@@ -17,11 +14,29 @@
   "CoordG": [
     [
       [
-        [-4409, -63, -7957],
-        [-4409, -63, -7949],
-        [-4401, -63, -7949],
-        [-4401, -63, -7957]
+        [
+          -4409,
+          -63,
+          -7957
+        ],
+        [
+          -4409,
+          -63,
+          -7949
+        ],
+        [
+          -4401,
+          -63,
+          -7949
+        ],
+        [
+          -4401,
+          -63,
+          -7957
+        ]
       ]
     ]
-  ]
+  ],
+  "Class": "BUD",
+  "Kind": "NOM"
 }

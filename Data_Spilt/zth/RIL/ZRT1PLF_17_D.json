@@ -1,0 +1,28 @@
+{
+  "ID": "ZRT1PLF_17_D",
+  "Name": "南山口站-1站台",
+  "Situation": true,
+  "Connect": true,
+  "lines": [
+    {
+      "ID": "ZRT1_01A_D",
+      "Avaliable": true,
+      "Overtaking": false,
+      "getin": true,
+      "getout": true,
+      "NextOT": false
+    }
+  ],
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20251225",
+  "CoordP": [
+    [
+      5118.5,
+      -64,
+      4981.5
+    ]
+  ],
+  "Class": "RIL",
+  "Kind": "PLF"
+}

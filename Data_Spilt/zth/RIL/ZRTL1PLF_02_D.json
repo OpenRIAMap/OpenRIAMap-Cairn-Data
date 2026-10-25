@@ -1,0 +1,37 @@
+{
+  "ID": "ZRTL1PLF_02_D",
+  "Name": "星台南接入口",
+  "Situation": true,
+  "Connect": false,
+  "lines": [
+    {
+      "ID": "ZRTL1_01A",
+      "Avaliable": true,
+      "Overtaking": false,
+      "getin": true,
+      "getout": true,
+      "NextOT": false
+    },
+    {
+      "ID": "ZRT4_01C_U",
+      "Avaliable": true,
+      "Overtaking": false,
+      "getin": true,
+      "getout": true,
+      "NextOT": false
+    }
+  ],
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20251225",
+  "CreateBy": "639",
+  "CoordP": [
+    [
+      1933.5,
+      -64,
+      6911.5
+    ]
+  ],
+  "Class": "RIL",
+  "Kind": "PLF"
+}

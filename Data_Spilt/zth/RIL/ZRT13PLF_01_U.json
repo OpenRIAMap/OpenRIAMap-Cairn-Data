@@ -1,0 +1,37 @@
+{
+  "ID": "ZRT13PLF_01_U",
+  "Name": "连东站-2站台",
+  "Situation": true,
+  "Connect": true,
+  "lines": [
+    {
+      "ID": "ZRT13_01B_U",
+      "Avaliable": true,
+      "Overtaking": false,
+      "getin": true,
+      "getout": true,
+      "NextOT": false
+    },
+    {
+      "ID": "ZRTL1_01B",
+      "Avaliable": true,
+      "Overtaking": false,
+      "getin": true,
+      "getout": true,
+      "NextOT": false
+    }
+  ],
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20251225",
+  "CreateBy": "639",
+  "CoordP": [
+    [
+      1828.5,
+      -64,
+      7045.5
+    ]
+  ],
+  "Class": "RIL",
+  "Kind": "PLF"
+}

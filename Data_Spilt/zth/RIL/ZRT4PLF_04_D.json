@@ -1,0 +1,29 @@
+{
+  "ID": "ZRT4PLF_04_D",
+  "Name": "杉林站-1站台",
+  "Situation": true,
+  "Connect": true,
+  "lines": [
+    {
+      "ID": "ZRT4_01B_D",
+      "Avaliable": true,
+      "Overtaking": false,
+      "getin": true,
+      "getout": true,
+      "NextOT": false
+    }
+  ],
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20251225",
+  "CreateBy": "639",
+  "CoordP": [
+    [
+      6521.5,
+      -64,
+      4615.5
+    ]
+  ],
+  "Class": "RIL",
+  "Kind": "PLF"
+}

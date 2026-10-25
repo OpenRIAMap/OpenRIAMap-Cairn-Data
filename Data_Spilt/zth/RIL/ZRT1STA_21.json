@@ -1,0 +1,27 @@
+{
+  "ID": "ZRT1STA_21",
+  "Name": "漪泱站",
+  "STBuilding": "ZRTSTB_YY2",
+  "elevation": "",
+  "platforms": [
+    {
+      "ID": "ZRT1PLF_21_D"
+    },
+    {
+      "ID": "ZRT1PLF_21_U"
+    }
+  ],
+  "CoordP": [
+    [
+      5847.5,
+      -64,
+      4896.5
+    ]
+  ],
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20251225",
+  "ModifityTime": "20261017",
+  "Class": "RIL",
+  "Kind": "STA"
+}

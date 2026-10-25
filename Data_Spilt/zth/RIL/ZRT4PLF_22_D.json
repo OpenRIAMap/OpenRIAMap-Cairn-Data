@@ -1,0 +1,29 @@
+{
+  "ID": "ZRT4PLF_22_D",
+  "Name": "连西站-1站台",
+  "Situation": true,
+  "Connect": true,
+  "lines": [
+    {
+      "ID": "ZRT4_01C_D",
+      "Avaliable": true,
+      "Overtaking": false,
+      "getin": true,
+      "getout": true,
+      "NextOT": false
+    }
+  ],
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20251225",
+  "CreateBy": "639",
+  "CoordP": [
+    [
+      1563.5,
+      -64,
+      7057.5
+    ]
+  ],
+  "Class": "RIL",
+  "Kind": "PLF"
+}

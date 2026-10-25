@@ -1,0 +1,28 @@
+{
+  "ID": "ZRT7PLF_11_D",
+  "Name": "南滨站-1站台",
+  "Situation": true,
+  "Connect": true,
+  "lines": [
+    {
+      "ID": "ZRT7_01B_D",
+      "Avaliable": true,
+      "Overtaking": false,
+      "getin": true,
+      "getout": true,
+      "NextOT": false
+    }
+  ],
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20251225",
+  "CoordP": [
+    [
+      5191.5,
+      -64,
+      6305.5
+    ]
+  ],
+  "Class": "RIL",
+  "Kind": "PLF"
+}

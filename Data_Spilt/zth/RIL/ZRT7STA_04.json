@@ -1,0 +1,27 @@
+{
+  "ID": "ZRT7STA_04",
+  "Name": "北岿站",
+  "STBuilding": "ZRTSTB_BG",
+  "elevation": "",
+  "platforms": [
+    {
+      "ID": "ZRT7PLF_04_D"
+    },
+    {
+      "ID": "ZRT7PLF_04_U"
+    }
+  ],
+  "CoordP": [
+    [
+      5663.5,
+      -64,
+      4384.5
+    ]
+  ],
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20251225",
+  "ModifityTime": "20261017",
+  "Class": "RIL",
+  "Kind": "STA"
+}

@@ -1,0 +1,29 @@
+{
+  "ID": "ZRT4PLF_02_U",
+  "Name": "山滨站-2站台",
+  "Situation": true,
+  "Connect": true,
+  "lines": [
+    {
+      "ID": "ZRT4_01B_U",
+      "Avaliable": true,
+      "Overtaking": false,
+      "getin": true,
+      "getout": true,
+      "NextOT": false
+    }
+  ],
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20251225",
+  "CreateBy": "639",
+  "CoordP": [
+    [
+      7077.5,
+      -64,
+      4193.5
+    ]
+  ],
+  "Class": "RIL",
+  "Kind": "PLF"
+}

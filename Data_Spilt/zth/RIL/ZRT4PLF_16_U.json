@@ -1,0 +1,37 @@
+{
+  "ID": "ZRT4PLF_16_U",
+  "Name": "岭上神社站-2站台",
+  "Situation": true,
+  "Connect": true,
+  "lines": [
+    {
+      "ID": "ZRT4_01A_U",
+      "Avaliable": true,
+      "Overtaking": false,
+      "getin": true,
+      "getout": true,
+      "NextOT": false
+    },
+    {
+      "ID": "ZRT4_01C_U",
+      "Avaliable": true,
+      "Overtaking": false,
+      "getin": true,
+      "getout": true,
+      "NextOT": false
+    }
+  ],
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20251225",
+  "CreateBy": "639",
+  "CoordP": [
+    [
+      3425.5,
+      -64,
+      6183.5
+    ]
+  ],
+  "Class": "RIL",
+  "Kind": "PLF"
+}

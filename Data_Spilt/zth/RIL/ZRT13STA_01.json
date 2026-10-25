@@ -1,0 +1,28 @@
+{
+  "ID": "ZRT13STA_01",
+  "Name": "连东站",
+  "STBuilding": "ZRTSTB_LD",
+  "elevation": "",
+  "platforms": [
+    {
+      "ID": "ZRT13PLF_01_D"
+    },
+    {
+      "ID": "ZRT13PLF_01_U"
+    }
+  ],
+  "CoordP": [
+    [
+      1828.5,
+      -64,
+      7057.5
+    ]
+  ],
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20251225",
+  "CreateBy": "639",
+  "ModifityTime": "20261017",
+  "Class": "RIL",
+  "Kind": "STA"
+}

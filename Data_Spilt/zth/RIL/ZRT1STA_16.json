@@ -1,0 +1,27 @@
+{
+  "ID": "ZRT1STA_16",
+  "Name": "南麓广场站",
+  "STBuilding": "ZRTSTB_NLGC",
+  "elevation": "",
+  "platforms": [
+    {
+      "ID": "ZRT1PLF_16_D"
+    },
+    {
+      "ID": "ZRT1PLF_16_U"
+    }
+  ],
+  "CoordP": [
+    [
+      5079.5,
+      -64,
+      4981.5
+    ]
+  ],
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20251225",
+  "ModifityTime": "20261017",
+  "Class": "RIL",
+  "Kind": "STA"
+}

@@ -1,0 +1,27 @@
+{
+  "ID": "ZRT1STA_09",
+  "Name": "海原北站",
+  "STBuilding": "ZRTSTB_HYN",
+  "elevation": "",
+  "platforms": [
+    {
+      "ID": "ZRT1PLF_09_D"
+    },
+    {
+      "ID": "ZRT1PLF_09_U"
+    }
+  ],
+  "CoordP": [
+    [
+      4574.5,
+      -64,
+      3884.5
+    ]
+  ],
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20251225",
+  "ModifityTime": "20261017",
+  "Class": "RIL",
+  "Kind": "STA"
+}

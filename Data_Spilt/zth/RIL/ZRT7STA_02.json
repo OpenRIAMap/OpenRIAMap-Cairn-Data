@@ -1,0 +1,27 @@
+{
+  "ID": "ZRT7STA_02",
+  "Name": "花森居前站",
+  "STBuilding": "ZRTSTB_HSJQ",
+  "elevation": "",
+  "platforms": [
+    {
+      "ID": "ZRT7PLF_02_D"
+    },
+    {
+      "ID": "ZRT7PLF_02_U"
+    }
+  ],
+  "CoordP": [
+    [
+      6141.5,
+      -64,
+      4080.5
+    ]
+  ],
+  "Type": "Points",
+  "World": 0,
+  "CreateTime": "20251225",
+  "ModifityTime": "20261017",
+  "Class": "RIL",
+  "Kind": "STA"
+}
