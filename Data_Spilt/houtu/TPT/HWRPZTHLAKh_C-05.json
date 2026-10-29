@@ -1,0 +1,29 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKh",
+  "ID": "HWRPZTHLAKh_C-05",
+  "WRPointI2D": "nw蔦屋",
+  "Name": "蔦屋",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E8%94%A6%E5%B1%8B"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 63.5,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      649.311,
+      63.5,
+      179.553
+    ]
+  ]
+}

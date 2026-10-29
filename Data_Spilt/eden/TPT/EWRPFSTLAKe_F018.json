@@ -1,0 +1,29 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "FST",
+  "SKind2": "LAKe",
+  "ID": "EWRPFSTLAKe_F018",
+  "WRPointI2D": "时际工业区",
+  "Name": "时际工业区",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%97%B6%E9%99%85%E5%B7%A5%E4%B8%9A%E5%8C%BA"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 70,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -2110.66,
+      70,
+      -1263.46
+    ]
+  ]
+}

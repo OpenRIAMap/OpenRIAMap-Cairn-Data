@@ -1,0 +1,29 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKh",
+  "ID": "HWRPZTHLAKh_W-06",
+  "WRPointI2D": "sybh溯月冰湖",
+  "Name": "溯月·冰湖",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%BA%AF%E6%9C%88%C2%B7%E5%86%B0%E6%B9%96"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 116,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -3456.526,
+      116,
+      -1249.532
+    ]
+  ]
+}

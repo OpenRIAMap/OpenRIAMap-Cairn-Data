@@ -1,0 +1,24 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "PST",
+  "ID": "HWRPZTHPST_zdldqyz",
+  "WRPointI2D": "z中大陆驿站z",
+  "Name": "中大陆地区驿站",
+  "hub": "",
+  "Level": 0,
+  "Situation": true,
+  "elevation": 88.062,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      1164,
+      88.062,
+      -922
+    ]
+  ]
+}

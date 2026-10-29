@@ -1,0 +1,29 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "FST",
+  "SKind2": "LAKe",
+  "ID": "EWRPFSTLAKe_F005",
+  "WRPointI2D": "晨鸢",
+  "Name": "晨鸢",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%99%A8%E9%B8%A2"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 71.5,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      1284.49,
+      71.5,
+      -1954.52
+    ]
+  ]
+}

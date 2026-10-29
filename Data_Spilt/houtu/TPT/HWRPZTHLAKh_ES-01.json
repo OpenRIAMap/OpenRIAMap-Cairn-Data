@@ -1,0 +1,29 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKh",
+  "ID": "HWRPZTHLAKh_ES-01",
+  "WRPointI2D": "lcylg陇辰玉鸾港",
+  "Name": "陇辰·玉鸾港",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E7%8E%89%E9%B8%BE%E6%B8%AF"
+    }
+  },
+  "Level": 4,
+  "Situation": true,
+  "elevation": 76.625,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      181.129,
+      76.625,
+      4297.802
+    ]
+  ]
+}

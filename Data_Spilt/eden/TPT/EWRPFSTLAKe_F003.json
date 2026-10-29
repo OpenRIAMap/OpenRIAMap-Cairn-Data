@@ -1,0 +1,29 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "FST",
+  "SKind2": "LAKe",
+  "ID": "EWRPFSTLAKe_F003",
+  "WRPointI2D": "鸦羽",
+  "Name": "鸦羽",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E9%B8%A6%E7%BE%BD"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 79,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -191.46,
+      79,
+      -1471.56
+    ]
+  ]
+}

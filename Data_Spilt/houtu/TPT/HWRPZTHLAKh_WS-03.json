@@ -1,0 +1,29 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKh",
+  "ID": "HWRPZTHLAKh_WS-03",
+  "WRPointI2D": "LA洛山基地",
+  "Name": "洛山基地",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%B4%9B%E5%B1%B1%E5%9F%BA%E5%9C%B0"
+    }
+  },
+  "Level": 9,
+  "Situation": true,
+  "elevation": 68,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -4903.421,
+      68,
+      6352.457
+    ]
+  ]
+}

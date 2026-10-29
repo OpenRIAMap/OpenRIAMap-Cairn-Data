@@ -1,0 +1,29 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKh",
+  "ID": "HWRPZTHLAKh_W-09",
+  "WRPointI2D": "j界園y",
+  "Name": "界園",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E7%95%8C%E5%9C%92"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 65.462,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -6796.394,
+      65.462,
+      -4761.5
+    ]
+  ]
+}

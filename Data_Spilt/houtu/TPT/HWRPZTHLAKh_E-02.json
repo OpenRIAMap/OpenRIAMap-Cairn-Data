@@ -1,0 +1,29 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKh",
+  "ID": "HWRPZTHLAKh_E-02",
+  "WRPointI2D": "bhb滨海白杉屿",
+  "Name": "滨海白杉屿",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%BB%A8%E6%B5%B7%E7%99%BD%E6%9D%89%E5%B1%BF"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 72.5,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      5881.495,
+      72.5,
+      -3346.48
+    ]
+  ]
+}

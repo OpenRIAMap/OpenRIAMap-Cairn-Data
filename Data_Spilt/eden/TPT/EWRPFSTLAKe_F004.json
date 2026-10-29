@@ -1,0 +1,29 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "FST",
+  "SKind2": "LAKe",
+  "ID": "EWRPFSTLAKe_F004",
+  "WRPointI2D": "千柱大厅",
+  "Name": "千柱大厅",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%8D%83%E6%9F%B1%E5%A4%A7%E5%8E%85"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 96,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      1572.44,
+      96,
+      -664.64
+    ]
+  ]
+}

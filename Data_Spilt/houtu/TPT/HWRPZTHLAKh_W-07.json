@@ -1,0 +1,29 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKh",
+  "ID": "HWRPZTHLAKh_W-07",
+  "WRPointI2D": "asbe阿斯拜尔",
+  "Name": "阿斯拜尔",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E9%98%BF%E6%96%AF%E6%8B%9C%E5%B0%94"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 70.5,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -3556.5,
+      70.5,
+      -1818.5
+    ]
+  ]
+}

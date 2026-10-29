@@ -1,0 +1,29 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKh",
+  "ID": "HWRPZTHLAKh_WS-02",
+  "WRPointI2D": "h垕宵城c",
+  "Name": "垕宵城",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%9E%95%E5%AE%B5%E5%9F%8E"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 125.393,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -6321.523,
+      125.393,
+      5849.508
+    ]
+  ]
+}

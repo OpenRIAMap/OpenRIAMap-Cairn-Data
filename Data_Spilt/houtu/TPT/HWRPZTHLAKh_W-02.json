@@ -1,0 +1,29 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKh",
+  "ID": "HWRPZTHLAKh_W-02",
+  "WRPointI2D": "ats安緹斯",
+  "Name": "安緹斯",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%AE%89%E7%B7%B9%E6%96%AF"
+    }
+  },
+  "Level": 4,
+  "Situation": true,
+  "elevation": 132.102,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -3060.501,
+      132.102,
+      -1319.322
+    ]
+  ]
+}

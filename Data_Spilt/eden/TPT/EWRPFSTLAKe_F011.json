@@ -1,0 +1,29 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "FST",
+  "SKind2": "LAKe",
+  "ID": "EWRPFSTLAKe_F011",
+  "WRPointI2D": "未完成的天文钟",
+  "Name": "未完成的天文钟",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E4%BC%8A%E7%94%B8%E5%A4%A9%E6%96%87%E9%92%9F%E5%8D%9A%E7%89%A9%E9%A6%86"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 64,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -1240.21,
+      64,
+      294.5
+    ]
+  ]
+}

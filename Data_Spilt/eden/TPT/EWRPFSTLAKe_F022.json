@@ -1,0 +1,29 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "FST",
+  "SKind2": "LAKe",
+  "ID": "EWRPFSTLAKe_F022",
+  "WRPointI2D": "蝶湾",
+  "Name": "蝶湾",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E8%9D%B6%E6%B9%BE"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 80.63,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      2858.48,
+      80.63,
+      -222.5
+    ]
+  ]
+}

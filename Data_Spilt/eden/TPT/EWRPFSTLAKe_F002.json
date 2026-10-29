@@ -1,0 +1,29 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "FST",
+  "SKind2": "LAKe",
+  "ID": "EWRPFSTLAKe_F002",
+  "WRPointI2D": "卡卡利科村",
+  "Name": "卡卡利科村",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%8D%A1%E5%8D%A1%E5%88%A9%E7%A7%91%E6%9D%91"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 67,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      1912.73,
+      67,
+      -1952.41
+    ]
+  ]
+}

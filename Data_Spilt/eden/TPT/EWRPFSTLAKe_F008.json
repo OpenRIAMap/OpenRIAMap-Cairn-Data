@@ -1,0 +1,29 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "FST",
+  "SKind2": "LAKe",
+  "ID": "EWRPFSTLAKe_F008",
+  "WRPointI2D": "抹岚",
+  "Name": "抹岚 (Fst)",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%8A%B9%E5%B2%9A_(Fst)"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 72,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -580.53,
+      72,
+      637.5
+    ]
+  ]
+}

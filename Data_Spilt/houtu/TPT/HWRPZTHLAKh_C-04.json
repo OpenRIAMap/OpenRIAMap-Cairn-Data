@@ -1,0 +1,29 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKh",
+  "ID": "HWRPZTHLAKh_C-04",
+  "WRPointI2D": "jgyz极光驿站",
+  "Name": "极光驿站",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%9E%81%E5%85%89%E9%A9%BF%E7%AB%99"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 71,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      1496.406,
+      71,
+      -530.64
+    ]
+  ]
+}

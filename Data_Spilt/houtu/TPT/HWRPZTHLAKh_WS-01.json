@@ -1,0 +1,29 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKh",
+  "ID": "HWRPZTHLAKh_WS-01",
+  "WRPointI2D": "j交通局1号展场c",
+  "Name": "后土交通局一号展示场",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%90%8E%E5%9C%9F%E4%BA%A4%E9%80%9A%E5%B1%80%E4%B8%80%E5%8F%B7%E5%B1%95%E7%A4%BA%E5%9C%BA"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 74.419,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -2398.749,
+      74.419,
+      4138.518
+    ]
+  ]
+}

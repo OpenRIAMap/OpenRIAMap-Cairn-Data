@@ -1,0 +1,29 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKh",
+  "ID": "HWRPZTHLAKh_E-01",
+  "WRPointI2D": "xyw星烨湾",
+  "Name": "星烨湾",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%98%9F%E7%83%A8%E6%B9%BE"
+    }
+  },
+  "Level": 4,
+  "Situation": true,
+  "elevation": 95.881,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      831.54,
+      95.881,
+      -3901.293
+    ]
+  ]
+}

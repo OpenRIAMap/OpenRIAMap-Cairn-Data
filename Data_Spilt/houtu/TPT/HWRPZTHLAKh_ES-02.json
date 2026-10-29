@@ -1,0 +1,29 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKh",
+  "ID": "HWRPZTHLAKh_ES-02",
+  "WRPointI2D": "YuKeGongYe",
+  "Name": "鱼克工业",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E9%B1%BC%E5%85%8B%E5%B7%A5%E4%B8%9A"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": -58,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      4135.538,
+      -58,
+      4519.483
+    ]
+  ]
+}

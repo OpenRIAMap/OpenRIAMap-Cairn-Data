@@ -1,0 +1,24 @@
+{
+  "World": "naraku",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "DTP",
+  "ID": "NWRPZTHDTP_xncsd",
+  "WRPointI2D": "nn2xinan",
+  "Name": "西南传送点",
+  "hub": "",
+  "Level": 3,
+  "Situation": true,
+  "elevation": 66,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -4683.51,
+      66,
+      1341.442
+    ]
+  ]
+}

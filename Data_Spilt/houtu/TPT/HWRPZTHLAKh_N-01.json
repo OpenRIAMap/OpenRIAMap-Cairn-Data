@@ -1,0 +1,29 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKh",
+  "ID": "HWRPZTHLAKh_N-01",
+  "WRPointI2D": "h海峭q",
+  "Name": "海峭",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%B5%B7%E5%B3%AD"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 73.938,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -1756.543,
+      73.938,
+      -4141.578
+    ]
+  ]
+}

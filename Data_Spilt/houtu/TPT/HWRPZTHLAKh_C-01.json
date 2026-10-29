@@ -1,0 +1,29 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKh",
+  "ID": "HWRPZTHLAKh_C-01",
+  "WRPointI2D": "冷冽谷的伊鲁席尔",
+  "Name": "冷冽谷的伊鲁席尔",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%86%B7%E5%86%BD%E8%B0%B7%E7%9A%84%E4%BC%8A%E9%B2%81%E5%B8%AD%E5%B0%94"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 103.631,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      1373.439,
+      103.631,
+      -612.28
+    ]
+  ]
+}

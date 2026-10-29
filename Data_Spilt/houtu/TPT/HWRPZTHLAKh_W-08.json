@@ -1,0 +1,29 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKh",
+  "ID": "HWRPZTHLAKh_W-08",
+  "WRPointI2D": "mncps魔女裁判所",
+  "Name": "魔女裁判所",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E9%AD%94%E5%A5%B3%E8%A3%81%E5%88%A4%E6%89%80"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 57.261,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -7195.489,
+      57.261,
+      462.567
+    ]
+  ]
+}

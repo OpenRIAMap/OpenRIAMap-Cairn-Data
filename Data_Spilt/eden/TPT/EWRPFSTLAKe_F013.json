@@ -1,0 +1,29 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "FST",
+  "SKind2": "LAKe",
+  "ID": "EWRPFSTLAKe_F013",
+  "WRPointI2D": "石英地",
+  "Name": "石英地",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E7%9F%B3%E8%8B%B1%E5%9C%B0"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": -58.5,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -2268.82,
+      -58.5,
+      2437.4
+    ]
+  ]
+}

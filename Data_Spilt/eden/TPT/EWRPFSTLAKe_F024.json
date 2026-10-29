@@ -1,0 +1,29 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "FST",
+  "SKind2": "LAKe",
+  "ID": "EWRPFSTLAKe_F024",
+  "WRPointI2D": "蒂特兰",
+  "Name": "蒂特兰",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E8%92%82%E7%89%B9%E5%85%B0"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 64.26,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -3172.21,
+      64.26,
+      2994.61
+    ]
+  ]
+}

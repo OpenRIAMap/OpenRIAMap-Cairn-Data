@@ -1,0 +1,29 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "FST",
+  "SKind2": "LAKe",
+  "ID": "EWRPFSTLAKe_F017",
+  "WRPointI2D": "诺德施泰因",
+  "Name": "诺德施泰因",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E8%AF%BA%E5%BE%B7%E6%96%BD%E6%B3%B0%E5%9B%A0"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 72,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      321.2,
+      72,
+      -1279.46
+    ]
+  ]
+}

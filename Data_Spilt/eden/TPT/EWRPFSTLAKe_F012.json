@@ -1,0 +1,29 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "FST",
+  "SKind2": "LAKe",
+  "ID": "EWRPFSTLAKe_F012",
+  "WRPointI2D": "绿舟",
+  "Name": "绿舟",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E7%BB%BF%E8%88%9F"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 89,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -171.37,
+      89,
+      2092.5
+    ]
+  ]
+}

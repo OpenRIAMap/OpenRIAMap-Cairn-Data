@@ -1,0 +1,29 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKh",
+  "ID": "HWRPZTHLAKh_W-04",
+  "WRPointI2D": "hzc輝針城",
+  "Name": "輝針城",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E8%BC%9D%E9%87%9D%E5%9F%8E"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 137,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -4339.268,
+      137,
+      -2998.515
+    ]
+  ]
+}

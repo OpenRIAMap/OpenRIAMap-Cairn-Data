@@ -1,0 +1,29 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "FST",
+  "SKind2": "LAKe",
+  "ID": "EWRPFSTLAKe_F025",
+  "WRPointI2D": "萨法瑞安",
+  "Name": "萨法瑞安",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E8%90%A8%E6%B3%95%E7%91%9E%E5%AE%89"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 96,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      3602.61,
+      96,
+      198.63
+    ]
+  ]
+}

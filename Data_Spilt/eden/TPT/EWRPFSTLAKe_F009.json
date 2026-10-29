@@ -1,0 +1,29 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "FST",
+  "SKind2": "LAKe",
+  "ID": "EWRPFSTLAKe_F009",
+  "WRPointI2D": "喵樱",
+  "Name": "喵樱",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%96%B5%E6%A8%B1"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 93,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      713.74,
+      93,
+      -271.39
+    ]
+  ]
+}

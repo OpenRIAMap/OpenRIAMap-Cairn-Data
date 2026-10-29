@@ -1,0 +1,29 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "FST",
+  "SKind2": "LAKe",
+  "ID": "EWRPFSTLAKe_F019",
+  "WRPointI2D": "梟型安全屋",
+  "Name": "梟型安全屋",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%A2%9F%E5%9E%8B%E5%AE%89%E5%85%A8%E5%B1%8B"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 64.01,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -1258.55,
+      64.01,
+      -847.57
+    ]
+  ]
+}

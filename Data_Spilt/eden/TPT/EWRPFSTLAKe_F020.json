@@ -1,0 +1,29 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "FST",
+  "SKind2": "LAKe",
+  "ID": "EWRPFSTLAKe_F020",
+  "WRPointI2D": "枝江·翰建町",
+  "Name": "枝江·翰建町",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%9E%9D%E6%B1%9F%C2%B7%E7%BF%B0%E5%BB%BA%E7%94%BA"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 73,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      787.51,
+      73,
+      3335.42
+    ]
+  ]
+}

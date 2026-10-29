@@ -1,0 +1,29 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKh",
+  "ID": "HWRPZTHLAKh_ES-03",
+  "WRPointI2D": "hxb",
+  "Name": "陇辰·浣熊堡",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E9%99%87%E8%BE%B0%C2%B7%E6%B5%A3%E7%86%8A%E5%A0%A1"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 73,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      246.379,
+      73,
+      3978.538
+    ]
+  ]
+}

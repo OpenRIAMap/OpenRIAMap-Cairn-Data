@@ -1,0 +1,24 @@
+{
+  "World": "naraku",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "DTP",
+  "ID": "NWRPZTHDTP_zd",
+  "WRPointI2D": "nnzd奈落主岛",
+  "Name": "主岛传送点",
+  "hub": "",
+  "Level": 1,
+  "Situation": true,
+  "elevation": 72,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      634.553,
+      72,
+      -9.382
+    ]
+  ]
+}

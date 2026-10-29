@@ -1,0 +1,29 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "FST",
+  "SKind2": "LAKe",
+  "ID": "EWRPFSTLAKe_F021",
+  "WRPointI2D": "晚秋",
+  "Name": "晚秋",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%99%9A%E7%A7%8B"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 78.66,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      3766.48,
+      78.66,
+      1884.49
+    ]
+  ]
+}

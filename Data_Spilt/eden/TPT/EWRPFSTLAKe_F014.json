@@ -1,0 +1,29 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "FST",
+  "SKind2": "LAKe",
+  "ID": "EWRPFSTLAKe_F014",
+  "WRPointI2D": "联合工业",
+  "Name": "联合工业",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E8%81%94%E5%90%88%E5%B7%A5%E4%B8%9A"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 78.3,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -341.46,
+      78.3,
+      -3867.48
+    ]
+  ]
+}

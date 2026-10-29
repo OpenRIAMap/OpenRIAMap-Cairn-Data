@@ -1,0 +1,29 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKh",
+  "ID": "HWRPZTHLAKh_C-02",
+  "WRPointI2D": "mmc咩咩村",
+  "Name": "咩咩村",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%92%A9%E5%92%A9%E6%9D%91"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 68.675,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -515.519,
+      68.675,
+      123.387
+    ]
+  ]
+}

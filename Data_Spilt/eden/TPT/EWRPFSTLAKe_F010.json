@@ -1,0 +1,29 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "FST",
+  "SKind2": "LAKe",
+  "ID": "EWRPFSTLAKe_F010",
+  "WRPointI2D": "夜莺港市",
+  "Name": "夜莺港",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%A4%9C%E8%8E%BA%E6%B8%AF"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 64.26,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      1126.52,
+      64.26,
+      2336.57
+    ]
+  ]
+}

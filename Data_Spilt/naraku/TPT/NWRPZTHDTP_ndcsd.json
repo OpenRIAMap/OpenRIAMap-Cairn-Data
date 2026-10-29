@@ -1,0 +1,24 @@
+{
+  "World": "naraku",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "DTP",
+  "ID": "NWRPZTHDTP_ndcsd",
+  "WRPointI2D": "nn2nandong",
+  "Name": "南东传送点",
+  "hub": "",
+  "Level": 3,
+  "Situation": true,
+  "elevation": 87,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      2272.354,
+      87,
+      4993.526
+    ]
+  ]
+}

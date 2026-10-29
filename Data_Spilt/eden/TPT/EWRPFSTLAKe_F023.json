@@ -1,0 +1,29 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "FST",
+  "SKind2": "LAKe",
+  "ID": "EWRPFSTLAKe_F023",
+  "WRPointI2D": "雪町",
+  "Name": "雪町",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E9%9B%AA%E7%94%BA"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 80,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      2725.87,
+      80,
+      1869.45
+    ]
+  ]
+}
