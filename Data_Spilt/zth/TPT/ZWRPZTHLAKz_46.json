@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_46",
+  "WRPointI2D": "o守望之乡o",
+  "Name": "守望之乡",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%AE%88%E6%9C%9B%E4%B9%8B%E4%B9%A1"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 47.062,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      4353.619,
+      47.062,
+      3315.545
+    ]
+  ]
+}

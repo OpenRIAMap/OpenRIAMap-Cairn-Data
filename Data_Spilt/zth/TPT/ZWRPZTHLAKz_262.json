@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_262",
+  "WRPointI2D": "book",
+  "Name": "书",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E4%B9%A6"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 79,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      4464.488,
+      79,
+      6602.674
+    ]
+  ]
+}

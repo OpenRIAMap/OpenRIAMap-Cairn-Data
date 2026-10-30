@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_123",
+  "WRPointI2D": "y夜行x",
+  "Name": "夜行",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%A4%9C%E8%A1%8C"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 64,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -6620.033,
+      64,
+      9791.102
+    ]
+  ]
+}

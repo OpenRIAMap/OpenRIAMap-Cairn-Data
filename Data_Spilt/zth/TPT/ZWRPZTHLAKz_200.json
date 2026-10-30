@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_200",
+  "WRPointI2D": "莉亚之门",
+  "Name": "莉亚之门",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E8%8E%89%E4%BA%9A%E4%B9%8B%E9%97%A8"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 156,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      8558.435,
+      156,
+      -1519.471
+    ]
+  ]
+}

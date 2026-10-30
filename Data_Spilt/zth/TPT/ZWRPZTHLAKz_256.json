@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_256",
+  "WRPointI2D": "wy芜园",
+  "Name": "芜园",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E8%8A%9C%E5%9B%AD"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 76,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -8702.543,
+      76,
+      -4930.526
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_285",
+  "WRPointI2D": "ymz缘梦镇",
+  "Name": "缘梦镇",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E7%BC%98%E6%A2%A6%E9%95%87"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 63.63,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -2939.356,
+      63.63,
+      -5702.249
+    ]
+  ]
+}

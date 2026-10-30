@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_190",
+  "WRPointI2D": "l莱茵y",
+  "Name": "莱茵",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E8%8E%B1%E8%8C%B5"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 63,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      4132.488,
+      63,
+      -13604.471
+    ]
+  ]
+}

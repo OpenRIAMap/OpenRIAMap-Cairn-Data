@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_68",
+  "WRPointI2D": "m煤屋w",
+  "Name": "煤屋",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E7%85%A4%E5%B1%8B"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 80.581,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      5361.503,
+      80.581,
+      3011.063
+    ]
+  ]
+}

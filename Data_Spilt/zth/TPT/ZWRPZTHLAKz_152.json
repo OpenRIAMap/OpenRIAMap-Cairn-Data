@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_152",
+  "WRPointI2D": "s溯东漪泱y",
+  "Name": "溯东漪泱",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%BA%AF%E4%B8%9C%E6%BC%AA%E6%B3%B1"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 63,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      5724.489,
+      63,
+      4904.434
+    ]
+  ]
+}

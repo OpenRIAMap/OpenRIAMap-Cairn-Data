@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_142",
+  "WRPointI2D": "hhy海华屿",
+  "Name": "海华屿",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%B5%B7%E5%8D%8E%E5%B1%BF"
+    }
+  },
+  "Level": 4,
+  "Situation": true,
+  "elevation": 69.7,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      9388.507,
+      69.7,
+      8939.499
+    ]
+  ]
+}

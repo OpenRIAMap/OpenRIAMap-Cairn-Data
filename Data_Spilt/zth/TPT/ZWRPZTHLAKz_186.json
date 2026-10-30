@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_186",
+  "WRPointI2D": "h幻梦余烬j",
+  "Name": "幻梦余烬",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%B9%BB%E6%A2%A6%E4%BD%99%E7%83%AC"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 67.938,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -4731.376,
+      67.938,
+      -10865.532
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_64",
+  "WRPointI2D": "t天之御柱",
+  "Name": "天之御柱",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%A4%A9%E4%B9%8B%E5%BE%A1%E6%9F%B1"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 63.137,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -1911.5,
+      63.137,
+      -3045.5
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_269",
+  "WRPointI2D": "hdHunt岛",
+  "Name": "HUNT岛",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/HUNT%E5%B2%9B"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 71.361,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      140.453,
+      71.361,
+      5728.475
+    ]
+  ]
+}

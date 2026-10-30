@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_212",
+  "WRPointI2D": "l凛泉谷g",
+  "Name": "凛泉谷",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%87%9B%E6%B3%89%E8%B0%B7"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 72,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -10628.516,
+      72,
+      -4276.502
+    ]
+  ]
+}

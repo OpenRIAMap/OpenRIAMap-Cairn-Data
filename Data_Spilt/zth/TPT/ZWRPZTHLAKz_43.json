@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_43",
+  "WRPointI2D": "s水泯神社s",
+  "Name": "水泯神社",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%B0%B4%E6%B3%AF%E7%A5%9E%E7%A4%BE"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 78,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -1295.442,
+      78,
+      1916
+    ]
+  ]
+}

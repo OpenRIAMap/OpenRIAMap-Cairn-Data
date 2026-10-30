@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_149",
+  "WRPointI2D": "凌银雪境",
+  "Name": "凌银雪境",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%87%8C%E9%93%B6%E9%9B%AA%E5%A2%83"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 67,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      10283.5,
+      67,
+      -9324.5
+    ]
+  ]
+}

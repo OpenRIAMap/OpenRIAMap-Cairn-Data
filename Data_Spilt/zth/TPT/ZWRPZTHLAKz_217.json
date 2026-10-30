@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_217",
+  "WRPointI2D": "wld微澜岛",
+  "Name": "微澜岛",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%BE%AE%E6%BE%9C%E5%B2%9B"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 65,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -4682.413,
+      65,
+      -8541.461
+    ]
+  ]
+}

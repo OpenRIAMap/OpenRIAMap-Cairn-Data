@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_18",
+  "WRPointI2D": "lx神海阁",
+  "Name": "神海阁",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E7%A5%9E%E6%B5%B7%E9%98%81"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 64,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -1049.47,
+      64,
+      -2975.571
+    ]
+  ]
+}

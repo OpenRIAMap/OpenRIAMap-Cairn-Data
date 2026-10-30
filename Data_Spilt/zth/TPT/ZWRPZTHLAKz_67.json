@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_67",
+  "WRPointI2D": "x雪寂神社s",
+  "Name": "雪寂神社",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E9%9B%AA%E5%AF%82%E7%A5%9E%E7%A4%BE"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 66.873,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      4643.5,
+      66.873,
+      -7809.5
+    ]
+  ]
+}

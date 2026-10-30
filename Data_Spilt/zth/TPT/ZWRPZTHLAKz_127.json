@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_127",
+  "WRPointI2D": "西兰Sealand",
+  "Name": "西兰Sealand",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E8%A5%BF%E5%85%B0Sealand"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 76,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -4390.555,
+      76,
+      -9053.935
+    ]
+  ]
+}

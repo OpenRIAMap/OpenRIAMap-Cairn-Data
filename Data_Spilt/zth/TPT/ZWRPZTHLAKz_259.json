@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_259",
+  "WRPointI2D": "qfc祈风川",
+  "Name": "祈风川",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E7%A5%88%E9%A3%8E%E5%B7%9D"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 70,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      9184.53,
+      70,
+      7285.768
+    ]
+  ]
+}

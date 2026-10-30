@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_141",
+  "WRPointI2D": "x雄鸡半岛d",
+  "Name": "雄鸡半岛",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E9%9B%84%E9%B8%A1%E5%8D%8A%E5%B2%9B"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 63,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -5411.521,
+      63,
+      -10653.462
+    ]
+  ]
+}

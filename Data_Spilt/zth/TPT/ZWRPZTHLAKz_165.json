@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_165",
+  "WRPointI2D": "k康纽尼兹斯克k",
+  "Name": "康纽尼兹斯克",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%BA%B7%E7%BA%BD%E5%B0%BC%E5%85%B9%E6%96%AF%E5%85%8B"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 68,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      6004.5,
+      68,
+      -2556.5
+    ]
+  ]
+}

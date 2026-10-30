@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_15",
+  "WRPointI2D": "ChinaMobby",
+  "Name": "ChinaMobby ELT.",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/ChinaMobby_ELT."
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 71,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -1229.015,
+      71,
+      -5650.676
+    ]
+  ]
+}

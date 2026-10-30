@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_51",
+  "WRPointI2D": "n快乐小镇j",
+  "Name": "快乐小镇",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%BF%AB%E4%B9%90%E5%B0%8F%E9%95%87"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 73,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      3586.5,
+      73,
+      6039.5
+    ]
+  ]
+}

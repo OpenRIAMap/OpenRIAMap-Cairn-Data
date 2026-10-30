@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_251",
+  "WRPointI2D": "lssmc隆尚赛马场",
+  "Name": "隆尚赛马场",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E9%9A%86%E5%B0%9A%E8%B5%9B%E9%A9%AC%E5%9C%BA"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 66,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -3034.547,
+      66,
+      6041.484
+    ]
+  ]
+}

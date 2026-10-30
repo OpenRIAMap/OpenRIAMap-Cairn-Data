@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_228",
+  "WRPointI2D": "f拂樱y",
+  "Name": "拂樱",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%8B%82%E6%A8%B1"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 71,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      5309.481,
+      71,
+      -13598.36
+    ]
+  ]
+}

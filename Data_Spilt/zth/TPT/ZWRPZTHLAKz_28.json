@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_28",
+  "WRPointI2D": "m猫神社",
+  "Name": "猫神社",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E7%8C%AB%E7%A5%9E%E7%A4%BE"
+    }
+  },
+  "Level": 4,
+  "Situation": true,
+  "elevation": 69,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      9132.434,
+      69,
+      -9680.553
+    ]
+  ]
+}

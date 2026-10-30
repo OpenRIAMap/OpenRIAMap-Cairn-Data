@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_218",
+  "WRPointI2D": "yly邕林屿",
+  "Name": "邕林屿",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E9%82%95%E6%9E%97%E5%B1%BF"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 64,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      8350.607,
+      64,
+      -7497.492
+    ]
+  ]
+}

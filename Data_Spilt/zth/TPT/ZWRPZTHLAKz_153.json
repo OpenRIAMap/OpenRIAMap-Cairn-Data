@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_153",
+  "WRPointI2D": "j堺屋w",
+  "Name": "堺屋",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%A0%BA%E5%B1%8B"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 63,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      7208.491,
+      63,
+      -7271.432
+    ]
+  ]
+}

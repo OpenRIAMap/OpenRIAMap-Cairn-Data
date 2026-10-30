@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_118",
+  "WRPointI2D": "f飞面岛d",
+  "Name": "飞面岛",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E9%A3%9E%E9%9D%A2%E5%B2%9B"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 70.168,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -14928.6,
+      70.168,
+      1561.487
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_135",
+  "WRPointI2D": "d东垣郡j",
+  "Name": "东垣郡",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E4%B8%9C%E5%9E%A3%E9%83%A1"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 64,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      3865.57,
+      64,
+      13820.477
+    ]
+  ]
+}

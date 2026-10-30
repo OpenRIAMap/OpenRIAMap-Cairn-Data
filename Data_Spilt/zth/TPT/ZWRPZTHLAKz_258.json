@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_258",
+  "WRPointI2D": "cat村",
+  "Name": "CAT 村",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/CAT_%E6%9D%91"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 80,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      4782.176,
+      80,
+      1551.475
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_235",
+  "WRPointI2D": "f福瑞山谷g",
+  "Name": "福瑞山谷",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E7%A6%8F%E7%91%9E%E5%B1%B1%E8%B0%B7"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 64,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -1500.562,
+      64,
+      12725.535
+    ]
+  ]
+}

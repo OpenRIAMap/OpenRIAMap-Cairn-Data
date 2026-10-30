@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_252",
+  "WRPointI2D": "ll琉黎",
+  "Name": "琉黎",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E7%90%89%E9%BB%8E"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 69,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      5380.3,
+      69,
+      -6079.539
+    ]
+  ]
+}

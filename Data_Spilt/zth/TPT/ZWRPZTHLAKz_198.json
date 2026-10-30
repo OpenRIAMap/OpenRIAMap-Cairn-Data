@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_198",
+  "WRPointI2D": "hflc海风林场",
+  "Name": "海风林场",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%B5%B7%E9%A3%8E%E6%9E%97%E5%9C%BA"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 72.255,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      8225.472,
+      72.255,
+      -1282.585
+    ]
+  ]
+}

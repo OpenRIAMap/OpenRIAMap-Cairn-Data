@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_151",
+  "WRPointI2D": "b八方群岛d",
+  "Name": "八方群岛",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%85%AB%E6%96%B9%E7%BE%A4%E5%B2%9B"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 125,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      4231.459,
+      125,
+      14518.506
+    ]
+  ]
+}

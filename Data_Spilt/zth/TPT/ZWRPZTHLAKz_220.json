@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_220",
+  "WRPointI2D": "a艾森堡o",
+  "Name": "艾森堡",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E8%89%BE%E6%A3%AE%E5%A0%A1"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 58,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      13490.487,
+      58,
+      896.4
+    ]
+  ]
+}

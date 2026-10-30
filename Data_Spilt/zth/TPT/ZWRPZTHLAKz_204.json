@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_204",
+  "WRPointI2D": "fmtqs",
+  "Name": "佛蒙特-秋山",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E4%BD%9B%E8%92%99%E7%89%B9-%E7%A7%8B%E5%B1%B1"
+    }
+  },
+  "Level": 4,
+  "Situation": true,
+  "elevation": 65,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      5217.603,
+      65,
+      -12683.336
+    ]
+  ]
+}

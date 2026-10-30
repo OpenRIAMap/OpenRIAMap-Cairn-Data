@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_132",
+  "WRPointI2D": "f浮光g",
+  "Name": "浮光",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%B5%AE%E5%85%89"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 132,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      14104.083,
+      132,
+      878.699
+    ]
+  ]
+}

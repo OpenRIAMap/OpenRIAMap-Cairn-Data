@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_13",
+  "WRPointI2D": "v北溟神社",
+  "Name": "北溟神社",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%8C%97%E6%BA%9F%E7%A5%9E%E7%A4%BE"
+    }
+  },
+  "Level": 4,
+  "Situation": true,
+  "elevation": 69,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -944.461,
+      69,
+      -2697.556
+    ]
+  ]
+}

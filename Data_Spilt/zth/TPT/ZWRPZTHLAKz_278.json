@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_278",
+  "WRPointI2D": "kybl科英布拉",
+  "Name": "科英布拉",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E7%A7%91%E8%8B%B1%E5%B8%83%E6%8B%89"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 81.63,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -8715.518,
+      81.63,
+      -6467.327
+    ]
+  ]
+}

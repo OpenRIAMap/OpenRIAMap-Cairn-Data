@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_22",
+  "WRPointI2D": "a比尔吉沃特",
+  "Name": "比尔吉沃特",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%AF%94%E5%B0%94%E5%90%89%E6%B2%83%E7%89%B9"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 68,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -2258.512,
+      68,
+      -1938.407
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_35",
+  "WRPointI2D": "b百草园c",
+  "Name": "百草园",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E7%99%BE%E8%8D%89%E5%9B%AD"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 80.032,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -687.598,
+      80.032,
+      -1778.418
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_146",
+  "WRPointI2D": "y瀛山境j",
+  "Name": "瀛山境",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E7%80%9B%E5%B1%B1%E5%A2%83"
+    }
+  },
+  "Level": 4,
+  "Situation": true,
+  "elevation": 67,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -5385.401,
+      67,
+      -7152.488
+    ]
+  ]
+}

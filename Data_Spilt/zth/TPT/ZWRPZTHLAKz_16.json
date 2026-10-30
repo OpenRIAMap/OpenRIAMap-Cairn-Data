@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_16",
+  "WRPointI2D": "l双子湖神社",
+  "Name": "双子湖神社",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%8F%8C%E5%AD%90%E6%B9%96%E7%A5%9E%E7%A4%BE"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 66,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -1281.536,
+      66,
+      -2820.521
+    ]
+  ]
+}

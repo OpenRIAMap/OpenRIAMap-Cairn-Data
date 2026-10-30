@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_73",
+  "WRPointI2D": "s四季岛d",
+  "Name": "四季岛",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%9B%9B%E5%AD%A3%E5%B2%9B"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 63.382,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -3523.556,
+      63.382,
+      2600.506
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_74",
+  "WRPointI2D": "j嘉南郡j",
+  "Name": "嘉南郡",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%98%89%E5%8D%97%E9%83%A1"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 65.117,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -5353.692,
+      65.117,
+      4339.73
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_131",
+  "WRPointI2D": "h寒鸦渡口k",
+  "Name": "寒鸦渡口",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%AF%92%E9%B8%A6%E6%B8%AF%E5%8F%A3"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 119,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -3654.539,
+      119,
+      -9643.572
+    ]
+  ]
+}

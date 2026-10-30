@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_192",
+  "WRPointI2D": "ZhanLan",
+  "Name": "湛蓝の遥阔★",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%B9%9B%E8%93%9D%E3%81%AE%E9%81%A5%E9%98%94%E2%98%85"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 67,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -3272.476,
+      67,
+      13509.499
+    ]
+  ]
+}

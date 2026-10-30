@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_276",
+  "WRPointI2D": "mn莫奈",
+  "Name": "莫奈",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E8%8E%AB%E5%A5%88"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 70.244,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      740.491,
+      70.244,
+      -8133.486
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_40",
+  "WRPointI2D": "s山河城",
+  "Name": "山河城",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%B1%B1%E6%B2%B3%E5%9F%8E"
+    }
+  },
+  "Level": 4,
+  "Situation": true,
+  "elevation": 70,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -1009.568,
+      70,
+      -2256.621
+    ]
+  ]
+}

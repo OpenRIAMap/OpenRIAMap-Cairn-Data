@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_242",
+  "WRPointI2D": "nyhg南燕画馆",
+  "Name": "南燕画馆",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%8D%97%E7%87%95%E7%94%BB%E9%A6%86"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 70,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -9514.493,
+      70,
+      -3450.557
+    ]
+  ]
+}

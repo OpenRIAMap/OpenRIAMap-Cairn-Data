@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_154",
+  "WRPointI2D": "m抹工一区q",
+  "Name": "抹工一区",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%8A%B9%E5%B7%A5%E4%B8%80%E5%8C%BA"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 72,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -3366.378,
+      72,
+      -7850.549
+    ]
+  ]
+}

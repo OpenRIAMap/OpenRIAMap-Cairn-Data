@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_20",
+  "WRPointI2D": "c紫金山庄",
+  "Name": "紫金山庄",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E7%B4%AB%E9%87%91%E5%B1%B1%E5%BA%84"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 118,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      3073.497,
+      118,
+      10529.46
+    ]
+  ]
+}

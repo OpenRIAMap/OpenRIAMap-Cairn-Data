@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_148",
+  "WRPointI2D": "Oasis",
+  "Name": "Oasis",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/Oasis"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 64.938,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -7583.626,
+      64.938,
+      7067.513
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_49",
+  "WRPointI2D": "h黑市",
+  "Name": "黑市",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E9%BB%91%E5%B8%82"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 12,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -1562.503,
+      12,
+      617.503
+    ]
+  ]
+}

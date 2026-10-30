@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_58",
+  "WRPointI2D": "q千流湾w",
+  "Name": "千流湾",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%8D%83%E6%B5%81%E6%B9%BE"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 67.753,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      3473.144,
+      67.753,
+      -2959.53
+    ]
+  ]
+}

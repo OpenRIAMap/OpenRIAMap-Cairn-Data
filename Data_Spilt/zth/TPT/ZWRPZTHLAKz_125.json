@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_125",
+  "WRPointI2D": "y阴条岭l",
+  "Name": "阴条岭",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E9%98%B4%E6%9D%A1%E5%B2%AD"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 86.5,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      5192.828,
+      86.5,
+      13168.97
+    ]
+  ]
+}

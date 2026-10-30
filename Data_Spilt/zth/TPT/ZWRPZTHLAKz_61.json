@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_61",
+  "WRPointI2D": "f风车陆岛d",
+  "Name": "风车陆岛",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E9%A3%8E%E8%BD%A6%E9%99%86%E5%B2%9B"
+    }
+  },
+  "Level": 4,
+  "Situation": true,
+  "elevation": 35,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      3963.465,
+      35,
+      -5898.381
+    ]
+  ]
+}

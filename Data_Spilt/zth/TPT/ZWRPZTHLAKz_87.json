@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_87",
+  "WRPointI2D": "s丝穴x",
+  "Name": "丝穴",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E4%B8%9D%E7%A9%B4"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 36.062,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      5643.511,
+      36.062,
+      -4097.473
+    ]
+  ]
+}

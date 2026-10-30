@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_101",
+  "WRPointI2D": "d地灵殿d",
+  "Name": "地灵殿",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%9C%B0%E7%81%B5%E6%AE%BF"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 6,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -131.5,
+      6,
+      -15082.5
+    ]
+  ]
+}

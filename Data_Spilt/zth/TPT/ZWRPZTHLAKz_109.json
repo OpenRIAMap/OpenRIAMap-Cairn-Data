@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_109",
+  "WRPointI2D": "k空言谷g",
+  "Name": "空言谷",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E7%A9%BA%E8%A8%80%E8%B0%B7"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 63,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      5612.485,
+      63,
+      5012.231
+    ]
+  ]
+}

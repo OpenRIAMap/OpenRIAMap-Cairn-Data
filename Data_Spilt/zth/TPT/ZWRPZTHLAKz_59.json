@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_59",
+  "WRPointI2D": "y玉米岛d",
+  "Name": "玉米岛",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E7%8E%89%E7%B1%B3%E5%B2%9B"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 67.255,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -245.472,
+      67.255,
+      -2213.232
+    ]
+  ]
+}

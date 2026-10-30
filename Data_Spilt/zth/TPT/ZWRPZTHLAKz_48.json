@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_48",
+  "WRPointI2D": "z印斯茅斯集镇",
+  "Name": "印斯茅斯集镇",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%8D%B0%E6%96%AF%E8%8C%85%E6%96%AF%E9%9B%86%E9%95%87"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 80,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -7044.5,
+      80,
+      -7794.5
+    ]
+  ]
+}

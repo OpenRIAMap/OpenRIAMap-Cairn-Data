@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_266",
+  "WRPointI2D": "gjqg抹工四区·光霁轻工",
+  "Name": "抹工四区·光霁轻工",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%8A%B9%E5%B7%A5%E5%9B%9B%E5%8C%BA%C2%B7%E5%85%89%E9%9C%81%E8%BD%BB%E5%B7%A5"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 66.5,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -2705.5,
+      66.5,
+      -7488.5
+    ]
+  ]
+}

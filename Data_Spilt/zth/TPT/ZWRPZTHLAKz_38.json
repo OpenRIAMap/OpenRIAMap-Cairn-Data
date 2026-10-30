@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_38",
+  "WRPointI2D": "v天空之瀑v",
+  "Name": "天空之瀑",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E7%80%91"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 239,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      4273.655,
+      239,
+      4601.544
+    ]
+  ]
+}

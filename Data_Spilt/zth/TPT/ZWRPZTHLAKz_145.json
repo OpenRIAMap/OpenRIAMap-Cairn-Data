@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_145",
+  "WRPointI2D": "g谷渊境j",
+  "Name": "谷渊境",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E8%B0%B7%E6%B8%8A%E5%A2%83"
+    }
+  },
+  "Level": 4,
+  "Situation": true,
+  "elevation": 64,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -5343.537,
+      64,
+      -8729.478
+    ]
+  ]
+}

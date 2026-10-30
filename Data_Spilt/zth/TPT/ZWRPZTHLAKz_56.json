@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_56",
+  "WRPointI2D": "t天溯神社s",
+  "Name": "天溯山",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%A4%A9%E6%BA%AF%E5%B1%B1"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 72,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      5121.422,
+      72,
+      5032.269
+    ]
+  ]
+}

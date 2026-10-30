@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_44",
+  "WRPointI2D": "i开华i",
+  "Name": "开华",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%BC%80%E5%8D%8E"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 77,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -1172.507,
+      77,
+      -8156.523
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_72",
+  "WRPointI2D": "l龙门m",
+  "Name": "龙门",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E9%BE%99%E9%97%A8"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 75.494,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -1300.53,
+      75.494,
+      1092.534
+    ]
+  ]
+}

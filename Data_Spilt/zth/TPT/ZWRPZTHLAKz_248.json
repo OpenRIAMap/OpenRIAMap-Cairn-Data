@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_248",
+  "WRPointI2D": "RIA社团文化中心",
+  "Name": "RIA社团文化中心",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/RIA%E7%A4%BE%E5%9B%A2%E6%96%87%E5%8C%96%E4%B8%AD%E5%BF%83"
+    }
+  },
+  "Level": 4,
+  "Situation": true,
+  "elevation": 73,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      12412.616,
+      73,
+      -1807.486
+    ]
+  ]
+}

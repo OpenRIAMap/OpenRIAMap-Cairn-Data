@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_245",
+  "WRPointI2D": "AMU",
+  "Name": "A.M.U",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/A.M.U"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 73,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -8491.428,
+      73,
+      -4560.669
+    ]
+  ]
+}

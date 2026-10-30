@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_75",
+  "WRPointI2D": "h海明夜塔t",
+  "Name": "海明夜塔",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%B5%B7%E6%98%8E%E5%A4%9C%E5%A1%94"
+    }
+  },
+  "Level": 4,
+  "Situation": true,
+  "elevation": 139.045,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -4118.684,
+      139.045,
+      -3198.408
+    ]
+  ]
+}

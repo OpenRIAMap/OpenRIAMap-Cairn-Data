@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_197",
+  "WRPointI2D": "sbly斯波利亚",
+  "Name": "斯波利亚",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%96%AF%E6%B3%A2%E5%88%A9%E4%BA%9A"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 70,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      4742.513,
+      70,
+      -2360.351
+    ]
+  ]
+}

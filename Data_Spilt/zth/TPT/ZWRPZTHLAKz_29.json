@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_29",
+  "WRPointI2D": "z紫心",
+  "Name": "紫心",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E7%B4%AB%E5%BF%83"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 73,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      1886.533,
+      73,
+      -3059.317
+    ]
+  ]
+}

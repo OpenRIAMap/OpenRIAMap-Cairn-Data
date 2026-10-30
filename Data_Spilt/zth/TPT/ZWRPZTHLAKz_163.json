@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_163",
+  "WRPointI2D": "w文梓字社s",
+  "Name": "文梓印刷社",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%96%87%E6%A2%93%E5%8D%B0%E5%88%B7%E7%A4%BE"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 65,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -6317.344,
+      65,
+      12412.193
+    ]
+  ]
+}

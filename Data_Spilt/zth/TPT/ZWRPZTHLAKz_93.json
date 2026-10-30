@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_93",
+  "WRPointI2D": "x像素谷g",
+  "Name": "像素谷",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%83%8F%E7%B4%A0%E8%B0%B7"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 64.743,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -4846.46,
+      64.743,
+      634.415
+    ]
+  ]
+}

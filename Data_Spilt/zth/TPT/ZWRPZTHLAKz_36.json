@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_36",
+  "WRPointI2D": "x鸽子窝x",
+  "Name": "鸽子窝",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E9%B8%BD%E5%AD%90%E7%AA%9D"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 69,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      1932.475,
+      69,
+      -844.39
+    ]
+  ]
+}

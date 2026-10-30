@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_117",
+  "WRPointI2D": "tkzp",
+  "Name": "TKZP",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/TKZP"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 130,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      11124.512,
+      130,
+      -4512.593
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_114",
+  "WRPointI2D": "m沐露梳风f",
+  "Name": "沐露梳风",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%B2%90%E9%9C%B2%E6%A2%B3%E9%A3%8E"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 69,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      1284.839,
+      69,
+      -6453.541
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_108",
+  "WRPointI2D": "b北溯工g",
+  "Name": "北溯工",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%8C%97%E6%BA%AF%E5%B7%A5"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 90,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      5296.654,
+      90,
+      4638.513
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_25",
+  "WRPointI2D": "c日沉阁",
+  "Name": "日沉阁",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%97%A5%E6%B2%89%E9%98%81"
+    }
+  },
+  "Level": 4,
+  "Situation": true,
+  "elevation": 73.624,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      4674.5,
+      73.624,
+      14092.5
+    ]
+  ]
+}

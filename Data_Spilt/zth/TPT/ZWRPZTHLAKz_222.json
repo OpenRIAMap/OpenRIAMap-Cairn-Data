@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_222",
+  "WRPointI2D": "y云岫郡j",
+  "Name": "云岫郡",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E4%BA%91%E5%B2%AB%E9%83%A1"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 83,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -6350.331,
+      83,
+      -5421.445
+    ]
+  ]
+}

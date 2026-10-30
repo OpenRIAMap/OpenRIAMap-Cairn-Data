@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_277",
+  "WRPointI2D": "cx春晓",
+  "Name": "春晓",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%98%A5%E6%99%93"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 68.045,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -9665.544,
+      68.045,
+      9469.451
+    ]
+  ]
+}

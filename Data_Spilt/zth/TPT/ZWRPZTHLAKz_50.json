@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_50",
+  "WRPointI2D": "y亚利镇z",
+  "Name": "亚利镇",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E4%BA%9A%E5%88%A9%E9%95%87"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 65,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -3997.5,
+      65,
+      -1749.5
+    ]
+  ]
+}

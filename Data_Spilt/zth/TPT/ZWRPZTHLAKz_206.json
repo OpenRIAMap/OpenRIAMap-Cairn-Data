@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_206",
+  "WRPointI2D": "fjll弗加洛领",
+  "Name": "弗加洛领",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%BC%97%E5%8A%A0%E6%B4%9B%E9%A2%86"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 71.669,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -2076.3,
+      71.669,
+      -12142.308
+    ]
+  ]
+}

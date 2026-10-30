@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_270",
+  "WRPointI2D": "rfg染华港",
+  "Name": "染华港",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%9F%93%E5%8D%8E%E6%B8%AF"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 67.5,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      10601.5,
+      67.5,
+      8126.5
+    ]
+  ]
+}

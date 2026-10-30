@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_194",
+  "WRPointI2D": "qhsw浅海书屋",
+  "Name": "浅海书屋",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%B5%85%E6%B5%B7%E4%B9%A6%E5%B1%8B"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 63.637,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      7688.7,
+      63.637,
+      143.3
+    ]
+  ]
+}

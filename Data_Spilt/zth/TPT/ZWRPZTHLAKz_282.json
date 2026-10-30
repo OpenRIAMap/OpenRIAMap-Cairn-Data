@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_282",
+  "WRPointI2D": "hhxh海华星湖国际机场",
+  "Name": "海华星湖国际机场",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%B5%B7%E5%8D%8E%E6%98%9F%E6%B9%96%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 91.5,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      11363.473,
+      91.5,
+      9123.514
+    ]
+  ]
+}

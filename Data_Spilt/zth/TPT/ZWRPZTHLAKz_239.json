@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_239",
+  "WRPointI2D": "w望坝岛d",
+  "Name": "望坝岛",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%9C%9B%E5%9D%9D%E5%B2%9B"
+    }
+  },
+  "Level": 9,
+  "Situation": true,
+  "elevation": 85.736,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      7979.742,
+      85.736,
+      -2060.51
+    ]
+  ]
+}

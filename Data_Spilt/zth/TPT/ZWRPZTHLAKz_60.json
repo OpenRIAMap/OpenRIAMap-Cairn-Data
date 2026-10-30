@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_60",
+  "WRPointI2D": "x夕霏町t",
+  "Name": "夕霏町",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%A4%95%E9%9C%8F%E7%94%BA"
+    }
+  },
+  "Level": 4,
+  "Situation": true,
+  "elevation": 66.013,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      1268.668,
+      66.013,
+      13367.295
+    ]
+  ]
+}

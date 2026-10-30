@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_76",
+  "WRPointI2D": "b半夏似流年n",
+  "Name": "半夏似流年",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%8D%8A%E5%A4%8F%E4%BC%BC%E6%B5%81%E5%B9%B4"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 85,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -5067.372,
+      85,
+      4736.551
+    ]
+  ]
+}

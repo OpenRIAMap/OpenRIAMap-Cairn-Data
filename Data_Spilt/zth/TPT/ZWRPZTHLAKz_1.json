@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_1",
+  "WRPointI2D": "鳕鱼贫鸟居",
+  "Name": "鳕鱼贫岛",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E9%B3%95%E9%B1%BC%E8%B4%AB%E5%B2%9B"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 63.5,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -558.493,
+      63.5,
+      -922.483
+    ]
+  ]
+}

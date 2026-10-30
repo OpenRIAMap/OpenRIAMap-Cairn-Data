@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_196",
+  "WRPointI2D": "ldc拉多村",
+  "Name": "拉多村",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%8B%89%E5%A4%9A%E6%9D%91"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 65,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -12753.5,
+      65,
+      1976.5
+    ]
+  ]
+}

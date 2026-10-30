@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_133",
+  "WRPointI2D": "w纹月神社s",
+  "Name": "纹月神社",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E7%BA%B9%E6%9C%88%E7%A5%9E%E7%A4%BE"
+    }
+  },
+  "Level": 4,
+  "Situation": true,
+  "elevation": 62,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      828.453,
+      62,
+      -14395.554
+    ]
+  ]
+}

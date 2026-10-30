@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_147",
+  "WRPointI2D": "x星辰c",
+  "Name": "星辰",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%98%9F%E8%BE%B0"
+    }
+  },
+  "Level": 4,
+  "Situation": true,
+  "elevation": 68.858,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -7568.541,
+      68.858,
+      5769.833
+    ]
+  ]
+}

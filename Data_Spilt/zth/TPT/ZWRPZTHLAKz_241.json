@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_241",
+  "WRPointI2D": "yhgy迎晖工业",
+  "Name": "迎晖工业",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E8%BF%8E%E6%99%96%E5%B7%A5%E4%B8%9A"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 64,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      11925.537,
+      64,
+      8000.241
+    ]
+  ]
+}

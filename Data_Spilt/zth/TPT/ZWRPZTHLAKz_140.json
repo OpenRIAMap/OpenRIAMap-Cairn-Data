@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_140",
+  "WRPointI2D": "b不咕岛d",
+  "Name": "不咕岛",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E4%B8%8D%E5%92%95%E5%B2%9B"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 65,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -12191.489,
+      65,
+      -4180.569
+    ]
+  ]
+}

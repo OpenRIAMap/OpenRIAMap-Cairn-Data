@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_52",
+  "WRPointI2D": "l岭上神社l",
+  "Name": "岭上神社",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%B2%AD%E4%B8%8A%E7%A5%9E%E7%A4%BE"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 69,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      3466.641,
+      69,
+      6293.518
+    ]
+  ]
+}

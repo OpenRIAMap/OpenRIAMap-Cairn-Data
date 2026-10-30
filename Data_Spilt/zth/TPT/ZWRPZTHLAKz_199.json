@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_199",
+  "WRPointI2D": "bblny巴比伦尼亚",
+  "Name": "巴比伦尼亚",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%B7%B4%E6%AF%94%E4%BC%A6%E5%B0%BC%E4%BA%9A"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 63.748,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      10256.026,
+      63.748,
+      10185.406
+    ]
+  ]
+}

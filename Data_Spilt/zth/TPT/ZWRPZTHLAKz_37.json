@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_37",
+  "WRPointI2D": "x黄与红x,",
+  "Name": "黄与红",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E9%BB%84%E4%B8%8E%E7%BA%A2"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 67,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      879.506,
+      67,
+      2839.587
+    ]
+  ]
+}

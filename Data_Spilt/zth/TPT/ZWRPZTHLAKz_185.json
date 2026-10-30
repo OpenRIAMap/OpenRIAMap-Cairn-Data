@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_185",
+  "WRPointI2D": "s塞纳图斯s",
+  "Name": "塞纳图斯",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%A1%9E%E7%BA%B3%E5%9B%BE%E6%96%AF"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 81,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      9742.486,
+      81,
+      1590.579
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_39",
+  "WRPointI2D": "i极东魔术昼寝结社",
+  "Name": "极东魔术昼寝结社",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%9E%81%E4%B8%9C%E9%AD%94%E6%9C%AF%E6%98%BC%E5%AF%9D%E7%BB%93%E7%A4%BE"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 65,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -269.499,
+      65,
+      835.199
+    ]
+  ]
+}

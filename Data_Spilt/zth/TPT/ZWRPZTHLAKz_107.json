@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_107",
+  "WRPointI2D": "n南麂渔村c",
+  "Name": "南麂渔村",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%8D%97%E9%BA%82%E6%B8%94%E6%9D%91"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 64,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      1194.685,
+      64,
+      -2890.327
+    ]
+  ]
+}

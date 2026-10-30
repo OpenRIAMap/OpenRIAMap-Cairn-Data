@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_221",
+  "WRPointI2D": "f饭香饭色s",
+  "Name": "饭香饭色",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E9%A5%AD%E9%A6%99%E9%A5%AD%E8%89%B2"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 63,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -1403.699,
+      63,
+      -1541.43
+    ]
+  ]
+}

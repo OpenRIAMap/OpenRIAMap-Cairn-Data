@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_94",
+  "WRPointI2D": "J极东稻荷小社S",
+  "Name": "极东稻荷小社",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%9E%81%E4%B8%9C%E7%A8%BB%E8%8D%B7%E5%B0%8F%E7%A4%BE"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 65,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      10664.5,
+      65,
+      -5594.5
+    ]
+  ]
+}

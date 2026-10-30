@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_119",
+  "WRPointI2D": "q秋名山s",
+  "Name": "秋名山",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E7%A7%8B%E5%90%8D%E5%B1%B1"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 147,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -14175.753,
+      147,
+      2032.508
+    ]
+  ]
+}

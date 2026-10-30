@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_91",
+  "WRPointI2D": "g孤独峰f",
+  "Name": "孤独峰",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%AD%A4%E7%8B%AC%E5%B3%B0"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 72,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -11770.436,
+      72,
+      -5268.27
+    ]
+  ]
+}

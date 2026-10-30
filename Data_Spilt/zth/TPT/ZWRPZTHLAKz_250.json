@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_250",
+  "WRPointI2D": "xmg小皿国",
+  "Name": "小皿国",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%B0%8F%E7%9A%BF%E5%9B%BD"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 71,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      13091.501,
+      71,
+      148.447
+    ]
+  ]
+}

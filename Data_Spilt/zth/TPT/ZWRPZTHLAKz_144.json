@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_144",
+  "WRPointI2D": "m命莲寺s",
+  "Name": "命莲寺",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%91%BD%E8%8E%B2%E5%AF%BA"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 64,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -9768.5,
+      64,
+      5494.5
+    ]
+  ]
+}

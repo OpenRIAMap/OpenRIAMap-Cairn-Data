@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_70",
+  "WRPointI2D": "m妙脆角j",
+  "Name": "妙脆角",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%A6%99%E8%84%86%E8%A7%92"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 65.283,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      703.498,
+      65.283,
+      1058.32
+    ]
+  ]
+}

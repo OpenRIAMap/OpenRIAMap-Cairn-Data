@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_24",
+  "WRPointI2D": "冰刺国家地质公园",
+  "Name": "冰刺国家地质公园",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%86%B0%E5%88%BA%E5%9B%BD%E5%AE%B6%E5%9C%B0%E8%B4%A8%E5%85%AC%E5%9B%AD"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 105,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      3310.619,
+      105,
+      4894.512
+    ]
+  ]
+}

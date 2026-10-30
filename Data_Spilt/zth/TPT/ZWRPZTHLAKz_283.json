@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_283",
+  "WRPointI2D": "szy森ノ嶋",
+  "Name": "森ノ嶋",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%A3%AE%E3%83%8E%E5%B6%8B"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 63.612,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      5951.542,
+      63.612,
+      -13270.986
+    ]
+  ]
+}

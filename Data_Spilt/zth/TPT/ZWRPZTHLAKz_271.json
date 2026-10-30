@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_271",
+  "WRPointI2D": "myt麦芽塘",
+  "Name": "麦芽塘",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E9%BA%A6%E8%8A%BD%E5%A1%98"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 61.5,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      4653.5,
+      61.5,
+      8708.5
+    ]
+  ]
+}

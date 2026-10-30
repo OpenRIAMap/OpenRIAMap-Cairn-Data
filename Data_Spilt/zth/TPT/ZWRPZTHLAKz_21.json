@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_21",
+  "WRPointI2D": "z风吟之地",
+  "Name": "风吟之地",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E9%A3%8E%E5%90%9F%E4%B9%8B%E5%9C%B0"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 120,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -958.536,
+      120,
+      -2571.908
+    ]
+  ]
+}

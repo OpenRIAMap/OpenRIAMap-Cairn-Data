@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_191",
+  "WRPointI2D": "p跑酷岛d",
+  "Name": "跑酷岛",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E8%B7%91%E9%85%B7%E5%B2%9B"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 63,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      6412.53,
+      63,
+      -13179.411
+    ]
+  ]
+}

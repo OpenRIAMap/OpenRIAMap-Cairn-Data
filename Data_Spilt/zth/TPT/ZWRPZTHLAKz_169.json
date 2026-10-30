@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_169",
+  "WRPointI2D": "z子夜港g",
+  "Name": "子夜港",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%AD%90%E5%A4%9C%E6%B8%AF"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 67,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -661.449,
+      67,
+      9722.508
+    ]
+  ]
+}

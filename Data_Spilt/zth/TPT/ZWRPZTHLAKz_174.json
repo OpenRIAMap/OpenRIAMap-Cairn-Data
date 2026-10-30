@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_174",
+  "WRPointI2D": "b北部节点站z",
+  "Name": "北部节点站",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%8C%97%E9%83%A8%E8%8A%82%E7%82%B9%E7%AB%99"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 63,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -2297.463,
+      63,
+      -8630.536
+    ]
+  ]
+}

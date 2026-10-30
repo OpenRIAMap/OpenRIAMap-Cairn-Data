@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_286",
+  "WRPointI2D": "fsd沸石岛",
+  "Name": "沸石岛",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%B2%B8%E7%9F%B3%E5%B2%9B"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 64.207,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -4859.504,
+      64.207,
+      -8959.336
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_124",
+  "WRPointI2D": "x蝎型结社雪原部b",
+  "Name": "蝎型结社雪原部",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E8%9D%8E%E5%9E%8B%E7%BB%93%E7%A4%BE%E9%9B%AA%E5%8E%9F%E9%83%A8"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 63,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      8620.452,
+      63,
+      -58.818
+    ]
+  ]
+}

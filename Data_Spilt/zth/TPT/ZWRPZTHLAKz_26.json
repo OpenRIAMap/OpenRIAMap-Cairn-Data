@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_26",
+  "WRPointI2D": "k卡森德拉",
+  "Name": "卡森德拉",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%8D%A1%E6%A3%AE%E5%BE%B7%E6%8B%89"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 73.5,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -664.613,
+      73.5,
+      -7356.559
+    ]
+  ]
+}

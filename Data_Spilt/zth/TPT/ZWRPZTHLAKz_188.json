@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_188",
+  "WRPointI2D": "f风满楼l",
+  "Name": "风满楼",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E9%A3%8E%E6%BB%A1%E6%A5%BC"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 80,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      7941.572,
+      80,
+      10824.457
+    ]
+  ]
+}

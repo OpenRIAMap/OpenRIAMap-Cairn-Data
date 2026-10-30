@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_210",
+  "WRPointI2D": "bsg白杉港",
+  "Name": "白杉港",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E7%99%BD%E6%9D%89%E6%B8%AF"
+    }
+  },
+  "Level": 3,
+  "Situation": true,
+  "elevation": 72.5,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -11861.483,
+      72.5,
+      -49.527
+    ]
+  ]
+}

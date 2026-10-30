@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_53",
+  "WRPointI2D": "m麦田村c",
+  "Name": "望星乡",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%9C%9B%E6%98%9F%E4%B9%A1"
+    }
+  },
+  "Level": 4,
+  "Situation": true,
+  "elevation": 42,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -12684.5,
+      42,
+      -282.5
+    ]
+  ]
+}

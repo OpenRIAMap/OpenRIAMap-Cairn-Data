@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_54",
+  "WRPointI2D": "l凌云峰l",
+  "Name": "凌云峰",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%87%8C%E4%BA%91%E5%B3%B0"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 224,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -8742.5,
+      224,
+      5832.5
+    ]
+  ]
+}

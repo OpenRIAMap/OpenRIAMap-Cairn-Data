@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_110",
+  "WRPointI2D": "x新图书馆g",
+  "Name": "新郊野大图书馆",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%96%B0%E5%9B%BE%E4%B9%A6%E9%A6%86"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 68,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -4299.626,
+      68,
+      -9296.391
+    ]
+  ]
+}

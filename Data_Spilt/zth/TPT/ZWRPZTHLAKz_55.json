@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_55",
+  "WRPointI2D": "Gasherbrum",
+  "Name": "Gasherbrum",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/Gasherbrum"
+    }
+  },
+  "Level": 4,
+  "Situation": true,
+  "elevation": 138.305,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -4301.377,
+      138.305,
+      136.499
+    ]
+  ]
+}

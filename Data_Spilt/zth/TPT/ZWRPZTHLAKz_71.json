@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_71",
+  "WRPointI2D": "m明都d",
+  "Name": "明都",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%98%8E%E9%83%BD"
+    }
+  },
+  "Level": 4,
+  "Situation": true,
+  "elevation": 126.748,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      4602.459,
+      126.748,
+      13811.614
+    ]
+  ]
+}

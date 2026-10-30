@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_249",
+  "WRPointI2D": "qxx清夏乡",
+  "Name": "清夏乡",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%B8%85%E5%A4%8F%E4%B9%A1"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 73,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -3338.412,
+      73,
+      -6458.396
+    ]
+  ]
+}

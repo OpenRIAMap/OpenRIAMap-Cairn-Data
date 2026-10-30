@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_272",
+  "WRPointI2D": "bd白冬",
+  "Name": "白冬",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E7%99%BD%E5%86%AC"
+    }
+  },
+  "Level": 1,
+  "Situation": true,
+  "elevation": 81.674,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -425.398,
+      81.674,
+      -4868.47
+    ]
+  ]
+}

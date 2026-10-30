@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_63",
+  "WRPointI2D": "d地心走廊l",
+  "Name": "地心走廊",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E5%9C%B0%E5%BF%83%E8%B5%B0%E5%BB%8A"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 31.404,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      5980.5,
+      31.404,
+      7382.5
+    ]
+  ]
+}

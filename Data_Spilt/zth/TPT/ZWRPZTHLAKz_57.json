@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_57",
+  "WRPointI2D": "q青森村c",
+  "Name": "青森村",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E9%9D%92%E6%A3%AE%E6%9D%91"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 69.867,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261030",
+  "Type": "Points",
+  "CoordP": [
+    [
+      6110.5,
+      69.867,
+      12805.5
+    ]
+  ]
+}

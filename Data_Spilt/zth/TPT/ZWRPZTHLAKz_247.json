@@ -1,0 +1,29 @@
+{
+  "World": "zth",
+  "Class": "TPT",
+  "Kind": "WRP",
+  "SKind": "ZTH",
+  "SKind2": "LAKz",
+  "ID": "ZWRPZTHLAKz_247",
+  "WRPointI2D": "bhxq滨海新区",
+  "Name": "滨海新区",
+  "hub": "",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA"
+    }
+  },
+  "Level": 2,
+  "Situation": true,
+  "elevation": 68.062,
+  "CreateBy": "Ozstk639",
+  "CreateTime": "20261029",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -6738.519,
+      68.062,
+      494.595
+    ]
+  ]
+}
