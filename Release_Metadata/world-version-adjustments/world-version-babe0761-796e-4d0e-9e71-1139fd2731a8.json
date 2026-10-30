@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "openriamap.data-release-mirror-manifest.v1",
+  "releaseId": "world-version-babe0761-796e-4d0e-9e71-1139fd2731a8",
+  "cosSource": "cos://openriamap-cairn-data-1433163128/",
+  "controlCommit": "90f8771f40432f0c6c2333a3f23e2a3b59b2d1e4",
+  "mirroredAt": "2026-10-30T12:00:22.618Z",
+  "files": [
+    {
+      "path": "Current/_release-set.json",
+      "sha256": "0ce138d57a50dc9815b69222376bd3f320af955131c5e8c72a7f6f04e24649c5"
+    },
+    {
+      "path": "Current/naraku.json",
+      "sha256": "ac43f2a04f9086b47f48478670dd27e04cb751a165dc49ac0e442a7ca3c53185"
+    }
+  ]
+}

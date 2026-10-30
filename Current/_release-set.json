@@ -13,7 +13,7 @@
   "projectId": "openriamap-ria",
   "publicationId": "review-dd73e5ffed14ae5a763b",
   "publicationVersion": 24,
-  "indexRevision": 2,
+  "indexRevision": 3,
   "worldBindings": [
     {
       "worldId": "eden",
@@ -43,13 +43,13 @@
       "worldId": "naraku",
       "authorityGroupId": "openriamap-ria-formal",
       "dataReleaseId": "review-dd73e5ffed14ae5a763b",
-      "worldVersion": 24,
-      "bindingRevision": 1,
+      "worldVersion": 1,
+      "bindingRevision": 2,
       "worldManifestKey": "releases/review-dd73e5ffed14ae5a763b/manifests/worlds/naraku.json",
       "worldManifestSha256": "4df90e753d345f602ba2a3ccd328a55fad96ccc4200cc8b78f59219294f4645a",
       "contentSha256": "894a39cd49c9bdffa782bbaadb1e8aecdd737fbb74c2122f5e94b404f750aa0a",
-      "operationId": "world-version-9a25ae4f-f7cf-4f37-a6fd-ab0a98b32437",
-      "updatedAt": "2026-10-30T11:25:23.598Z"
+      "operationId": "world-version-babe0761-796e-4d0e-9e71-1139fd2731a8",
+      "updatedAt": "2026-10-30T12:00:00.882Z"
     },
     {
       "worldId": "zth",
