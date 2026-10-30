@@ -1,1 +1,19 @@
-{"schemaVersion":"openriamap.current-world.v2","worldId":"naraku","releaseId":"review-dd73e5ffed14ae5a763b","formalVersion":24,"worldManifestKey":"releases/review-dd73e5ffed14ae5a763b/manifests/worlds/naraku.json","worldManifestSha256":"4df90e753d345f602ba2a3ccd328a55fad96ccc4200cc8b78f59219294f4645a","dataRoot":"releases/review-dd73e5ffed14ae5a763b/data-merge/naraku/","mediaIndexRoot":"releases/review-dd73e5ffed14ae5a763b/media-index-merge/naraku/","controlCommit":"901bf4a3ea5ad3094df2b01b716ac804c2937268","publishedAt":"2026-10-29T17:44:43.102Z"}
+{
+  "schemaVersion": "openriamap.current-world.v3",
+  "worldId": "naraku",
+  "authorityGroupId": "openriamap-ria-formal",
+  "dataReleaseId": "review-dd73e5ffed14ae5a763b",
+  "worldVersion": 24,
+  "bindingRevision": 1,
+  "worldManifestKey": "releases/review-dd73e5ffed14ae5a763b/manifests/worlds/naraku.json",
+  "worldManifestSha256": "4df90e753d345f602ba2a3ccd328a55fad96ccc4200cc8b78f59219294f4645a",
+  "contentSha256": "894a39cd49c9bdffa782bbaadb1e8aecdd737fbb74c2122f5e94b404f750aa0a",
+  "operationId": "world-version-9a25ae4f-f7cf-4f37-a6fd-ab0a98b32437",
+  "updatedAt": "2026-10-30T11:25:23.598Z",
+  "releaseId": "review-dd73e5ffed14ae5a763b",
+  "formalVersion": 24,
+  "publicationId": "review-dd73e5ffed14ae5a763b",
+  "publicationVersion": 24,
+  "dataRoot": "releases/review-dd73e5ffed14ae5a763b/data-merge/naraku/",
+  "mediaIndexRoot": "releases/review-dd73e5ffed14ae5a763b/media-index-merge/naraku/"
+}

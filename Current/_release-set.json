@@ -1,1 +1,67 @@
-{"schemaVersion":"openriamap.current-release-set.v2","releaseId":"review-dd73e5ffed14ae5a763b","formalVersion":24,"controlCommit":"901bf4a3ea5ad3094df2b01b716ac804c2937268","publishedAt":"2026-10-29T17:44:43.102Z","worlds":["eden","houtu","naraku","zth"]}
+{
+  "schemaVersion": "openriamap.current-release-set.v3",
+  "releaseId": "review-dd73e5ffed14ae5a763b",
+  "formalVersion": 24,
+  "controlCommit": "901bf4a3ea5ad3094df2b01b716ac804c2937268",
+  "publishedAt": "2026-10-29T17:44:43.102Z",
+  "worlds": [
+    "eden",
+    "houtu",
+    "naraku",
+    "zth"
+  ],
+  "projectId": "openriamap-ria",
+  "publicationId": "review-dd73e5ffed14ae5a763b",
+  "publicationVersion": 24,
+  "indexRevision": 1,
+  "worldBindings": [
+    {
+      "worldId": "eden",
+      "authorityGroupId": "openriamap-ria-formal",
+      "dataReleaseId": "review-dd73e5ffed14ae5a763b",
+      "worldVersion": 24,
+      "bindingRevision": 1,
+      "worldManifestKey": "releases/review-dd73e5ffed14ae5a763b/manifests/worlds/eden.json",
+      "worldManifestSha256": "6d7185328b8fa4ebb4ee18ca91edb6254d4adff38536e1560e1da9a72dfea28e",
+      "contentSha256": "664d5d9fa78a31cc613e7f9dbce7ef2f916ee69c7d6b5cc0bc8688ab9d237fad",
+      "operationId": "world-version-9a25ae4f-f7cf-4f37-a6fd-ab0a98b32437",
+      "updatedAt": "2026-10-30T11:25:23.598Z"
+    },
+    {
+      "worldId": "houtu",
+      "authorityGroupId": "openriamap-ria-formal",
+      "dataReleaseId": "review-dd73e5ffed14ae5a763b",
+      "worldVersion": 24,
+      "bindingRevision": 1,
+      "worldManifestKey": "releases/review-dd73e5ffed14ae5a763b/manifests/worlds/houtu.json",
+      "worldManifestSha256": "086ba1edf582722428b3d1fee529d55ad97c9d3c675cafc981e954771523bb13",
+      "contentSha256": "9c8ab5db5bf78fe73693700a30ccff7a38180d9324777b4d491b276f70987236",
+      "operationId": "world-version-9a25ae4f-f7cf-4f37-a6fd-ab0a98b32437",
+      "updatedAt": "2026-10-30T11:25:23.598Z"
+    },
+    {
+      "worldId": "naraku",
+      "authorityGroupId": "openriamap-ria-formal",
+      "dataReleaseId": "review-dd73e5ffed14ae5a763b",
+      "worldVersion": 24,
+      "bindingRevision": 1,
+      "worldManifestKey": "releases/review-dd73e5ffed14ae5a763b/manifests/worlds/naraku.json",
+      "worldManifestSha256": "4df90e753d345f602ba2a3ccd328a55fad96ccc4200cc8b78f59219294f4645a",
+      "contentSha256": "894a39cd49c9bdffa782bbaadb1e8aecdd737fbb74c2122f5e94b404f750aa0a",
+      "operationId": "world-version-9a25ae4f-f7cf-4f37-a6fd-ab0a98b32437",
+      "updatedAt": "2026-10-30T11:25:23.598Z"
+    },
+    {
+      "worldId": "zth",
+      "authorityGroupId": "openriamap-ria-formal",
+      "dataReleaseId": "review-dd73e5ffed14ae5a763b",
+      "worldVersion": 24,
+      "bindingRevision": 1,
+      "worldManifestKey": "releases/review-dd73e5ffed14ae5a763b/manifests/worlds/zth.json",
+      "worldManifestSha256": "2a21203c1fe083d00401ab378666a0c570ad2f6f4c5ebfc831c5ee2decbbc6ae",
+      "contentSha256": "b4a1619ac4bbac0d6887797a6a72139dfe468338b75444ee44ed2a175ab8d921",
+      "operationId": "world-version-9a25ae4f-f7cf-4f37-a6fd-ab0a98b32437",
+      "updatedAt": "2026-10-30T11:25:23.598Z"
+    }
+  ]
+}
