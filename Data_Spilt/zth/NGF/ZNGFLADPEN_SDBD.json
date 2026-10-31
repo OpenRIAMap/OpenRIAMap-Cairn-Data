@@ -6,7 +6,7 @@
   },
   "extensions": {
     "character": {
-      "brief": "位于天溯山东侧的，溯东湾西岸的半岛"
+      "brief": "位于天溯山东侧的，溯东湾西岸的半岛."
     }
   },
   "Type": "Polygon",
@@ -477,5 +477,7 @@
   "Class": "NGF",
   "Kind": "LIS",
   "SKind": "LAG",
-  "SKind2": "PEN"
+  "SKind2": "PEN",
+  "ModifityBy": "639",
+  "ModifityTime": "20261031"
 }

@@ -1,5 +1,5 @@
 {
-  "ID": "ZNGFLADISD_ZQD",
+  "ID": "ZNGFLADSID_ZQD",
   "Name": "站沁岛",
   "tags": {
     "nomenclator": "639"
@@ -13,6 +13,11 @@
   "World": 0,
   "CreateTime": "20260814",
   "CreateBy": "639",
+  "Class": "NGF",
+  "Kind": "LAD",
+  "SKind": "SID",
+  "ModifityBy": "639",
+  "ModifityTime": "20261030",
   "CoordG": [
     [
       [
@@ -238,8 +243,5 @@
         ]
       ]
     ]
-  ],
-  "Class": "NGF",
-  "Kind": "LAD",
-  "SKind": "ISD"
+  ]
 }

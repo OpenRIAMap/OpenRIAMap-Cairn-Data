@@ -1,9 +1,9 @@
 {
   "schemaVersion": "openriamap.current-release-set.v3",
-  "releaseId": "review-dd73e5ffed14ae5a763b",
-  "formalVersion": 24,
-  "controlCommit": "901bf4a3ea5ad3094df2b01b716ac804c2937268",
-  "publishedAt": "2026-10-29T17:44:43.102Z",
+  "releaseId": "review-a4c6ace8204f12aa9007",
+  "formalVersion": 25,
+  "controlCommit": "975046aec485f6b893b2400948559980d1d7b8a8",
+  "publishedAt": "2026-10-31T04:10:24.890Z",
   "worlds": [
     "eden",
     "houtu",
@@ -11,9 +11,9 @@
     "zth"
   ],
   "projectId": "openriamap-ria",
-  "publicationId": "review-dd73e5ffed14ae5a763b",
-  "publicationVersion": 24,
-  "indexRevision": 4,
+  "publicationId": "review-a4c6ace8204f12aa9007",
+  "publicationVersion": 25,
+  "indexRevision": 5,
   "worldBindings": [
     {
       "worldId": "eden",
@@ -54,14 +54,14 @@
     {
       "worldId": "zth",
       "authorityGroupId": "openriamap-ria-formal",
-      "dataReleaseId": "review-dd73e5ffed14ae5a763b",
-      "worldVersion": 24,
-      "bindingRevision": 1,
-      "worldManifestKey": "releases/review-dd73e5ffed14ae5a763b/manifests/worlds/zth.json",
-      "worldManifestSha256": "2a21203c1fe083d00401ab378666a0c570ad2f6f4c5ebfc831c5ee2decbbc6ae",
-      "contentSha256": "b4a1619ac4bbac0d6887797a6a72139dfe468338b75444ee44ed2a175ab8d921",
-      "operationId": "world-version-9a25ae4f-f7cf-4f37-a6fd-ab0a98b32437",
-      "updatedAt": "2026-10-30T11:25:23.598Z"
+      "worldVersion": 25,
+      "bindingRevision": 2,
+      "dataReleaseId": "review-a4c6ace8204f12aa9007",
+      "worldManifestKey": "releases/review-a4c6ace8204f12aa9007/manifests/worlds/zth.json",
+      "worldManifestSha256": "534a871e23390596eefeee69054419d0fd21125b4255330d386ae26f4dc45195",
+      "contentSha256": "d8182ca034c75c1acb461b6580f3aa3b5b133e710f75a92c968358b8b79ce0a4",
+      "operationId": "review-a4c6ace8204f12aa9007",
+      "updatedAt": "2026-10-31T04:10:24.890Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "ID": "ZNGFLADISD_HBD",
+  "ID": "ZNGFLADSID_HBD",
   "Name": "海豹岛",
   "extensions": {
     "character": {
@@ -10,6 +10,11 @@
   "World": 0,
   "CreateTime": "20260814",
   "CreateBy": "639",
+  "Class": "NGF",
+  "Kind": "LAD",
+  "SKind": "SID",
+  "ModifityBy": "639",
+  "ModifityTime": "20261030",
   "CoordG": [
     [
       [
@@ -190,8 +195,5 @@
         ]
       ]
     ]
-  ],
-  "Class": "NGF",
-  "Kind": "LAD",
-  "SKind": "ISD"
+  ]
 }
