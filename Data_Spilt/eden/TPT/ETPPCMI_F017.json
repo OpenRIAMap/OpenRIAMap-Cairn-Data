@@ -1,0 +1,28 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "CMI",
+  "ID": "ETPPCMI_F017",
+  "Name": "诺德施泰因",
+  "hub": "",
+  "TGTWarp": "诺德施泰因",
+  "Mode": "Enter",
+  "elevation": 80,
+  "TGTcoordinate": {
+    "x": 321.2,
+    "y": 72,
+    "z": -1279.46
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -788,
+      80,
+      -880
+    ]
+  ]
+}

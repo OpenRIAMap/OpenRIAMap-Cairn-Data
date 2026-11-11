@@ -1,0 +1,28 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "CMI",
+  "ID": "ETPPCMI_F011",
+  "Name": "未完成的天文钟",
+  "hub": "",
+  "TGTWarp": "未完成的天文钟",
+  "Mode": "Enter",
+  "elevation": 80,
+  "TGTcoordinate": {
+    "x": -1240.21,
+    "y": 64,
+    "z": 294.5
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -793,
+      80,
+      -856
+    ]
+  ]
+}

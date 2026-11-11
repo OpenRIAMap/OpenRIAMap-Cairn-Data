@@ -1,0 +1,28 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "SBP",
+  "ID": "HTPPSBP_ES-01",
+  "Name": "陇辰·玉鸾港",
+  "hub": "",
+  "TGTWarp": "lcylg陇辰玉鸾港",
+  "Mode": "interact",
+  "elevation": 65,
+  "TGTcoordinate": {
+    "x": 181.129,
+    "y": 76.625,
+    "z": 4297.802
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      2029,
+      65,
+      3037
+    ]
+  ]
+}

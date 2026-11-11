@@ -1,0 +1,28 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "SBP",
+  "ID": "HTPPSBP_ES-02",
+  "Name": "鱼克工业",
+  "hub": "",
+  "TGTWarp": "YuKeGongYe",
+  "Mode": "interact",
+  "elevation": 65,
+  "TGTcoordinate": {
+    "x": 4135.538,
+    "y": -58,
+    "z": 4519.483
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      2029,
+      65,
+      3029
+    ]
+  ]
+}

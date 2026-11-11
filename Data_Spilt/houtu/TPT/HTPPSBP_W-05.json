@@ -1,0 +1,28 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "SBP",
+  "ID": "HTPPSBP_W-05",
+  "Name": "博丽神社",
+  "hub": "",
+  "TGTWarp": "BoLiShenShe",
+  "Mode": "interact",
+  "elevation": 107,
+  "TGTcoordinate": {
+    "x": -3970.516,
+    "y": 71,
+    "z": 984.496
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -3790,
+      107,
+      -380
+    ]
+  ]
+}

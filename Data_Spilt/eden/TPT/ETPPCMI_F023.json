@@ -1,0 +1,28 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "CMI",
+  "ID": "ETPPCMI_F023",
+  "Name": "雪町",
+  "hub": "",
+  "TGTWarp": "雪町",
+  "Mode": "Enter",
+  "elevation": 82,
+  "TGTcoordinate": {
+    "x": 2725.87,
+    "y": 80,
+    "z": 1869.45
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -764,
+      82,
+      -899
+    ]
+  ]
+}

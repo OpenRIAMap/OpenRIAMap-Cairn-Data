@@ -1,0 +1,28 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "CMI",
+  "ID": "ETPPCMI_F025",
+  "Name": "萨法瑞安",
+  "hub": "",
+  "TGTWarp": "萨法瑞安",
+  "Mode": "Enter",
+  "elevation": 82,
+  "TGTcoordinate": {
+    "x": 3602.61,
+    "y": 96,
+    "z": 198.63
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -756,
+      82,
+      -899
+    ]
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "SBP",
+  "ID": "HTPPSBP_bdldqyz",
+  "Name": "北大陆地区驿站",
+  "hub": "",
+  "TGTWarp": "yz北大陆驿站",
+  "Mode": "interact",
+  "elevation": 78,
+  "TGTcoordinate": {
+    "x": -1517.529,
+    "y": 70,
+    "z": -3681.61
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -1766,
+      78,
+      -4143
+    ]
+  ]
+}

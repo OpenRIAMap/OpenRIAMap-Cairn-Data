@@ -1,0 +1,28 @@
+{
+  "World": "naraku",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "SBP",
+  "ID": "NTPPSBP_dbcsd-1",
+  "Name": "东北传送点-1",
+  "hub": "",
+  "TGTWarp": "nn2dongbei",
+  "Mode": "walk",
+  "elevation": 83,
+  "TGTcoordinate": {
+    "x": 3825.627,
+    "y": 73,
+    "z": -3013.536
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      1482,
+      83,
+      -5184
+    ]
+  ]
+}

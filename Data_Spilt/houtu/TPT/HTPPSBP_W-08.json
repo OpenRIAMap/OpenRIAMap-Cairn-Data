@@ -1,0 +1,28 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "SBP",
+  "ID": "HTPPSBP_W-08",
+  "Name": "魔女裁判所",
+  "hub": "",
+  "TGTWarp": "mncps魔女裁判所",
+  "Mode": "interact",
+  "elevation": 106,
+  "TGTcoordinate": {
+    "x": -7195.489,
+    "y": 57.261,
+    "z": 462.567
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -3813,
+      106,
+      -384
+    ]
+  ]
+}

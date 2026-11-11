@@ -1,0 +1,28 @@
+{
+  "World": "naraku",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "SBP",
+  "ID": "NTPPSBP_nxcsd-2",
+  "Name": "南西传送点-2",
+  "hub": "",
+  "TGTWarp": "nn2nanxi",
+  "Mode": "walk",
+  "elevation": 71,
+  "TGTcoordinate": {
+    "x": -1050.59,
+    "y": 70,
+    "z": 4717.395
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      1583,
+      71,
+      2086
+    ]
+  ]
+}

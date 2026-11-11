@@ -1,0 +1,28 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "SBP",
+  "ID": "HTPPSBP_xdldqyz-3",
+  "Name": "西大陆地区驿站-3",
+  "hub": "",
+  "TGTWarp": "xdl西大陆",
+  "Mode": "interact",
+  "elevation": 68,
+  "TGTcoordinate": {
+    "x": -3753.421,
+    "y": 119.006,
+    "z": -509.429
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -6797,
+      68,
+      -4762
+    ]
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "SBP",
+  "ID": "HTPPSBP_W-07",
+  "Name": "阿斯拜尔",
+  "hub": "",
+  "TGTWarp": "asbe阿斯拜尔",
+  "Mode": "interact",
+  "elevation": 108,
+  "TGTcoordinate": {
+    "x": -3556.5,
+    "y": 70.5,
+    "z": -1818.5
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -3822,
+      108,
+      -384
+    ]
+  ]
+}

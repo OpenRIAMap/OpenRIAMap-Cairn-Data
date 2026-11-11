@@ -1,0 +1,28 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "CMI",
+  "ID": "ETPPCMI_F018",
+  "Name": "时际工业区",
+  "hub": "",
+  "TGTWarp": "时际工业区",
+  "Mode": "Enter",
+  "elevation": 81,
+  "TGTcoordinate": {
+    "x": -2110.66,
+    "y": 70,
+    "z": -1263.46
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -786,
+      81,
+      -885
+    ]
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "CMI",
+  "ID": "ETPPCMI_F022",
+  "Name": "蝶湾",
+  "hub": "",
+  "TGTWarp": "蝶湾",
+  "Mode": "Enter",
+  "elevation": 82,
+  "TGTcoordinate": {
+    "x": 2858.48,
+    "y": 80.63,
+    "z": -222.5
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -768,
+      82,
+      -898
+    ]
+  ]
+}

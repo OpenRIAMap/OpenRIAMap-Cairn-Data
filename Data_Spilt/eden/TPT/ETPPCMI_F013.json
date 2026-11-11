@@ -1,0 +1,28 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "CMI",
+  "ID": "ETPPCMI_F013",
+  "Name": "石英地",
+  "hub": "",
+  "TGTWarp": "石英地",
+  "Mode": "Enter",
+  "elevation": 80,
+  "TGTcoordinate": {
+    "x": -2268.82,
+    "y": -58.5,
+    "z": 2437.4
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -791,
+      80,
+      -864
+    ]
+  ]
+}

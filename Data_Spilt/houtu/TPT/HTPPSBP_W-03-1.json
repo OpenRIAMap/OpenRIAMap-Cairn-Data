@@ -1,0 +1,28 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "SBP",
+  "ID": "HTPPSBP_W-03-1",
+  "Name": "迷途竹林-1",
+  "hub": "",
+  "TGTWarp": "m迷途竹林l",
+  "Mode": "interact",
+  "elevation": 119,
+  "TGTcoordinate": {
+    "x": -4577.444,
+    "y": 64,
+    "z": -2618.477
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -3824,
+      119,
+      -425
+    ]
+  ]
+}

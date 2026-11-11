@@ -1,0 +1,28 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "SBP",
+  "ID": "HTPPSBP_WS-03",
+  "Name": "洛山基地",
+  "hub": "",
+  "TGTWarp": "LA洛山基地",
+  "Mode": "interact",
+  "elevation": 114,
+  "TGTcoordinate": {
+    "x": -4903.421,
+    "y": 68,
+    "z": 6352.457
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -3153,
+      114,
+      4649
+    ]
+  ]
+}

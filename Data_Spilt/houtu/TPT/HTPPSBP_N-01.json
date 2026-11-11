@@ -1,0 +1,28 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "SBP",
+  "ID": "HTPPSBP_N-01",
+  "Name": "海峭",
+  "hub": "",
+  "TGTWarp": "h海峭q",
+  "Mode": "interact",
+  "elevation": 75,
+  "TGTcoordinate": {
+    "x": -1756.543,
+    "y": 73.938,
+    "z": -4141.578
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -1518,
+      75,
+      -3697
+    ]
+  ]
+}

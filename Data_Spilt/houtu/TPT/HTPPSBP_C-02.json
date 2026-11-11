@@ -1,0 +1,28 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "SBP",
+  "ID": "HTPPSBP_C-02",
+  "Name": "咩咩村",
+  "hub": "",
+  "TGTWarp": "mmc咩咩村",
+  "Mode": "interact",
+  "elevation": 88,
+  "TGTcoordinate": {
+    "x": -515.519,
+    "y": 68.675,
+    "z": 123.387
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      1211,
+      88,
+      -854
+    ]
+  ]
+}

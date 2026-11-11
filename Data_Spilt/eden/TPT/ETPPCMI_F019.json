@@ -1,0 +1,28 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "CMI",
+  "ID": "ETPPCMI_F019",
+  "Name": "梟型安全屋",
+  "hub": "",
+  "TGTWarp": "梟型安全屋",
+  "Mode": "Enter",
+  "elevation": 81,
+  "TGTcoordinate": {
+    "x": -1258.55,
+    "y": 64.01,
+    "z": -847.57
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -785,
+      81,
+      -889
+    ]
+  ]
+}

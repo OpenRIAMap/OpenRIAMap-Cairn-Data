@@ -1,0 +1,28 @@
+{
+  "World": "naraku",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "SBP",
+  "ID": "NTPPSBP_zxcsd-1",
+  "Name": "正西传送点-1",
+  "hub": "",
+  "TGTWarp": "nn-zx",
+  "Mode": "walk",
+  "elevation": 79,
+  "TGTcoordinate": {
+    "x": -1714.548,
+    "y": 72,
+    "z": -276.541
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      661,
+      79,
+      -1396
+    ]
+  ]
+}

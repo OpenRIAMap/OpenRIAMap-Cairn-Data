@@ -1,0 +1,28 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "CMI",
+  "ID": "ETPPCMI_F016",
+  "Name": "茉莉",
+  "hub": "",
+  "TGTWarp": "茉莉",
+  "Mode": "Enter",
+  "elevation": 80,
+  "TGTcoordinate": {
+    "x": 867.53,
+    "y": 64,
+    "z": 1373.5
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -789,
+      80,
+      -876
+    ]
+  ]
+}

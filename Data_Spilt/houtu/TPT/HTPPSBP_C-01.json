@@ -1,0 +1,28 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "SBP",
+  "ID": "HTPPSBP_C-01",
+  "Name": "冷冽谷的伊鲁席尔",
+  "hub": "",
+  "TGTWarp": "冷冽谷的伊鲁席尔",
+  "Mode": "interact",
+  "elevation": 90,
+  "TGTcoordinate": {
+    "x": 1373.439,
+    "y": 103.631,
+    "z": -612.28
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      1199,
+      90,
+      -864
+    ]
+  ]
+}

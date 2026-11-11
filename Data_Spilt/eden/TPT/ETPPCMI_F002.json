@@ -1,0 +1,28 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "CMI",
+  "ID": "ETPPCMI_F002",
+  "Name": "卡卡利科村",
+  "hub": "",
+  "TGTWarp": "卡卡利科村",
+  "Mode": "Enter",
+  "elevation": 80,
+  "TGTcoordinate": {
+    "x": 1912.73,
+    "y": 67,
+    "z": -1952.41
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -797,
+      80,
+      -820
+    ]
+  ]
+}

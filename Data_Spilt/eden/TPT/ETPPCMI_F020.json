@@ -1,0 +1,28 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "CMI",
+  "ID": "ETPPCMI_F020",
+  "Name": "枝江·翰建町",
+  "hub": "",
+  "TGTWarp": "枝江·翰建町",
+  "Mode": "Enter",
+  "elevation": 81,
+  "TGTcoordinate": {
+    "x": 787.51,
+    "y": 73,
+    "z": 3335.42
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -784,
+      81,
+      -893
+    ]
+  ]
+}

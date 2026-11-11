@@ -1,0 +1,28 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "SBP",
+  "ID": "HTPPSBP_ES-04-2",
+  "Name": "渊深奇洞-2",
+  "hub": "",
+  "TGTWarp": "ysqd渊深奇洞",
+  "Mode": "interact",
+  "elevation": 67,
+  "TGTcoordinate": {
+    "x": 5956.519,
+    "y": -10.642,
+    "z": 6002.501
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      2018,
+      67,
+      3033
+    ]
+  ]
+}

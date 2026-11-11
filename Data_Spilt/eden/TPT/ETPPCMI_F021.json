@@ -1,0 +1,28 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "CMI",
+  "ID": "ETPPCMI_F021",
+  "Name": "晚秋",
+  "hub": "",
+  "TGTWarp": "晚秋",
+  "Mode": "Enter",
+  "elevation": 82,
+  "TGTcoordinate": {
+    "x": 3766.48,
+    "y": 78.66,
+    "z": 1884.49
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -772,
+      82,
+      -898
+    ]
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "SBP",
+  "ID": "HTPPSBP_E-02",
+  "Name": "滨海白杉屿",
+  "hub": "",
+  "TGTWarp": "bhb滨海白杉屿",
+  "Mode": "interact",
+  "elevation": 66,
+  "TGTcoordinate": {
+    "x": 5881.495,
+    "y": 72.5,
+    "z": -3346.48
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      4167,
+      66,
+      -3137
+    ]
+  ]
+}

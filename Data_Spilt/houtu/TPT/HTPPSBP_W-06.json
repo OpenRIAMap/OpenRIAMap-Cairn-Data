@@ -1,0 +1,28 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "SBP",
+  "ID": "HTPPSBP_W-06",
+  "Name": "溯月·冰湖",
+  "hub": "",
+  "TGTWarp": "sybh溯月冰湖",
+  "Mode": "interact",
+  "elevation": 114,
+  "TGTcoordinate": {
+    "x": -3456.526,
+    "y": 116,
+    "z": -1249.532
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -3827,
+      114,
+      -400
+    ]
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "SBP",
+  "ID": "HTPPSBP_ES-03",
+  "Name": "陇辰·浣熊堡",
+  "hub": "",
+  "TGTWarp": "hxb",
+  "Mode": "interact",
+  "elevation": 66,
+  "TGTcoordinate": {
+    "x": 246.379,
+    "y": 73,
+    "z": 3978.538
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      2023,
+      66,
+      3035
+    ]
+  ]
+}

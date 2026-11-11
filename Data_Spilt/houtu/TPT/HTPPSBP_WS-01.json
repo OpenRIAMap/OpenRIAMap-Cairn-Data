@@ -1,0 +1,28 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "SBP",
+  "ID": "HTPPSBP_WS-01",
+  "Name": "后土交通局一号展示场",
+  "hub": "",
+  "TGTWarp": "j交通局1号展场c",
+  "Mode": "interact",
+  "elevation": 114,
+  "TGTcoordinate": {
+    "x": -2398.749,
+    "y": 74.419,
+    "z": 4138.518
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -3153,
+      114,
+      4637
+    ]
+  ]
+}

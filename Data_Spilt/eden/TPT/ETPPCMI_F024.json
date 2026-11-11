@@ -1,0 +1,28 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "CMI",
+  "ID": "ETPPCMI_F024",
+  "Name": "蒂特兰",
+  "hub": "",
+  "TGTWarp": "蒂特兰",
+  "Mode": "Enter",
+  "elevation": 82,
+  "TGTcoordinate": {
+    "x": -3172.21,
+    "y": 64.26,
+    "z": 2994.61
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -760,
+      82,
+      -899
+    ]
+  ]
+}

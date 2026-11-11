@@ -1,0 +1,28 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "SBP",
+  "ID": "HTPPSBP_W-04",
+  "Name": "輝針城",
+  "hub": "",
+  "TGTWarp": "hzc輝針城",
+  "Mode": "interact",
+  "elevation": 116,
+  "TGTcoordinate": {
+    "x": -4339.268,
+    "y": 137,
+    "z": -2998.515
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -3822,
+      116,
+      -410
+    ]
+  ]
+}

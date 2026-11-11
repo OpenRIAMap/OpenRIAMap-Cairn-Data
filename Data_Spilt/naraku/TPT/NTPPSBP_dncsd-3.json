@@ -1,0 +1,28 @@
+{
+  "World": "naraku",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "SBP",
+  "ID": "NTPPSBP_dncsd-3",
+  "Name": "东南传送点-3",
+  "hub": "",
+  "TGTWarp": "nn2dongnan",
+  "Mode": "walk",
+  "elevation": 87,
+  "TGTcoordinate": {
+    "x": 5781.739,
+    "y": 72,
+    "z": 1630.503
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      3846,
+      87,
+      -76
+    ]
+  ]
+}

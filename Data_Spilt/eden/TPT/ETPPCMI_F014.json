@@ -1,0 +1,28 @@
+{
+  "World": "eden",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "CMI",
+  "ID": "ETPPCMI_F014",
+  "Name": "联合工业",
+  "hub": "",
+  "TGTWarp": "联合工业",
+  "Mode": "Enter",
+  "elevation": 80,
+  "TGTcoordinate": {
+    "x": -341.46,
+    "y": 78.3,
+    "z": -3867.48
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -790,
+      80,
+      -868
+    ]
+  ]
+}

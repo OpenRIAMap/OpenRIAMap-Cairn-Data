@@ -1,0 +1,28 @@
+{
+  "World": "naraku",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "SBP",
+  "ID": "NTPPSBP_bdcsd-1",
+  "Name": "北东传送点-1",
+  "hub": "",
+  "TGTWarp": "nn2beidong",
+  "Mode": "walk",
+  "elevation": 67,
+  "TGTcoordinate": {
+    "x": 1468.446,
+    "y": 84,
+    "z": -5171.602
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      -2721,
+      67,
+      -4175
+    ]
+  ]
+}

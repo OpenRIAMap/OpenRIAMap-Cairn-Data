@@ -1,0 +1,28 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "SBP",
+  "ID": "HTPPSBP_C-04",
+  "Name": "极光驿站",
+  "hub": "",
+  "TGTWarp": "jgyz极光驿站",
+  "Mode": "interact",
+  "elevation": 90,
+  "TGTcoordinate": {
+    "x": 1496.406,
+    "y": 71,
+    "z": -530.64
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      1227,
+      90,
+      -864
+    ]
+  ]
+}

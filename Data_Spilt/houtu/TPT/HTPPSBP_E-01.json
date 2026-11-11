@@ -1,0 +1,28 @@
+{
+  "World": "houtu",
+  "Class": "TPT",
+  "Kind": "TPP",
+  "SKind": "SBP",
+  "ID": "HTPPSBP_E-01",
+  "Name": "星烨湾",
+  "hub": "",
+  "TGTWarp": "xyw星烨湾",
+  "Mode": "interact",
+  "elevation": 66,
+  "TGTcoordinate": {
+    "x": 831.54,
+    "y": 95.881,
+    "z": -3901.293
+  },
+  "Situation": true,
+  "CreateBy": "audit-run",
+  "CreateTime": "20261111",
+  "Type": "Points",
+  "CoordP": [
+    [
+      4158,
+      66,
+      -3144
+    ]
+  ]
+}
