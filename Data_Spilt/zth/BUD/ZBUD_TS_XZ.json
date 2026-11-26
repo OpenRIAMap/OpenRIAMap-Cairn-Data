@@ -1,9 +1,6 @@
 {
   "ID": "ZBUD_TS_XZ",
   "Name": "幸宅",
-  "Situation": "",
-  "elevation": "",
-  "height": "",
   "tags": {
     "nomenclator": "639"
   },
@@ -11,7 +8,7 @@
   "World": 0,
   "CreateTime": "20260913",
   "CreateBy": "639",
-  "ModifityTime": "20260914",
+  "ModifityTime": "20261126",
   "CoordG": [
     [
       [
@@ -39,5 +36,7 @@
     ]
   ],
   "Class": "BUD",
-  "Kind": "NOM"
+  "Kind": "NOM",
+  "SKind": "RES",
+  "ModifityBy": "Ozstk639"
 }

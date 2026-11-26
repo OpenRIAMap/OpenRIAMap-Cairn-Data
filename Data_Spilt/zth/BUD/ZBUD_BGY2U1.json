@@ -1,43 +1,42 @@
 {
-  "ID": "ZFLR_BGY2U3",
-  "Name": "3幢",
+  "ID": "ZBUD_BGY2U1",
+  "Name": "1幢",
   "NofFloor": "1",
   "BuildingID": "ZBUD_BGY2",
-  "Situation": "",
-  "elevation": "",
-  "height": "",
   "Type": "Polygon",
   "World": 0,
   "CreateTime": "20260914",
   "CreateBy": "Aut_moon_white",
   "ModifityTime": "20260914",
   "ModifityBy": "Aut_moon_white",
+  "Class": "BUD",
+  "Kind": "SUB",
+  "Skind": "BUM",
+  "Skind2": "RES",
   "CoordG": [
     [
       [
         [
-          8784,
+          8827,
           -64,
-          8825
+          8720
         ],
         [
-          8784,
+          8827,
           -64,
-          8864
+          8759
         ],
         [
-          8805,
+          8848,
           -64,
-          8864
+          8759
         ],
         [
-          8805,
+          8848,
           -64,
-          8825
+          8720
         ]
       ]
     ]
-  ],
-  "Class": "FLR",
-  "Kind": "NOM"
+  ]
 }

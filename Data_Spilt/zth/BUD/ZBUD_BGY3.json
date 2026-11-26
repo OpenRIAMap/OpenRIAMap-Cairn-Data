@@ -52,5 +52,11 @@
     ]
   ],
   "Class": "BUD",
-  "Kind": "NOM"
+  "Kind": "LAR",
+  "SKind": "RES",
+  "Builder": "Aut_moon_white",
+  "Status": true,
+  "Situation": true,
+  "ModifityBy": "Ozstk639",
+  "ModifityTime": "20261126"
 }

@@ -36,5 +36,8 @@
     ]
   ],
   "Class": "BUD",
-  "Kind": "NOM"
+  "Kind": "NOM",
+  "SKind": "RES",
+  "ModifityBy": "Ozstk639",
+  "ModifityTime": "20261126"
 }
