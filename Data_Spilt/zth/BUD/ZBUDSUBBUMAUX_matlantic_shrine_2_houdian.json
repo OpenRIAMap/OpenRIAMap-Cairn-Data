@@ -1,0 +1,41 @@
+{
+  "World": "zth",
+  "Class": "BUD",
+  "Kind": "SUB",
+  "SKind": "BUM",
+  "SKind2": "AUX",
+  "ID": "ZBUDSUBBUMAUX_matlantic_shrine_2_houdian",
+  "Name": "后殿",
+  "NofFloor": "1",
+  "BuildingID": "ZBUDLARCUL_matlantic_shrine_2",
+  "Builder": "Miksa12138",
+  "CreateBy": "Aunst",
+  "CreateTime": "20261126",
+  "Type": "Polygon",
+  "CoordG": [
+    [
+      [
+        [
+          -5391,
+          -64,
+          -8167
+        ],
+        [
+          -5352,
+          -64,
+          -8167
+        ],
+        [
+          -5352,
+          -64,
+          -8098
+        ],
+        [
+          -5391,
+          -64,
+          -8098
+        ]
+      ]
+    ]
+  ]
+}

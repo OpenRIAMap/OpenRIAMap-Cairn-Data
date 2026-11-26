@@ -7,7 +7,7 @@
   "World": 0,
   "CreateTime": "20260914",
   "CreateBy": "Aut_moon_white",
-  "ModifityTime": "20260914",
+  "ModifityTime": "20261127",
   "ModifityBy": "Aut_moon_white",
   "Class": "BUD",
   "Kind": "SUB",
@@ -38,5 +38,10 @@
         ]
       ]
     ]
-  ]
+  ],
+  "Address": "必贵园·海心楼",
+  "BuildingNo": "1",
+  "Builder": "必贵园房产集团",
+  "UnitCount": 12,
+  "FloorsAbove": 4
 }

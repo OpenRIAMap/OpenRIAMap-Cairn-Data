@@ -1,0 +1,97 @@
+{
+  "World": "zth",
+  "Class": "BUD",
+  "Kind": "LAR",
+  "SKind": "COM",
+  "ID": "ZBUDLARCOM_matlantic_laolinzi_market",
+  "Name": "老林子集市",
+  "tags": {
+    "nomenclator": "Aunst"
+  },
+  "Builder": "GHZCreeper; Potato_duang",
+  "Status": true,
+  "Operator": "抹岚工商部",
+  "Contact": "GHZCreeper",
+  "Public": true,
+  "CreateBy": "Aunst",
+  "CreateTime": "20261126",
+  "Type": "Polygon",
+  "CoordG": [
+    [
+      [
+        [
+          -5200,
+          -64,
+          -8237
+        ],
+        [
+          -5209,
+          -64,
+          -8220
+        ],
+        [
+          -5204,
+          -64,
+          -8201
+        ],
+        [
+          -5191,
+          -64,
+          -8181
+        ],
+        [
+          -5168,
+          -64,
+          -8167
+        ],
+        [
+          -5165,
+          -64,
+          -8160
+        ],
+        [
+          -5150,
+          -64,
+          -8160
+        ],
+        [
+          -5139,
+          -64,
+          -8174
+        ],
+        [
+          -5136,
+          -64,
+          -8190
+        ],
+        [
+          -5124,
+          -64,
+          -8207
+        ],
+        [
+          -5108,
+          -64,
+          -8211
+        ],
+        [
+          -5097,
+          -64,
+          -8225
+        ],
+        [
+          -5109,
+          -64,
+          -8241
+        ],
+        [
+          -5170,
+          -64,
+          -8245
+        ]
+      ]
+    ]
+  ],
+  "ModifityBy": "Aunst",
+  "ModifityTime": "20261126"
+}

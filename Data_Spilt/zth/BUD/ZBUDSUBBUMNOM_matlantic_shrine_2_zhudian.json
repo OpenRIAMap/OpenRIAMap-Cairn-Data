@@ -1,0 +1,44 @@
+{
+  "World": "zth",
+  "Class": "BUD",
+  "Kind": "SUB",
+  "SKind": "BUM",
+  "SKind2": "NOM",
+  "ID": "ZBUDSUBBUMNOM_matlantic_shrine_2_zhudian",
+  "Name": "主殿",
+  "tags": {
+    "nomenclator": "Miksa12138"
+  },
+  "NofFloor": "1",
+  "BuildingID": "ZBUDLARCUL_matlantic_shrine_2",
+  "Builder": "Miksa12138",
+  "CreateBy": "Aunst",
+  "CreateTime": "20261126",
+  "Type": "Polygon",
+  "CoordG": [
+    [
+      [
+        [
+          -5330,
+          -64,
+          -8170
+        ],
+        [
+          -5271,
+          -64,
+          -8170
+        ],
+        [
+          -5271,
+          -64,
+          -8095
+        ],
+        [
+          -5330,
+          -64,
+          -8095
+        ]
+      ]
+    ]
+  ]
+}

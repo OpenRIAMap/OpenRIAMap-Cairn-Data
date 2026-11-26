@@ -1,0 +1,43 @@
+{
+  "World": "zth",
+  "Class": "BUD",
+  "Kind": "SUB",
+  "SKind": "BUM",
+  "SKind2": "COM",
+  "ID": "ZBUDSUBBUMCOM_matlantic_laolinzi_market_a01",
+  "Name": "A01",
+  "NofFloor": "1",
+  "BuildingID": "ZBUDLARCOM_matlantic_laolinzi_market",
+  "Status": true,
+  "Operator": "抹岚工商部",
+  "Contact": "GHZCreeper",
+  "CreateBy": "Aunst",
+  "CreateTime": "20261126",
+  "Type": "Polygon",
+  "CoordG": [
+    [
+      [
+        [
+          -5163,
+          -64,
+          -8179
+        ],
+        [
+          -5150,
+          -64,
+          -8179
+        ],
+        [
+          -5150,
+          -64,
+          -8165
+        ],
+        [
+          -5163,
+          -64,
+          -8165
+        ]
+      ]
+    ]
+  ]
+}
