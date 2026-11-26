@@ -1,0 +1,88 @@
+{
+  "World": "zth",
+  "Class": "BUD",
+  "Kind": "SUB",
+  "SKind": "BUM",
+  "SKind2": "RES",
+  "ID": "ZBUDSUBBUMRES_BGY3U1",
+  "Name": "1幢",
+  "NofFloor": "1",
+  "BuildingID": "ZBUD_BGY3",
+  "Address": "必贵园·瞻春苑",
+  "BuildingNo": "1",
+  "Builder": "必贵园房产集团",
+  "UnitCount": 30,
+  "FloorsAbove": 16,
+  "FloorsBelow": 1,
+  "CreateBy": "Aut_moon_white",
+  "CreateTime": "20261127",
+  "Type": "Polygon",
+  "CoordG": [
+    [
+      [
+        [
+          8935,
+          -64,
+          8439
+        ],
+        [
+          8943,
+          -64,
+          8439
+        ],
+        [
+          8943,
+          -64,
+          8436
+        ],
+        [
+          8966,
+          -64,
+          8436
+        ],
+        [
+          8966,
+          -64,
+          8439
+        ],
+        [
+          8974,
+          -64,
+          8439
+        ],
+        [
+          8974,
+          -64,
+          8458
+        ],
+        [
+          8966,
+          -64,
+          8458
+        ],
+        [
+          8966,
+          -64,
+          8461
+        ],
+        [
+          8943,
+          -64,
+          8461
+        ],
+        [
+          8943,
+          -64,
+          8458
+        ],
+        [
+          8935,
+          -64,
+          8458
+        ]
+      ]
+    ]
+  ],
+  "ModifityBy": "Aut_moon_white",
+  "ModifityTime": "20261127"
+}
