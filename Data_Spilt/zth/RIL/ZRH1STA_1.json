@@ -1,0 +1,26 @@
+{
+  "ID": "ZRH1STA_1",
+  "Name": "海华港",
+  "STBuilding": "ZRHSTB_HHG",
+  "platforms": [
+    {
+      "ID": "ZRH1PLF_1_D"
+    },
+    {
+      "ID": "ZRH1PLF_1_U"
+    }
+  ],
+  "World": "zth",
+  "Class": "RIL",
+  "Kind": "STA",
+  "CreateBy": "Aut_moon_white",
+  "CreateTime": "20261128",
+  "Type": "Points",
+  "CoordP": [
+    [
+      9155.5,
+      -64,
+      8895.5
+    ]
+  ]
+}

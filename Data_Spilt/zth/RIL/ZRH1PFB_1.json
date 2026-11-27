@@ -2,14 +2,21 @@
   "ID": "ZRH1PFB_1",
   "Name": "海华港",
   "LineID": "ZRH1_A",
-  "Type": "Polygon",
-  "World": 0,
-  "CreateTime": "20260916",
+  "World": "zth",
+  "Class": "RIL",
+  "Kind": "PFB",
   "CreateBy": "Aut_moon_white",
+  "CreateTime": "20261128",
+  "Type": "Polygon",
   "CoordG": [
     [
       [
         [
+          9148,
+          -64,
+          8884
+        ],
+        [
           9163,
           -64,
           8884
@@ -23,15 +30,8 @@
           9148,
           -64,
           8907
-        ],
-        [
-          9148,
-          -64,
-          8884
         ]
       ]
     ]
-  ],
-  "Class": "RIL",
-  "Kind": "PFB"
+  ]
 }

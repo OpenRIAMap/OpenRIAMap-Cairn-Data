@@ -1,0 +1,30 @@
+{
+  "ID": "ZRH1PLF_1_D",
+  "Name": "海华港-西站台",
+  "Situation": true,
+  "Connect": true,
+  "lines": [
+    {
+      "ID": "ZRH1_A_D",
+      "stationCode": "1",
+      "Avaliable": true,
+      "Overtaking": false,
+      "getin": true,
+      "getout": true,
+      "NextOT": false
+    }
+  ],
+  "World": "zth",
+  "Class": "RIL",
+  "Kind": "PLF",
+  "CreateBy": "Aut_moon_white",
+  "CreateTime": "20261128",
+  "Type": "Points",
+  "CoordP": [
+    [
+      9153.5,
+      -64,
+      8895.5
+    ]
+  ]
+}
