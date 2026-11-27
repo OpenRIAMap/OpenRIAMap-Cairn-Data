@@ -1,33 +1,33 @@
 {
   "schemaVersion": "openriamap.data-release-mirror-manifest.v1",
-  "releaseId": "review-7fece8f5f755bfc75722",
+  "releaseId": "review-b00e16d493196f27e9fe",
   "cosSource": "cos://openriamap-cairn-data-1433163128/",
-  "controlCommit": "7815e5c7f59d0406049b9e3fa8c0c2e75c3e30f3",
-  "mirroredAt": "2026-11-27T06:24:31.672Z",
+  "controlCommit": "80b83f0d18cb2f506cb9ef97e1f5751e50bb0b01",
+  "mirroredAt": "2026-11-27T11:31:18.045Z",
   "files": [
     {
       "path": "Current/_release-set.json",
-      "sha256": "218e95cde59030c8d6989ff7e972b59bb9afe8b68db1a0400638c9d28458acd9"
+      "sha256": "9f2fac496e570926be3e715750aa8140b8539bd8a91a05d8e5551243f74a764a"
     },
     {
       "path": "Current/eden.json",
-      "sha256": "1b393e19574a4bd2aae5cb9155f593e6a7dafe4de977099a2eef251a7d97e83e"
+      "sha256": "e0ca53c6a26d7d151d441054891ee08f929946ce3bac53fbdb1c5e68389e8afc"
     },
     {
       "path": "Current/houtu.json",
-      "sha256": "268b37b05a84e60b6db6edf1dab8a1133c836f76e84e0be3a5d830544198f5e6"
+      "sha256": "d8b7b82226b138d71e34823e29534f7f5dac72fc8ffab72c8ef3a91682116275"
     },
     {
       "path": "Current/naraku.json",
-      "sha256": "c9635e00b2bd7be60b71415598ec329bb3291c812308f4c16f6d435709a8bc48"
+      "sha256": "a07ea49cbb576ad7d5239c6d483ad268912ce8d2d6319b2301ab49452b769185"
     },
     {
       "path": "Current/zth.json",
-      "sha256": "d52992c5fbedb2fc483a1a4bfd74059a28465e8c7796a82add315259ed60fa2c"
+      "sha256": "802471b4b11110eb2f2acafeb30a0598bf1ec7ac2ab2d8047205deee3549ec4d"
     },
     {
       "path": "Data_Merge/eden/eden-chunk-001.json",
-      "sha256": "bac209773d5b901cbaadc63a3f8d69b03cf8fce8d74370cae7906b76ef3ebc80"
+      "sha256": "05eb8d10f1ba1a63ba441ba9bf9c8eae8e0b175b5c018ebeccf7ee54d46caa86"
     },
     {
       "path": "Data_Merge/houtu/houtu-chunk-001.json",
@@ -96,6 +96,10 @@
     {
       "path": "Data_Spilt/eden/RLE/INDEX.json",
       "sha256": "22b06b3781daf0559e2187dbc19e9bc7bd34440b2f1573a987c664f1342d82d3"
+    },
+    {
+      "path": "Data_Spilt/eden/ROD/EROD_NHR.json",
+      "sha256": "162ce4f7912967afe53ec5e5b61082cc1b21ad2394b690ce715f40d592ee35e1"
     },
     {
       "path": "Data_Spilt/eden/ROD/INDEX.json",
@@ -4071,7 +4075,7 @@
     },
     {
       "path": "Picture_Index/eden/INDEX.json",
-      "sha256": "d9e92086853933ed8c0d517b88acf429961c5de3f7b560a007f75de4f83567e0"
+      "sha256": "74ef355c5dfb09bcc146aef57b1a7d43579af756d39189fd537ae6c36bb02208"
     },
     {
       "path": "Picture_Index/houtu/INDEX.json",
@@ -4411,7 +4415,7 @@
     },
     {
       "path": "Release_Metadata/chunk-catalog/eden-00.json",
-      "sha256": "3d123c7199328e58f40bd287ecc0399164a832ec05196ed671e6e26b38c85385"
+      "sha256": "d89bd9e21470535eda95837583f1f5bf1bcfebf94d496356fc74bf1d9d6c88de"
     },
     {
       "path": "Release_Metadata/chunk-catalog/houtu-00.json",
@@ -4427,7 +4431,7 @@
     },
     {
       "path": "Release_Metadata/class-ranges/eden.json",
-      "sha256": "cd5ae17e9e61b31b35327c9e548c1796d93f400a14e328840a0ce08f617f9f55"
+      "sha256": "eb3329895c198404ac7a59eb0bfa4f3a9a2834170e45009c69f75ab31452348a"
     },
     {
       "path": "Release_Metadata/class-ranges/houtu.json",
@@ -4443,175 +4447,179 @@
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/07.json",
-      "sha256": "4c868bd426ff066a56d63e1a0d527e8726b445854e2701833d6404d9724dda1f"
+      "sha256": "b39f815ef956a57d6f3d0fa6d4e2fcd469f222e77c1790cff8c0706e148930c9"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/09.json",
-      "sha256": "2df265f5de46790947057cb433ceaaa94c34c338173a113d95377cfe7cfe3f76"
+      "sha256": "a123d7fa5a4ea4104e93ce64f5b902a0b13e48903805d1e1ef79ab1415de0f8f"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/10.json",
-      "sha256": "9f478a0562c283c0fa473d062de9cbaf80000cbc0c2918bb20d41d4f5d2515b2"
+      "sha256": "05e292b212a6ec444e269a3001c718ac7ac8a85f61b94a81b4b10825e6583816"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/14.json",
-      "sha256": "463a27be1f522b3b61090c4ed8c24387920634bc5707a104e5d530a672e6f5c4"
+      "sha256": "8c31fb05a0e1cd7f51421476e22cfd84aefd15cbf17df117a991100f8158bc6d"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/19.json",
-      "sha256": "3dea77b178f9d3c4a3fc3286ff167340fae329fbb25d6e30e0a1020ef6c9fdd5"
+      "sha256": "b00bc003466c37711b83b57ce4830e3c5bd062eb03a206b2e73823ddc307648d"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/1c.json",
-      "sha256": "ac6346714f607506cf5ef9c0481acd745a9eb818e770318e7a39890b7c5446f5"
+      "sha256": "a8104bb47f4a86ce6c897594837d3da0bc3ed6fb1fc58b1588f64ba6f649f2e7"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/25.json",
-      "sha256": "099998db01fdac9b14ffd95be3b5207b45735538b8ff92c50a5478ca445c6c84"
+      "sha256": "50d207d669af4ae62aaa80be4732410e3335fa01669ff05c9bf65df5d6537ec0"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/32.json",
-      "sha256": "9021165bd07c596171f4c70f8ff1fee7a3a58206cb49d0fa15b20aeff6080520"
+      "sha256": "f091d31e101393ba28bc38e706e5e9bf38e793f1c4445089716298587921ba14"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/3a.json",
-      "sha256": "64240b32491361306b39bd788fdb702709e0b4bb06c866d6ef189a82c0506e22"
+      "sha256": "9a6a8c7ff658890846e90b7c0b22b7195c5bafc04b73fc421c05b4f72afcb1c8"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/3b.json",
-      "sha256": "dadc4c8a1a99a6657468019784983dde11fc17b801bc04f2640bb2f560bdefe6"
+      "sha256": "d8d27af105e4853b64d96f0fa15ff3fb7573584ac84e90c359e7cb99bbf8be7e"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/3c.json",
-      "sha256": "48851d08acbb1346f21fa68505e31e43c5f5bf97e214e452f880378c162d4c0d"
+      "sha256": "aec553f2ffe77691cf9b4209010ffdb68867259df1e476c8fa5aad087ba80e0b"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/40.json",
-      "sha256": "dc509aea6a3bbdb082d96951e53998b274f420801ecd6c58038a418295f3d788"
+      "sha256": "37524aab29f8c7badf3f65f8f3bd13eae0b0bad4c7ba3b151b99166099adf5a0"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/45.json",
-      "sha256": "bbd1263890b1d338a400e7c759d361c0698f7077cae4051025c7126eac99cecd"
+      "sha256": "e66867b3bba2ffde10164f75be30a9343b1ecc8eeb22e5266dd045c7ceb995bc"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/46.json",
-      "sha256": "d3d9a9cf560a74a4b45280d858f0dac288af69c998e13848246c49c883fcba21"
+      "sha256": "6c6936e6545cc4ef951ea8a21cbf8ff7154ed35d8a9f949315f16f74a19e0338"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/4c.json",
-      "sha256": "3cb96deaea864ed2dd276c4ea0c918ec38135895de68d758e40a816bca5d10b8"
+      "sha256": "228bc4a0383a5d0666f42b7f703186a043ca997fca1f558f6bb8ec82b0fe5b5d"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/55.json",
-      "sha256": "02857144ae2514eb56163c6f18790d73a604a25cb0d811cf8cc198d79be85246"
+      "sha256": "b5aaf08cede4368dcfd4e624d7d99e607a1e0e203990b0e52a0c269166d19857"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/59.json",
-      "sha256": "c58c26d8df1b9974d3472545ed426fcce5f61203fc59db365b804cfa0b207aa8"
+      "sha256": "dc725ffa45a8153cdbfa00d201c4050dc07136c9d568e5195240bb3015b7829d"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/5e.json",
-      "sha256": "cb1dd386e01dafe4b149a0d2a5671b4761bfac980e289fa87e2d8f912b37deb5"
+      "sha256": "3112137376e7c2d121b4dd95a5c676520fb1a7e7adc944010fc2c3f50b4ad2b8"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/64.json",
-      "sha256": "4d4f1efee0ab02315baeb514962d97455b5ef80ac182812dd0be5e210d0d2e60"
+      "sha256": "7b6effa905a4537a4b6e545b11f7e010ba2c2ab19e561908d17703e4dcf03b4c"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/6c.json",
-      "sha256": "b9eedc0948aba0f1d5db877859fd7f1fbf1244388736df3e71625baa250fafde"
+      "sha256": "edcbe0009b56ce1aeeb59ba1a037ad60dc9173698f30a5321cf9c8cfee9debb5"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/70.json",
-      "sha256": "157d45f7015b3408f4aa424f9c8e954ce43bf8412bd538c87431a7e114b3ac59"
+      "sha256": "d6db8d107ce1e045272ad34a5857c22e1dfd103d9fb0a368a5c25ed59578d299"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/73.json",
-      "sha256": "3a897951c47a4679645293c6f7ea3a38369f373aac6abbea76a43ee67c22e74c"
+      "sha256": "e64f5cbabcf423ed96e5357d40fc7ae1652534d0401e427246a4d4d3440a06ff"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/76.json",
-      "sha256": "046cf6858b677cbf5e6abd66ac9dbdb864762eefe8f6f76d14c9b32452de3f39"
+      "sha256": "7fa8a25a33ad16cd45f229eec34aa083a06e566a809c1f75e6e4e06773994597"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/79.json",
-      "sha256": "8673cb4fcf7865aa54f0e06c65c8158eb13d08c20633dc3f93ca5f7423cc9648"
+      "sha256": "0a70313e466d50cb9e45ccb5d0fa3152bf1ec80517bd31f9060e5acc78088a91"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/86.json",
-      "sha256": "5c1b3fa81c53935a58c4ac055af3c049d0d96773b5d148fe8bcfe9c8c7341ac8"
+      "sha256": "2ceee4f5723e239858826aae492774e11bbf2bd918491c89c783ba08c6f0fae8"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/89.json",
-      "sha256": "7b4fe056529282f409af77d6ec940607afeefbdd65288c4e2d280b85f278f2a3"
+      "sha256": "f0deb62c1b105662158e1056cbe6543b72586e35f89deb285fee9ee0045b25c1"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/8d.json",
-      "sha256": "1cce389a10a060c4b2fe1e07848067418d9e1a55462a80de85817533072017fb"
+      "sha256": "4f7db911ed3f18f5b35c43a5c08c5c941a20982b2d83e24cdec9a7fc20697911"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/97.json",
-      "sha256": "6677fca6deca10bb2958aab8dd899248fa97870f95f1b00e63d6ce9ae31ce0c8"
+      "sha256": "ea6462e950bda6bca0f926fde6476b1326a3c43799fc1a65719691ce113b9cd1"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/99.json",
-      "sha256": "5fc4db2b5e323558eef2b9ae406a8137a654de2ab1dbb3e38fe3c08b43fec2c4"
+      "sha256": "ca3a12848a32c39677b9818ec034db654310f9f045c069f6eedb8efe0f8123f2"
+    },
+    {
+      "path": "Release_Metadata/feature-index-shards/eden/9e.json",
+      "sha256": "67eef5781b46ffcfdfcfaccf385e91adcde06ef9896efa439717efaf57ebaf48"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/a6.json",
-      "sha256": "859e96b2752d48ac1cebf1523cee42f55a6041ec263bc3df531d613bc97f873f"
+      "sha256": "b09c7091df33ec32771a1a5a96d365d5787c5c81f6da7b3cc9b5aef292c109b1"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/b2.json",
-      "sha256": "5e3aeae57b9ca0cc97a0d3811abd90247771ac7ec78a9885a49314ab61fd8768"
+      "sha256": "25d60b7443157ec9d8c278f29589d4a2afdf6de18560e3b17ae37f609807576c"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/b5.json",
-      "sha256": "59ddce751345e4a85a3ac5cf77116aa8023feb09a8c7d706bae23370cf5dbb37"
+      "sha256": "32341b4fddb5d0bd4e4e59aca62f803222f8c0327f91d7bcbbe8a7e579ce0d37"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/b9.json",
-      "sha256": "1892d2c1f32fb399247ad319f0c16474ef990a71ad32d8b6f05cf742e50ec386"
+      "sha256": "b3e4a5934504af2853714331750a213eeef10b5a6e5f7a6e2c7ca862508c2cac"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/be.json",
-      "sha256": "03e0bf85aca3170b22d6a0e8863d464a64e1134042a899108920807b11f03d20"
+      "sha256": "5e38f436b66962222517be1e27568170166f85d30215ae44141da8a98372c987"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/c6.json",
-      "sha256": "3f6c7ed7c85dad8613a98b6fef631c3630e3b2c7b85fe7fb625966729a8612ad"
+      "sha256": "da1e37701b410f4ee2e6661a1003c91641dee2376574efbbb5e7b19579d8c27b"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/c7.json",
-      "sha256": "8a60e96859559fe319a633dafe91ae76b2509a6c7cc16b93bd1f292e883e9e0f"
+      "sha256": "b68c2564ef4a76b2d8cf1a617190550b54574039d90cfcd1b4dacc224a65781c"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/c9.json",
-      "sha256": "0b77cb4e29a279bfa8e4bad493b555d6ec3644e5ceeeb962ac258dae4b8ee25e"
+      "sha256": "99cd2367733e40dffd27cbd5f8f6a8bdae445eb4d679627fc292d24eaa7aa003"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/cc.json",
-      "sha256": "a2000cef15f6bd0617f77f9a152bae5b466a99270228238eec3354d70848223f"
+      "sha256": "9e593e1e570fa99785ac076489597120e3520aebd3306c66d8b3808613df0bb6"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/de.json",
-      "sha256": "b300dbde0c259604cda9d5a400345e479560dec8beeb990b1b18a4f4ad52a85b"
+      "sha256": "78fbe21f321c4b332b22a732a4dfe1b911f6dd7037fd2c9a4d68bfb152f11649"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/f1.json",
-      "sha256": "db82e9857e461631f11280d76232963cba65e7bfcc4ea139ffc42c2b18fe06fb"
+      "sha256": "cc2713795dab997931a20ee143a955fadacaeab2ad3f54ca96236554752c2f08"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/f3.json",
-      "sha256": "3a1fcca3a66a52df216144f6b3d7654b35504cef83287af9b5498fc0c1cc5f30"
+      "sha256": "a5c59a6afd8c6cdacf974abbca8fbd869591925d0ca6e49ed6ec4c763075b4a7"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/f7.json",
-      "sha256": "4bd46eb3437af105099dee5ebf82e5505d78b0c28f06a531d2dcbe7ed77a3aa7"
+      "sha256": "0888d0274af64c65a101565144eab3ff3e2578513f5f971ce3a2f2d8c9812ce0"
     },
     {
       "path": "Release_Metadata/feature-index-shards/eden/ff.json",
-      "sha256": "e84712d96b3de090b1826203127fc1a130b3f30b9b78a6076b1d647bd099fa0e"
+      "sha256": "7e8589d36b099b74075e34f694eea269b59d4f633092fe68b7cf0bc1b06240e0"
     },
     {
       "path": "Release_Metadata/feature-index-shards/houtu/01.json",
@@ -5987,11 +5995,11 @@
     },
     {
       "path": "Release_Metadata/release-manifest.json",
-      "sha256": "218e95cde59030c8d6989ff7e972b59bb9afe8b68db1a0400638c9d28458acd9"
+      "sha256": "9f2fac496e570926be3e715750aa8140b8539bd8a91a05d8e5551243f74a764a"
     },
     {
       "path": "Release_Metadata/worlds/eden.json",
-      "sha256": "b3eed84df958174a3575da60d59983176d88b71c9468b797d5c9bd1667b39c15"
+      "sha256": "673e7d2c735b5e1dd185b856bcd63f2a8fddcbb8cf7c3b24ec3e562e082bc552"
     },
     {
       "path": "Release_Metadata/worlds/houtu.json",
