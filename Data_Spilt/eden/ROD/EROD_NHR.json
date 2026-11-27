@@ -12,11 +12,7 @@
   "Enter": true,
   "Exit": true,
   "SelfJunction": true,
-  "Mode": [
-    {
-      "code": "HORSE"
-    }
-  ],
+  "Mode": [],
   "CreateBy": "Vic_Bloomfield",
   "CreateTime": "20261127",
   "Type": "Polyline",
@@ -1173,5 +1169,7 @@
         -902.5
       ]
     ]
-  ]
+  ],
+  "ModifityBy": "Ozstk639",
+  "ModifityTime": "20261127"
 }
