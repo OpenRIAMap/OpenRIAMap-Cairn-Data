@@ -3,13 +3,14 @@
   "Name": "矿井",
   "tags": {
     "nomenclator": "Aunst",
-    "Pop": "Aunst"
+    "Pop": "Aunst",
+    "Land": "ZNGFLADISD_aunst_island"
   },
   "Type": "Polygon",
   "World": 0,
   "CreateTime": "20260412",
   "CreateBy": "Aunst",
-  "ModifityTime": "20260511",
+  "ModifityTime": "20261127",
   "ModifityBy": "Aunst",
   "CoordG": [
     [
@@ -38,5 +39,7 @@
     ]
   ],
   "Class": "BUD",
-  "Kind": "NOM"
+  "Kind": "NOM",
+  "SKind": "PUB",
+  "ServiceType": "采掘"
 }

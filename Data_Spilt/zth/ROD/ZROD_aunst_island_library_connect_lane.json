@@ -1,7 +1,7 @@
 {
   "ID": "ZROD_aunst_island_library_connect_lane",
   "Name": "图书馆连接道",
-  "Kind": "NOM",
+  "Kind": "SED",
   "Level": -1,
   "Oneway": false,
   "Enter": true,
@@ -18,8 +18,18 @@
   "CreateBy": "Aunst",
   "CoordL": [
     [
-      [-4353, -64, -7798.5],
-      [-4368, -64, -7798.5]
+      [
+        -4353,
+        -64,
+        -7798.5
+      ],
+      [
+        -4368,
+        -64,
+        -7798.5
+      ]
     ]
-  ]
+  ],
+  "ModifityBy": "Aunst",
+  "ModifityTime": "20261127"
 }

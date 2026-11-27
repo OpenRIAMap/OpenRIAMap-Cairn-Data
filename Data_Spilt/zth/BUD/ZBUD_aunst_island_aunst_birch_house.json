@@ -3,7 +3,8 @@
   "Name": "Aunst的白桦屋",
   "tags": {
     "nomenclator": "Aunst",
-    "Pop": "Aunst"
+    "Pop": "Aunst",
+    "Land": "ZNGFLADISD_aunst_island"
   },
   "Type": "Polygon",
   "World": 0,
@@ -46,5 +47,13 @@
     ]
   ],
   "Class": "BUD",
-  "Kind": "NOM"
+  "Kind": "NOM",
+  "SKind": "RES",
+  "Builder": "Aunst",
+  "UnitCount": 1,
+  "FloorsAbove": 2,
+  "FloorsBelow": 2,
+  "ModifityBy": "Aunst",
+  "ModifityTime": "20261127",
+  "User": "Aunst"
 }

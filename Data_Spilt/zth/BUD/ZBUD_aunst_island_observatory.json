@@ -86,5 +86,9 @@
     ]
   ],
   "Class": "BUD",
-  "Kind": "NOM"
+  "Kind": "NOM",
+  "SKind": "CUL",
+  "Builder": "Aunst",
+  "ModifityBy": "Aunst",
+  "ModifityTime": "20261127"
 }

@@ -3,13 +3,14 @@
   "Name": "金岛神社",
   "tags": {
     "nomenclator": "Aunst",
-    "Pop": "Aunst"
+    "Pop": "Aunst",
+    "Land": "ZNGFLADISD_aunst_island"
   },
   "Type": "Polygon",
   "World": 0,
   "CreateTime": "20260412",
   "CreateBy": "Aunst",
-  "ModifityTime": "20260412",
+  "ModifityTime": "20261127",
   "ModifityBy": "Aunst",
   "CoordG": [
     [
@@ -133,5 +134,7 @@
     ]
   ],
   "Class": "BUD",
-  "Kind": "NOM"
+  "Kind": "LAR",
+  "SKind": "CUL",
+  "Builder": "Aunst"
 }

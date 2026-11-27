@@ -3,7 +3,8 @@
   "Name": "农舍",
   "tags": {
     "nomenclator": "Aunst",
-    "Pop": "Aunst"
+    "Pop": "Aunst",
+    "Land": "ZNGFLADISD_aunst_island"
   },
   "Type": "Polygon",
   "World": 0,
@@ -36,5 +37,9 @@
     ]
   ],
   "Class": "BUD",
-  "Kind": "NOM"
+  "Kind": "NOM",
+  "SKind": "RES",
+  "ModifityBy": "Aunst",
+  "ModifityTime": "20261127",
+  "Builder": "Aunst"
 }

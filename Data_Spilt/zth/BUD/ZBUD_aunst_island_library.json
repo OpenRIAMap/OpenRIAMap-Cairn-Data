@@ -127,5 +127,15 @@
     ]
   ],
   "Class": "BUD",
-  "Kind": "NOM"
+  "Kind": "NOM",
+  "SKind": "CUL",
+  "FacilityFunction": "图书捐赠、借阅",
+  "ModifityBy": "Aunst",
+  "ModifityTime": "20261127",
+  "extensions": {
+    "character": {
+      "brief": "金岛图书馆是金岛唯一一座专门图书馆。图书馆坐落在一处天然洞穴中。对洞穴的探索在2021年初由mo_yi完成，图书馆在2024年8月建成。"
+    }
+  },
+  "Builder": "Aunst"
 }

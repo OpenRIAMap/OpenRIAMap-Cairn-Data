@@ -37,5 +37,11 @@
     ]
   ],
   "Class": "BUD",
-  "Kind": "NOM"
+  "Kind": "NOM",
+  "SKind": "PUB",
+  "Operator": "Aunst",
+  "ServiceType": "留言",
+  "ModifityBy": "Aunst",
+  "ModifityTime": "20261127",
+  "Builder": "Aunst"
 }

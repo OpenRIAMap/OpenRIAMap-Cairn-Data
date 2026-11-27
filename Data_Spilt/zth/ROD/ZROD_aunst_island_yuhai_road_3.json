@@ -1,14 +1,15 @@
 {
   "ID": "ZROD_aunst_island_yuhai_road_3",
   "Name": "玉海路",
-  "Kind": "NOM",
+  "Kind": "SEC",
   "Level": 0,
   "Oneway": false,
   "Enter": true,
   "Exit": true,
   "SelfJunction": false,
   "tags": {
-    "nomenclator": "Aunst"
+    "nomenclator": "Aunst",
+    "Land": "ZNGFLADISD_aunst_island"
   },
   "Type": "Polyline",
   "Class": "ROD",
@@ -17,13 +18,43 @@
   "CreateBy": "Aunst",
   "CoordL": [
     [
-      [-4368, -64, -7774],
-      [-4368, -64, -7772],
-      [-4366.5, -64, -7770.5],
-      [-4356.5, -64, -7770.5],
-      [-4356.5, -64, -7775.5],
-      [-4358.5, -64, -7778.5],
-      [-4358.5, -64, -7788.5]
+      [
+        -4368,
+        -64,
+        -7774
+      ],
+      [
+        -4368,
+        -64,
+        -7772
+      ],
+      [
+        -4366.5,
+        -64,
+        -7770.5
+      ],
+      [
+        -4356.5,
+        -64,
+        -7770.5
+      ],
+      [
+        -4356.5,
+        -64,
+        -7775.5
+      ],
+      [
+        -4358.5,
+        -64,
+        -7778.5
+      ],
+      [
+        -4358.5,
+        -64,
+        -7788.5
+      ]
     ]
-  ]
+  ],
+  "ModifityBy": "Aunst",
+  "ModifityTime": "20261127"
 }

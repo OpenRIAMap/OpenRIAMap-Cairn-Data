@@ -37,5 +37,11 @@
     ]
   ],
   "Class": "BUD",
-  "Kind": "NOM"
+  "Kind": "SUB",
+  "SKind": "BUM",
+  "SKind2": "AUX",
+  "NofFloor": "1",
+  "BuildingID": "ZBUD_aunst_island_shrine",
+  "ModifityBy": "Aunst",
+  "ModifityTime": "20261127"
 }
