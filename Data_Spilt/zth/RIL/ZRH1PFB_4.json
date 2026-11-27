@@ -1,0 +1,37 @@
+{
+  "ID": "ZRH1PFB_4",
+  "Name": "海华图书馆",
+  "LineID": "ZRH1_A",
+  "World": "zth",
+  "Class": "RIL",
+  "Kind": "PFB",
+  "CreateBy": "Aut_moon_white",
+  "CreateTime": "20261128",
+  "Type": "Polygon",
+  "CoordG": [
+    [
+      [
+        [
+          9426,
+          -64,
+          9261
+        ],
+        [
+          9454,
+          -64,
+          9261
+        ],
+        [
+          9454,
+          -64,
+          9299
+        ],
+        [
+          9426,
+          -64,
+          9299
+        ]
+      ]
+    ]
+  ]
+}

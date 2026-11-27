@@ -1,0 +1,32 @@
+{
+  "ID": "ZRH1PLF_4_D",
+  "Name": "海华图书馆-西站台",
+  "Situation": true,
+  "Connect": true,
+  "lines": [
+    {
+      "ID": "ZRH1_A_D",
+      "stationCode": 4,
+      "Avaliable": true,
+      "Overtaking": false,
+      "getin": true,
+      "getout": true,
+      "NextOT": false
+    }
+  ],
+  "World": "zth",
+  "Class": "RIL",
+  "Kind": "PLF",
+  "CreateBy": "Aut_moon_white",
+  "CreateTime": "20261128",
+  "Type": "Points",
+  "CoordP": [
+    [
+      9437.5,
+      -64,
+      9280
+    ]
+  ],
+  "ModifityBy": "Aut_moon_white",
+  "ModifityTime": "20261128"
+}

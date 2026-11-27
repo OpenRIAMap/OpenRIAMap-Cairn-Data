@@ -1,0 +1,37 @@
+{
+  "ID": "ZRH1PFB_5",
+  "Name": "西石星三岛",
+  "LineID": "ZRH1_A",
+  "World": "zth",
+  "Class": "RIL",
+  "Kind": "PFB",
+  "CreateBy": "Aut_moon_white",
+  "CreateTime": "20261128",
+  "Type": "Polygon",
+  "CoordG": [
+    [
+      [
+        [
+          9432,
+          -64,
+          9484
+        ],
+        [
+          9448,
+          -64,
+          9484
+        ],
+        [
+          9448,
+          -64,
+          9516
+        ],
+        [
+          9432,
+          -64,
+          9516
+        ]
+      ]
+    ]
+  ]
+}

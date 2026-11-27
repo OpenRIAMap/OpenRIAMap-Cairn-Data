@@ -1,0 +1,26 @@
+{
+  "ID": "ZRH1STA_5",
+  "Name": "西石星三岛",
+  "STBuilding": "ZRHSTB_XSXSD",
+  "platforms": [
+    {
+      "ID": "ZRH1PLF_5_D"
+    },
+    {
+      "ID": "ZRH1PLF_5_U"
+    }
+  ],
+  "World": "zth",
+  "Class": "RIL",
+  "Kind": "STA",
+  "CreateBy": "Aut_moon_white",
+  "CreateTime": "20261128",
+  "Type": "Points",
+  "CoordP": [
+    [
+      9440,
+      -64,
+      9500
+    ]
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ID": "ZRH1STA_4",
+  "Name": "海华图书馆",
+  "STBuilding": "ZRHSTB_HHTSG",
+  "platforms": [
+    {
+      "ID": "ZRH1PLF_4_D"
+    },
+    {
+      "ID": "ZRH1PLF_4_U"
+    }
+  ],
+  "World": "zth",
+  "Class": "RIL",
+  "Kind": "STA",
+  "CreateBy": "Aut_moon_white",
+  "CreateTime": "20261128",
+  "Type": "Points",
+  "CoordP": [
+    [
+      9440,
+      -64,
+      9280
+    ]
+  ],
+  "ModifityBy": "Aut_moon_white",
+  "ModifityTime": "20261128"
+}
