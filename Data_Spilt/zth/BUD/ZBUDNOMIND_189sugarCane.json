@@ -1,0 +1,55 @@
+{
+  "World": "zth",
+  "Class": "BUD",
+  "Kind": "NOM",
+  "SKind": "IND",
+  "ID": "ZBUDNOMIND_189sugarCane",
+  "Name": "朝阳工业甘蔗机",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/朝阳工业#甘蔗机"
+    }
+  },
+  "Status": true,
+  "Situation": true,
+  "Operator": "朝阳工业",
+  "Contact": "Aut_moon_white",
+  "Access": "全服",
+  "Public": true,
+  "ProductionType": "检查甘蔗机状态为开机后，在附近挂机即可",
+  "Products": [
+    {
+      "product": "甘蔗",
+      "efficiency": "11000/h\n3360核\n"
+    }
+  ],
+  "CreateBy": "Aut_moon_white",
+  "CreateTime": "20261128",
+  "Type": "Polygon",
+  "CoordG": [
+    [
+      [
+        [
+          9120,
+          -64,
+          8416
+        ],
+        [
+          9153,
+          -64,
+          8416
+        ],
+        [
+          9153,
+          -64,
+          8464
+        ],
+        [
+          9120,
+          -64,
+          8464
+        ]
+      ]
+    ]
+  ]
+}
