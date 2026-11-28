@@ -1,0 +1,45 @@
+{
+  "World": "eden",
+  "Class": "ADM",
+  "Kind": "DBZ",
+  "SKind": "L1",
+  "ID": "EADMDBZL1_QZF",
+  "Name": "石英地",
+  "extensions": {
+    "link": {
+      "wiki": "https://wiki.ria.red/wiki/石英地"
+    },
+    "character": {
+      "brief": "17×17区块范围空置域工业区，提供自动附魔广场与荧光墨囊、火药、混凝土、熟猪排等多种物资。"
+    }
+  },
+  "CreateBy": "Karlren",
+  "CreateTime": "20261128",
+  "Type": "Polygon",
+  "CoordG": [
+    [
+      [
+        [
+          -2544,
+          -64,
+          2272
+        ],
+        [
+          -2544,
+          -64,
+          2544
+        ],
+        [
+          -2271,
+          -64,
+          2545
+        ],
+        [
+          -2271,
+          -64,
+          2271
+        ]
+      ]
+    ]
+  ]
+}
